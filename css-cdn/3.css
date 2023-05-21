@@ -1,6 +1,19 @@
-300gospodarka.pl
+3.basecamp.com
+CSS
+body, .nav__main {
+    background-color: ${white};
+}
+@media screen and (min-width: 768px){
+    .panel--perma, .panel--project {
+        box-shadow: rgba(0, 0, 0, 0.05) 0px -1px 10px, rgba(0, 0, 0, 0.1) 0px 1px 4px, rgb(24, 26, 27) 0px 10px 30px;
+    }
+}================================300gospodarka.pl
 300polityka.pl
 INVERT
 #logo
 img[alt="300Gospodarka"]
-img[alt="Zespół 300Gospodarki"]
+img[alt="Zespół 300Gospodarki"]================================37.com
+INVERT
+.logo37================================3dmark.com
+INVERT
+.logo

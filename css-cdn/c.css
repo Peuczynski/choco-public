@@ -1,11 +1,188 @@
-cdaction.pl
+c60.la.coocan.jp
+CSS
+body {
+    background-image: none !important;
+}================================caddy.community
+INVERT
+.logo-big================================caddyserver.com
+INVERT
+#logo
+#zerossl-logo
+#footer-logo
+CSS
+.hero {
+    background-image: none !important;
+}================================cadence.com
+INVERT
+.logo================================caf.fr
+CSS
+#theme-contenu-cnaf .row[class*="conteneur-"][class*="-cnaf"] > [class*="col-"],
+#theme-contenu-menu-background-cnaf {
+    background-image: none !important;
+}================================caiyunapp.com
+INVERT
+#icon_current
+#logo-name[src="/imgs/logo/logo-website.png"]
+#map_canvas================================cake.avris.it
+CSS
+line[style*="stroke: black"],
+polygon[style*="stroke: black"] {
+    stroke: white !important;
+    --box-a: 0.1 !important;
+}
+text {
+    fill: white !important;
+}
+IGNORE INLINE STYLE
+*================================caldigit.com
+CSS
+.elementor-widget-heading .elementor-heading-title[class*="elementor-size-"] > a {
+    color: var(--darkreader-neutral-text) !important;
+}================================calendar.google.com
+INVERT
+div[style*="gm_add_black"]
+CSS
+div[role="checkbox"] > div > div > div {
+    border: 1px solid ${black} !important;
+}
+div[role="dialog"] div[role="slider"][data-saturation] div:nth-child(2) {
+    background-image: linear-gradient(to right,#fff 0%,rgba(255,255,255,0) 100%) !important;
+}
+IGNORE INLINE STYLE
+div[role="checkbox"]
+div[role="dialog"] div[role="slider"]
+div[role="dialog"] div[role="slider"] div[style]
+div[role="dialog"] div[role="button"][data-contrast]================================calibre-ebook.com
+IGNORE IMAGE ANALYSIS
+.tooltip
+#content-wrapper================================calvinklein.us
+INVERT
+.star:not(.star-active)
+.star-half================================canakit.com
+INVERT
+#homePageIcon================================candidates.ibo.org
+INVERT
+img#ibLogo================================canva.com
+INVERT
+#__next > div > section > div[style^="background-color"]
+img[src*="category-public.canva.com/icons/"]
+CSS
+._8aslVA svg path {
+    fill: ${black} !important;
+}================================canvas.*.edu
+INVERT
+.file_download_btn================================canvas.usask.ca
+CSS
+#questions .text img {
+    background-color: currentColor !important;
+}================================caramba-switcher.com
+INVERT
+.t996__cover================================cargurus.com
+CSS
+select > option,
+select > optgroup,
+select > optgroup > option {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.homepage.redesign .ddC2dBanner .ddBannerSection .ddBannerSectionFigure .ddBannerSectionFigureWrapper {
+    background-image: url(https://static-assets.cargurus.com/images/site-p2p/homePageBanner/DD_Mobile_606bb2f4286d575e9a21b2f3ac776e8dd33d0deccf409fe1598859361ce63c05.png) !important;
+}================================carmax.com
+CSS
+.recall__placeholder,
+.vehicle-history__placeholder {
+    background-color: ${yellow} !important;
+}
+#recall .recall__header *,
+#recall .recall--link span {
+    color: #2a343d !important;
+}
+#recall svg,
+.vehicle-history__placeholder .vehicle-history a svg {
+    fill: #053361 !important;
+}
+#recall a,
+.vehicle-history__placeholder .vehicle-history a {
+    color: #004487 !important;
+}================================castbox.fm
+INVERT
+.nav-item.right.msg
+.nav-item.right.upload
+.nav-item.right.search
+.userNav-img[src="https://s3.castbox.fm/webstatic/images/userIcon.06c408dc.png"]
+.heart
+.playbackRate.timing.icon================================castos.com/player/
+INVERT
+.playback__controls
+button[class="player-btn__speed"][aria-label="Playback Speed"]
+.play-pause-controls================================catalog.update.microsoft.com
+CSS
+#headerBox,
+#searchButtonBox,
+#searchGlowBottomBox,
+#searchGlowPart4aBox,
+#searchGlowPart4bBox,
+#searchGlowPart8aBox,
+#searchGlowPart8bBox,
+#searchGlowTopBox,
+.ResultsHeaderTD,
+.dialogBody,
+.mainBody,
+.mainBodyHome,
+.tabInactive {
+    background-image: none !important;
+}================================catt.rs/en/latest
+CSS
+code.literal {
+    background-color: unset !important;
+}================================cbpp.org
+INVERT
+.navbar-brand================================cbsnews.com
+CSS
+.content__read-more {
+    color: var(--darkreader-neutral-color) !important;
+}================================cdaction.pl
 INVERT
 a[href="/"] svg
-footer > div > svg================================ceneo.pl
+footer > div > svg================================cdc.gov
+INVERT
+.cdc-logo path[fill="#000"]
+img[src="/niosh/images/si-no-left-vp4.png"]================================cdimage.ubuntu.com
+INVERT
+.p-navigation__logo
+CSS
+#main {
+    background-image: none !important;
+}================================cdn5.dcbstatic.com
+CSS
+#image942Img {
+    display: none !important;
+}
+li {
+    list-style-image: none !important;
+    list-style-type: circle !important;
+}================================cdn77.com
+INVERT
+a[class^="Nav_logo"]================================cdp.contentdelivery.nu
+CSS
+body {
+    background-image: none !important;
+}================================cdrtools.sourceforge.net
+CSS
+body {
+    background-image: none !important;
+}================================celio.com
+INVERT
+.ec_account__user
+.ec_header__logo
+.ec_minicart__user
+.ec_search__link
+.ec_store__locator================================ceneo.pl
 INVERT
 [data-new-icon]::before
 .cat-prod-row__product-link::after
-.add-to-favorite::after================================centrum24.pl
+.add-to-favorite::after================================central.proxyvote.com
+INVERT
+.custom-control-label::after================================centrum24.pl
 INVERT
 #mobile-applications .jumbotron
 .headerLogo.bankLogo
@@ -14,14 +191,125 @@ img[src*="GOALS.png"]
 .mc-close-x-button-svg================================centrumxp.pl
 INVERT
 .badge-partner
-.img-responsive================================chessprogramming.org
+.img-responsive================================cfos-emobility.de
+CSS
+.navbar {
+    background-image: none !important;
+}================================cfos.de
+CSS
+div[style*="keyboard-light.jpg"],
+div[style*="organizer-light.jpg"],
+div[style*="data-center-light.jpg"],
+div[style*="speed-dial-light.jpg"] {
+    background-image: none !important;
+}================================changkun.de
+CSS
+.content h2, h3 {
+    z-index: 0 !important;
+}================================charitynavigator.org
+INVERT
+img[alt="Charity Navigator Logo"]================================chase.com
+INVERT
+.single-logo-icon
+CSS
+.menu-button-item {
+    color: var(--darkreader-neutral-text) !important;
+}================================cheapshark.com
+CSS
+.header {
+    border-top: 10px solid #000 !important;
+}================================check.spamhaus.org
+INVERT
+.gradient-yellow
+header .curve
+header .logo================================checkout.minecraft.net
+IGNORE INLINE STYLE
+symbol#esrb [fill="#000"]
+symbol#esrb [fill="#fff"]================================chem.libretexts.org
+INVERT
+.internal================================chessprogramming.org
 INVERT
 .mw-parser-output div[class^='float'] > a > img:not(.thumbimage):not(.thumbborder)
 .mw-wiki-logo
 IGNORE IMAGE ANALYSIS
-.mw-wiki-logo================================citybuzz.pl
+.mw-wiki-logo================================chilkatsoft.com
+CSS
+body {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}================================chinadigitaltimes.net
 INVERT
-img[alt="CityBuzz"]================================classroom.google.com
+.show-menu-button span
+CSS
+#main-header-wrapper {
+    background-image: none !important;
+}================================chinauos.com
+INVERT
+.brand
+CSS
+.choose {
+    background-image: none !important;
+}================================chipotle.com
+INVERT
+.banner-title
+.banner-subtitle
+.banner-legal================================christinamin9-ancientromancivilisation.weebly.com
+CSS
+.landing-page #main-wrap,
+.tall-header-page #main-wrap,
+.short-header-page #main-wrap,
+.no-header-page #main-wrap {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}================================chtoes.li
+INVERT
+.illustration
+.menu-page
+.menu-item================================churchofjesuschrist.org
+INVERT
+svg
+CSS
+.container,
+#PFmainFooter {
+    background: var(--darkreader-neutral-background) !important
+}================================ci.appveyor.com
+CSS
+select {
+    background-image: none !important;
+}================================cinedrome.ch
+CSS
+body {
+    background-image: none !important;
+}================================circleci.com/docs
+CSS
+body {
+    background-image: none !important;
+}================================circt.llvm.org
+mlir.llvm.org
+CSS
+header {
+    background: none !important;
+}================================circuit-diagram.org
+INVERT
+.components-list .item .image================================cisce.org
+INVERT
+.nav-wrapper
+hgroup================================citilink.ru
+INVERT
+div[class$="RatingDetail__progress_active"]
+CSS
+.OldPageLayout {
+    color: var(--darkreader-neutral-text) !important;
+}
+IGNORE INLINE STYLE
+.Icon================================cityam.com
+INVERT
+.site-logo__image
+.menu-item a::before================================citybuzz.pl
+INVERT
+img[alt="CityBuzz"]================================citymapper.com
+INVERT
+#map================================classroom.google.com
 INVERT
 img[src$="dark_create_class_arrow.svg"]
 img[aria-label="YouTube"]
@@ -32,6 +320,331 @@ div[role="toolbar"] div[role="button"] > div[class*='-']:not([onclick]):not(:lin
 div[style="bottom: 0px;"] > div[style^="opacity:"] div[role="button"] > div:not([onclick]):not(:link):not(:visited),
 li[guidedhelpid="classworkTopicListGh"]:not(hover) > div {
     opacity: 99% !important;
+}================================cleantechnica.com
+CSS
+body {
+    background-image: none !important;
+	background-color: #1d1e1f !important;
+}================================clever.com
+CSS
+img[alt="i-Ready icon"], img[alt="Google Meet icon"], img[alt="Google icon"] {
+    background-color: white !important;
+}
+.background-container {
+    z-index: 1 !important;
+}================================click.endnote.com
+INVERT
+img[src="/static/images/settings/web-of-science.png"]================================click.endnote.com/viewer?doi=
+INVERT
+canvas================================clients.servarica.com
+INVERT
+.logo================================cloud.databricks.com
+pages.databricks.com
+*.azuredatabricks.net
+INVERT
+.figure
+#sparkui-iframe-body #plan-viz-graph svg g.cluster rect
+#sparkui-iframe-body #plan-viz-graph svg g.node rect
+CSS
+text {
+    fill: ${black};
+}
+.cm-string {
+    color: rgb(132, 179, 235) !important;
+}
+.cm-keyword {
+    color: rgb(232, 121, 172) !important;
+}
+.cm-variable-2 {
+    color: rgb(97, 215, 255) !important;
+}
+li.CodeMirror-hint {
+    font-family: Source Code Pro, Menlo, monospace;
+}
+span[role="presentation"] {
+    color: ${black} !important;
+}
+.CodeMirror-cursor {
+    border-left-color: ${black} !important;
+}
+.ansiout {
+    color: ${rgb(85, 85, 85)} !important;
+}
+.rm-modal {
+    background: var(--darkreader-neutral-background) !important;
+}================================cloudflare.com
+CSS
+.cover {
+    background-image: none !important;
+}
+IGNORE INLINE STYLE
+.footer-bottom-row-margin > div > a > svg > path================================cloudhostnews.com
+INVERT
+.site-title================================cloudinfrastructuremap.com
+INVERT
+canvas.mapboxgl-canvas================================cloudlinux.com
+INVERT
+img.mega-menu-logo================================cloudways.com
+INVERT
+.md-button.md-primary.md-raised================================cnbc.com
+INVERT
+.RenderKeyPoints-list li::before
+.WatchLiveRightRail-logo
+CSS
+div[class^="FeaturedStories-styles-makeit-background"]::before {
+    opacity: 0.1 !important;
+}================================cnki.net
+INVERT
+.hello-yx-box
+.klogin_header_Logo
+.search-main > .input-box > .search-btn
+.Logo
+CSS
+.foot-top {
+    background-image: none !important;
+}
+.hello-yx-box {
+    color: var(--darkreader-neutral-background) !important;
+}================================cnn.com
+INVERT
+[data-test="section-link"] > svg:not(.business-logo-icon)
+img.metadata-header__logo
+CSS
+#header-nav-container::before {
+    border-bottom-color: transparent !important;
+}
+IGNORE INLINE STYLE
+svg.cnn-badge-icon
+svg.cnn-badge-icon > rect
+svg.politics-logo-icon
+svg.business-logo-icon================================cobaltstrike.com
+cobalt-strike.github.io
+INVERT
+.navbar-brand================================code.qt.io
+INVERT
+td[class="logo"]
+select
+input================================code.visualstudio.com
+CSS
+.home.linux .jumbotron .screenshot {
+    background-image: url("/assets/home/home-screenshot-linux.png");
+    padding-bottom: 82.65802%
+}
+@media only screen and (min-width: 1200px) {
+    .home.linux .jumbotron .screenshot {
+        background-image: url("/assets/home/home-screenshot-linux-lg.png");
+        padding-bottom: 68%;
+    }
+}================================codeberg.org
+codeberg-test.org
+CSS
+main header .header-background-image {
+    filter: brightness(50%) sepia(40%) !important;
+}
+main header .header-title {
+    z-index: 1 !important;
+}================================codecademy.com
+INVERT
+.CodeMirror-cursors
+.CodeMirror-selected
+span[class^="burger"]================================codeforces.com
+INVERT
+#header > div:first-child img
+#userActivityGraph rect[data-items=""]
+.delete-resource-link
+.action-link img
+.non-decorated img[src$="tablesorter-bg.gif"]
+.tex-formula
+CSS
+.datatable,
+.datatable > div,
+.roundbox {
+    border-radius: 6px;
+}
+.lt,
+.rt,
+.lb,
+.rb,
+.ilt,
+.irt,
+.roundbox-lt,
+.roundbox-rt,
+.roundbox-lb,
+.roundbox-rb {
+    display: none;
+}
+.backLava,
+.leftLava {
+    border-radius: 4.5px;
+}
+.backLava,
+.leftLava,
+.bottomLava,
+.cornerLava {
+    background: ${#BEBEBE} !important;
+}
+.sidebar-menu ul li {
+    border-color: transparent !important;
+}
+.highlighted-row td,
+.highlighted-row th{
+    background-color: ${rgb(195, 205, 215)} !important;
+}
+#footer img[alt="TON"] {
+    border-radius: 50%;
+}
+IGNORE INLINE STYLE
+#userActivityGraph rect================================codewars.com
+INVERT
+.logo================================codingame.com/ide
+CSS
+.cg-statement .statement-body span.var,
+.cg-statement .statement-body var {
+   color: var(--darkreader-neutral-background) !important;
+}================================coinbase.com
+CSS
+.hjbuvQ,
+.kfQbHv {
+    fill: ${black} !important;
+}================================coindesk.com
+INVERT
+svg[class^="desktop-navigationstyles__StyledLogo"]================================colasoft.com
+INVERT
+img[alt="Colasoft"]================================coliss.com
+CSS
+body,
+#container3,
+#sidebar {
+    background-image: none !important;
+}================================color-hex.com
+INVERT
+img[src*="logo"]
+.bgwhite
+.bgwhite > .previewbox
+IGNORE INLINE STYLE
+.colordvaline
+.colordva
+.palettecolordiv================================colorhunt.co
+IGNORE INLINE STYLE
+.palette > div================================colorpicker.me
+IGNORE INLINE STYLE
+html
+body
+button================================colors.dopely.top
+INVERT
+.footer
+.color-selector-icon
+CSS
+input.number-slider {
+    filter: invert(10%) saturate(0%) !important;
+}
+img[src*="svg"], .title {
+    filter: invert(50%) !important;
+}
+.accountDopely__letter,
+.editProfile__changeProfilePicture {
+    filter: saturate(0%) brightness(50%) !important;
+}
+div[class*="text"],
+a[class*="header"],
+.navbar-dropdown-item__logo,
+.navbar__listItem__button {
+    filter: saturate(0%) !important;
+}
+IGNORE INLINE STYLE
+.ExpandPalette *
+.toner-colors-container *
+.color-picker================================comenius.susqu.edu
+CSS
+body,
+table,
+td {
+    background-image: none !important;
+}================================comicfury.com
+CSS
+#wrapper {
+    background-color: inherit !important;
+    padding-bottom: 10px !important;
+}
+#footer {
+    margin-top: 0px !important;
+}================================comingsoon.net
+CSS
+body, main {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================comixology.com
+INVERT
+.comixology-logo
+.primary-heading
+.heading-content
+.try-now
+.unlimited-disclaimer================================comma.ai
+INVERT
+.comma-header-logo
+.comma-two-benefit-icon
+.comma-landing-reviews-logo================================commons.wikimedia.org
+INVERT
+.mw-mmv-filepage-buttons .mw-mmv-view-expanded .mw-ui-icon::before
+.mw-mmv-filepage-buttons .mw-mmv-view-config .mw-ui-icon::before
+.mwe-math-fallback-image-inline
+.mwe-math-fallback-image-display
+.licensetpl td[style^="width"]
+img[alt="audio speaker icon"]
+IGNORE IMAGE ANALYSIS
+.mw-wiki-logo================================commonvoice.mozilla.org
+INVERT
+div:not(.logo-container) > .main-logo
+.hero-box .fading
+.waves
+.mars + .screenshot
+#help-links img
+.button.outline.rounded.hidden-sm-down img
+.text-button.contribute-more-button.secondary path
+CSS
+.language-select .current {
+    --white: var(--darkreader-bg--white) !important;
+}================================commscope.com
+INVERT
+.commscope-logo================================community.cloudflare.com
+CSS
+:root {
+    --darkreader-text--primary-medium: ${gray} !important;
+}================================community.notepad-plus-plus.org
+INVERT
+.forum-logo================================community.ntppool.org
+INVERT
+#site-logo================================community.progress.com
+CSS
+:root {
+    --lwc-colorContentAreaBackground: var(--darkreader-neutral-background) !important;
+    --lwc-pageHeaderColorBackground: ${rgb(243, 243, 243)} !important;
+}================================compass.pressekompass.net
+INVERT
+.logo-holder .brand-logo
+IGNORE INLINE STYLE
+text================================computerhope.com
+INVERT
+#text-tool > p > img================================comsol.com
+INVERT
+div.latex
+div.Eqn================================confectioneryproduction.com
+INVERT
+#mainLogo img================================confluence.*
+INVERT
+.gliffy-text-with-shape-parent-primary
+.gliffy-text-with-shape-parent-secondary
+.gliffy-text-with-shape-parent-tertiary
+.gliffy-text-with-shape-parent-highlight
+CSS
+.geDiagramContainer rect,
+.geDiagramContainer path {
+    filter: brightness(60%);
+}================================consent.yahoo.com
+INVERT
+.consent-wizard-body > .image-container > .image.yahoo================================console-openshift-console.*
+CSS
+.pf-c-dropdown__menu {
+    background-color: var(--darkreader-neutral-background) !important;
 }================================console.cloud.google.com
 CSS
 .cfc-ng2-region .cfc-text-title-3 {
@@ -42,10 +655,224 @@ CSS
 }
 input[type=text] {
     color: var(--darkreader-neutral-text) !important;
-}================================cowkrakowie.pl
+}================================consumerlab.com
+INVERT
+#overlay-toggle > .collapsed
+.header-link-home
+CSS
+span[style*="background-color: rgb(255, 255, 0)"] {
+    background-color: #550 !important;
+}================================contacts.google.com
+INVERT
+img[src*="rotate"]================================containertoolbx.org
+CSS
+body, img, video, iframe {
+    filter: none !important;
+}================================convertio.co
+INVERT
+.logo svg > :last-child
+.api-cta-icon > svg
+.logos.no-select > *
+CSS
+.softobar.js-softobar, .footer {
+    background-color: #1c1f20 !important;
+}
+.ct-tab {
+    border-bottom-color: #525252 !important;
+}
+.footer-sitemap {
+    border-bottom-color: #3e3e3e !important;
+}
+.col.copyright > p.logo > a {
+    color: #9D9488;
+}
+.col.copyright > p.logo > a > svg > use {
+    filter: none !important;
+}================================cookiepedia.co.uk
+INVERT
+.main-logo
+.footer-logo================================coolblue.be
+coolblue.nl
+hotorangemedia.nl
+IGNORE INLINE STYLE
+.header__logo-image > path================================coolors.co
+CSS
+.generator_color {
+    color: #fff !important;
+}
+.generator_color.is-light {
+    color: #000 !important;
+}
+IGNORE INLINE STYLE
+#generator *================================coopgames.eu
+INVERT
+img[alt="Online Co-Op"]
+img[alt="Local Co-Op"]
+img[title="PS2"]
+img[title="PS3"]
+img[title="PS4"]
+img[title="PSP"]
+img[title="PS Vita"]
+img[title="DS"]
+img[title="3DS"]
+img[title="Switch"]================================coosp.etr.u-szeged.hu
+INVERT
+.latex================================copitosystem.com
+CSS
+body {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}================================corriere.it
+INVERT
+.footer__content div div img================================corsair.com
+INVERT
+img.desktop
+img[src="/_ui/responsive/common/images/icon_cart_empty.png"]
+a.cart-close
+input#search-btn================================costplusdrugs.com
+INVERT
+img[src$="MCCP-wordmark-denim.png"]================================courses.fit.cvut.cz
+CSS
+body {
+    color: #909090;
+}
+.App.in-search {
+    background-color: #212121 !important;
+}
+.UserMenu .user-initials {
+    background-color: #616161 !important;
+}
+.CoursesItem .column-info > a:hover {
+    color: #58c1ffba;
+}
+header {
+    background-color: #212121 !important;
+}
+pre {
+    color: #a8a6ab
+}
+.header {
+    background: none;
+    border-bottom: 1px solid #676767;
+}
+main img {
+    opacity: 0.8;
+}
+a {
+    color: #58c1ffba
+}================================covims.org
+INVERT
+img[alt="Covims Logo.png"]================================cowkrakowie.pl
 INVERT
 .logo
-.nav-logo================================czasnastopy.pl
+.nav-logo================================cplusplus.com
+CSS
+#I_mid, #I_top {
+    background-image: none;
+}
+img[src$=".png"] {
+    background-color: white;
+}================================cppm3144.itdhosting.de
+CSS
+.ppm_button {
+    background: ${white} !important;
+}
+.tableContent img {
+    background-image: url("https://cppm3144.itdhosting.de/niku/ui/uitk/images/odf.png") !important;
+}================================cqksy.cn
+INVERT
+td[background="image/Index_QI_CenterBar.gif"]
+CSS
+table {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+td[background="image/Index_QI_CenterBar.gif"],
+td[background="image/Index_QI_CenterBar.gif"] a {
+    color: ${white} !important;
+}================================crates.io
+IGNORE INLINE STYLE
+svg[class^="_logo"] *================================creative.com
+INVERT
+div.small-logo img.creative-logo
+body:not(body[class^="storepage"]) div#all img.creative-logo
+.sb-upgrade > h3
+.sb-upgrade > p
+.tws-series > h3
+.tws-series > p
+CSS
+.input::placeholder  {
+    color: var(--darkreader-neutral-text) !important;
+}================================creditkarma.com
+INVERT
+.navi-logo================================crowdin.com
+INVERT
+.crowdin-navbar__logo
+svg.logo-icon-projects
+.file_type.file_folder.file_branch
+#master-loader > .master-loader-logo
+#master-loader-progress.bar================================crunchbase.com
+INVERT
+.identifier-nav
+.tab-label
+CSS
+.mat-tab-label-active {
+    color: var(--darkreader-neutral-background) !important;
+}================================crutchfield.com
+INVERT
+.logo-module svg================================cryptostorm.is
+INVERT
+img[src*="lock.png"]
+img[src*="storm.png"]
+CSS
+body > div {
+    background-image: none !important;
+}================================cs61a.org
+CSS
+table#calendar td {
+    border-color: var(--darkreader-neutral-background) !important;
+}================================css-tricks.com
+CSS
+.article-article {
+    background: ${white} !important;
+}================================cubawiki.com.ar
+INVERT
+.mwe-math-fallback-image-inline
+.mwe-math-fallback-image-display================================curseforge.com
+IGNORE IMAGE ANALYSIS
+.e-generic-header================================cxp.cengage.com
+INVERT
+.owl_item_container img[src*=".gif"]
+.ci-feedback img[src*=".gif"]
+label img[src*=".gif"]
+span.MathJax_SVG g[stroke="black"]
+CSS
+.owl_item_container img[src*=".GIF"] {
+    background-color: ${black};
+}
+font[color="white"] {
+    color: transparent !important;
+}
+div.tool-container.gradient > .controlButtons {
+    background-image: none;
+}
+div.tool-container.gradient {
+    box-shadow: none;
+}
+IGNORE INLINE STYLE
+span.MathJax_SVG g================================cyberlink.com
+INVERT
+.logo_pc================================cynkra.com
+INVERT
+.btn-outline-dark
+.shadow
+.navbar-dark .navbar-brand
+.cynkra-logo-font
+CSS
+.btn-outline-secondary {
+    color: var(--darkreader-neutral-text) !important;
+}================================cyprus-mail.com
+INVERT
+.custom-logo-link================================czasnastopy.pl
 INVERT
 .brandinglogo-wrap================================czypada.pl
 INVERT

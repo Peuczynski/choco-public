@@ -1,9 +1,161 @@
-ebok.pgnig.pl
+e.foundation
+INVERT
+img.attachment-full.size-full================================ea.com
+INVERT
+.left_context .context dl dd.select
+.modifyMobilePhoneBtn
+CSS
+img[src*="white-bg-ea-bg-global-white"] {
+    display: none !important;
+}
+body.origin-com,
+.left_context .context {
+    background-image: none !important;
+}
+.body_foot .language .select_language .languageText,
+.buttonstyle_3 span,
+.origin-ux-drop-down-selection > span,
+.origin-ux-button-primary > span,
+.origin-ux-button-secondary > span {
+    color: var(--darkreader-neutral-background) !important;
+}================================eapteka.ru
+INVERT
+ymaps[class$="ground-pane"]
+ymaps[class$="svg-icon-content"] > ymaps================================easybib.com/guides
+INVERT
+.hamburger-toggle svg================================easypost.com
+INVERT
+.logo
+.progress-bar================================eatthis.com
+INVERT
+svg.site-logo
+CSS
+.header-leading-authority {
+    background-color: var(--darkreader-neutral-background);
+}================================eblocker.org
+INVERT
+.site-logo-img
+figure[class="aligncenter size-large is-resized"]================================ebok.pgnig.pl
 INVERT
 img[src*="logo"]================================ebok.vectra.pl
 CSS
 .side-floater {
     background-image: none !important;
+}================================ebooks.cpm.org
+INVERT
+img[alt="Review and Preview problems below"]================================economist.com
+INVERT
+#ds-wordmark-1843 path:nth-child(5)
+IGNORE INLINE STYLE
+#ds-economist-logo > path
+.ds-share-link > svg > g > circle================================edmworldmagazine.com
+INVERT
+.q_logo================================edmworldshop.com
+INVERT
+.site-nav__link--burger
+.site-header__logo-image================================edstem.org
+CSS
+.tab-bar-dark .active .tbb-tab-side .fill {
+    fill: rgb(34, 37, 38) !important;
+}
+.tab-bar-dark .tbb-tab-side .fill {
+    fill: rgb(26, 28, 29) !important;
+}================================education.github.com
+INVERT
+img[alt="GitHub Education"]
+.octicon-logo-github================================eduke32.com
+CSS
+.main {
+    background-image: none !important;
+}================================edulastic.com
+INVERT
+img.keyboardButton================================eduserver.ru
+CSS
+section.content {
+    background: var(--darkreader-neutral-background) !important;
+}================================eevblog.com
+CSS
+#main_content_section > div > span,
+#quickModForm > div > span,
+#main_content_section > span {
+    mix-blend-mode: color !important;
+}
+.frame,
+.plainbox,
+#header,
+#content_section,
+#footer_section {
+   background: var(--darkreader-neutral-background) !important;
+   color: var(--darkreader-neutral-text) !important;
+}================================eff.org
+INVERT
+#masthead #main-menu-nav form.search-site button[type="submit"]
+CSS
+select > optgroup,
+select > optgroup > option {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+#masthead #main-menu-nav .pane-main-nav-menu > ul > li a::before {
+    background-color: var(--darkreader-neutral-text) !important;
+}================================elearning.utdallas.edu
+INVERT
+.contentBox.contentBox-edit
+.content.clearfix================================electrical-symbols.com
+INVERT
+.table-striped img================================electrical4u.com
+INVERT
+img[src*="equation"]================================electricitymap.org
+INVERT
+.name
+.circular-gauge
+img[alt="logo"]
+.capacity
+.mapboxgl-canvas================================element.io
+INVERT
+.header--logo--img
+.ems-nav__logo================================elementalmatter.info
+INVERT
+[src$="atom.gif"]
+[src$="periodic-atomic.gif"]
+CSS
+td {
+    background: var(--darkreader-neutral-background) !important;
+}================================elementary.io
+IGNORE INLINE STYLE
+.logotype-svg================================eletimes.com
+INVERT
+.tdb-logo-img================================elp.northumbria.ac.uk
+INVERT
+.selected-answer================================emacswiki.org
+CSS
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================endeavouros.com
+INVERT
+.navbar-brand================================endoflife.date
+CSS
+.bg-green-000, .bg-yellow-200, .bg-red-000 {
+    color: var(--darkreader-neutral-text) !important;
+}================================endomondo.com
+INVERT
+.header-shop-logo
+.footer-shop-logo
+.eoFeedWorkout-map-image
+.workoutMap img[src*="maps"]
+CSS
+.highcharts-background{
+    fill: rgb(24, 26, 27) !important;
+}
+.highcharts-data-labels text{
+    text-shadow: none !important;
+}================================enduhub.com
+CSS
+.navbar .nav > li > a {
+    text-shadow: rgb(40, 43, 54) 0px 1px 0px !important;
+}
+.blurme, .blurme a {
+    filter: unset;
+    color: inherit;
 }================================enea.pl
 INVERT
 .menu__logo
@@ -16,7 +168,79 @@ CSS
 .bkg-icon,
 .left-bkg-icon {
     color: ${white} !important;
-}================================experiencia.xpi.com.br
+}================================enjen.net
+CSS
+body {
+    background-image: none !important;
+}
+input.input-medium {
+    background-image: none !important;
+}
+select.input-small {
+    background-image: none !important;
+}================================ernestjones.co.uk
+INVERT
+.logo__img================================esbuild.github.io
+CSS
+.progress {
+    background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, #181a1b 25%, #181a1b 75%, rgba(255, 255, 255, 0) 100%);
+}================================eshop-switch.com
+INVERT
+.logo================================eshot.gov.tr
+CSS
+a.navbar-brand img {
+    filter: hue-rotate(90deg) invert(1) hue-rotate(90deg) saturate(15);
+}
+#heading .left, #heading .sub-menu .left-xs, #heading .sub-menu .right-xs {
+    background-color: transparent !important;
+    background-image: none !important;
+}
+section#announcements-area .container {
+    background-image: none;
+}================================esphome.io
+INVERT
+img.component-image================================esquire.com
+INVERT
+.nav-logo
+CSS
+.marquee-logo-link > svg {
+    background-color: ${black} !important;
+}================================estadao.com.br
+INVERT
+#puzzleHolder
+.puzzleField================================etherrag.blogspot.com
+CSS
+body {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}================================etsy.com
+INVERT
+.banner-container
+.secondary-banner-title
+.wt-radio label::before
+.review-star.rating:not(.lit)
+div.rating.nolit:not(:hover) > .ss-star================================eukhost.com
+INVERT
+.navbar-brand================================everdermlaser.hu
+INVERT
+.icon-salient-cart
+.icon-salient-m-user================================evernote.com
+INVERT
+.global-logo svg================================evga.com
+INVERT
+.evga-logo-box
+CSS
+.product-specs .RadTabStrip .rtsLI .rtsLink {
+    background-image: none !important;
+}================================ewybory.eu
+INVERT
+.navbar-brand================================exmo.me
+INVERT
+canvas================================expedia.com
+INVERT
+.uitk-header-brand-logo================================experian.com
+INVERT
+.logo================================experiencia.xpi.com.br
 INVERT
 #yield-portal-header a.xpi__header__logo svg path
 #yield-portal-header a.xpi__error__logo svg path
@@ -24,4 +248,27 @@ INVERT
 CSS
 #chart-patrimony g[role='menu'] ~ g tspan {
     color: var(--darkreader-neutral-text) !important;
+}================================explainxkcd.com
+INVERT
+.mwe-math-fallback-image-inline
+.mwe-math-fallback-image-display
+.mw-ext-score
+.main-footer-menuToggle
+img[src*="Loudspeaker.svg"]
+img[alt="The Signpost"]
+CSS
+.diff-addedline .diffchange {
+    background-color: ${lightblue} !important;
 }
+.diff-deletedline .diffchange {
+    background-color: ${#feeec8} !important;
+}
+IGNORE INLINE STYLE
+.legend-color
+.infobox > tbody > tr > td[style*="background-color"]================================expressjs.com
+CSS
+body {
+    background-image: none !important;
+}================================ezgif.com
+INVERT
+#logo

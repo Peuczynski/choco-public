@@ -1,0 +1,12 @@
+40ton.net
+INVERT
+.td-main-logo================================4t-niagara.com
+CSS
+.download_link > h3,
+.buy_link > h3 {
+    color: ${#88c1ff} !important;
+}
+.download_link li,
+.buy_link li {
+    color: ${white} !important;
+}

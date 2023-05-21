@@ -1,7 +1,275 @@
-whitemad.pl
+w.atwiki.jp
+CSS
+.atwiki-contents-shadow,
+.main_wrapper {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.atwiki-jp-bg2 {
+    color: var(--darkreader-neutral-background) !important;
+}================================w3.org
+INVERT
+img[alt*="equation" i]================================wacom.com
+INVERT
+img.full-size-logo
+a.logo
+div.minicart-wrapper
+a.footer-brand
+CSS
+img, div.bg-layer, div.flickity-viewport, canvas {
+    filter: brightness(50%) sepia(40%) !important;
+}================================wakamaifondue.com
+CSS
+.upload-button > strong, .upload-button > span {
+    color: ${white} !important;
+}================================walbrzych24.com
+INVERT
+a.social-icons__icon img
+img.page-header__logo
+img.page-footer__img================================wallet.myalgo.com
+IGNORE INLINE STYLE
+.export-qr-code > *================================walmart.com
+CSS
+.intro-banner__container {
+    z-index: 0 !important;
+}
+label.w_cA4b[data-automation-id="pickup-store"] > svg > circle {
+    fill: #9ca9cd !important;
+}
+label[data-automation-id="pickup-store"] > svg > circle {
+    fill: #404658 !important;
+}================================wanikani.com
+CSS
+#question-type.meaning {
+    color: var(--darkreader-neutral-color) !important;
+    background-image: linear-gradient(rgb(98, 98, 98), rgb(41, 44, 46)) !important;
+}================================warframe.com
+INVERT
+.HeaderNavigationBar-logo
+CSS
+.wrapper {
+    background-image: none !important;
+}================================wasd.tv
+INVERT
+.volume-interaction-area > div
+.stream-status-live-badge================================washingtonpost.com
+INVERT
+.hp-masthead
+.switch
+.switch::after
+CSS
+.flex * {
+    border: none !important;
+}
+nav[data-qa="secondary-nav"] {
+    border-left-color: transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+}
+span[data-testid="headline"] {
+    color: var(--darkreader-neutral-text-color)
+}
+footer, div {
+    border-left-color: transparent !important;
+    border-right-color: transparent !important;
+}
+div[data-qa="desktop-copyright"] {
+    border-left-color: transparent !important;
+    border-right-color: transparent !important;
+    border-bottom-color: transparent !important;
+}
+IGNORE INLINE STYLE
+.center > svg > path[fill="white"]================================waze.com
+INVERT
+.wm-map__leaflet
+.leaflet-bottom
+.leaflet-popup-content-wrapper================================weather.com
+INVERT
+div[class*="DynamicMap"]
+svg[name="arrow-up"]
+svg[name="arrow-down"]
+text[class*="DonutChart"]
+IGNORE INLINE STYLE
+[id^="svg-symbol"] *
+svg[class*="alerts--"] *
+#svg-symbol-sun================================weather.com.cn
+INVERT
+.w_logo
+#hourHolder
+CSS
+.lv1,
+.lv2,
+.weatherBg01,
+.weatherBgAll,
+.weatherBgAll01,
+.weatherBgAll02,
+.weatherBgAll03 {
+    background-image: none !important;
+}================================web.archive.org
+INVERT
+.sparkline-canvas
+.sparkline-mouse-highlight
+.search-toolbar-logo
+.ia-wordmark
+CSS
+.measure {
+    z-index: 0 !important;
+}
+IGNORE IMAGE ANALYSIS
+.search-toolbar-logo================================web.dev
+CSS
+.w-aside--gotchas,
+.w-aside--key-term {
+    color: #b98fff;
+}
+.w-aside--gotchas::after,
+.w-aside--key-term::after {
+    background-color: #b98fff;
+}================================web.microsoftstream.com
+INVERT
+.vjs-progress-holder
+.vjs-volume-bar================================web.telegram.org
+INVERT
+.composer_emoji_tooltip_category
+.nano-slider
+.divider
+CSS
+.progress-bar {
+    background-color: rgba(255,255,255,.9) !important;
+}================================web.whatsapp.com
+CSS
+#app ._2I5ox {
+    border: 15px solid white !important;
+}
+span[data-icon="default-user"] path.primary {
+    fill: var(--avatar-placeholder-primary) !important;
+}================================webaim.org
+CSS
+body {
+    background-image: none !important
+}================================webassign.net
+CSS
+body {
+    color: var(--darkreader-neutral-text);
+}
+#webAssign {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+#webAssignMain,
+#webAssignContent {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+img[alt~="key"] {
+    background-color: ${black} !important;
+}================================webbrowsertools.com
+CSS
+.tile {
+    background-color: var(--darkreader-neutral-background);
+}================================webkitgtk.org
+CSS
+#main_wrapper {
+    background-image: none !important;
+}================================weblate.org
+INVERT
+h5.list-group-item-heading > svg
+img[src="/static/state/lock.svg"]
+img[src="/static/state/link.svg"]
+img[src="/static/state/source.svg"]
+img[src="/static/auth/password.svg"]
+img[src="/static/auth/email.svg"]
+img[src="/static/auth/github.svg"]
+path[d^="M12,4V2A10,10"]
+img[src="/static/state/link.svg"]================================webmd.com
+INVERT
+.blogs-webmd-logo-img
+.global-nav-logo================================webpagetest.org
+CSS
+.scrollableTable table,
+.results-filmstrip-container img,
+div:not(.compare_contain_wrap) > div.waterfall-container img,
+div.overflow-container > *,
+.breakdownFrame_item > div > *,
+.experiment_opportunities-resolved ol > *,
+.experiments_details_desc > ul li {
+    mix-blend-mode: normal !important;
+}================================webroot.com
+INVERT
+.logo================================webtoons.com
+CSS
+.info {
+    color: rgb(0,0,0) !important;
+}================================wego.here.com
+INVERT
+#map
+.route_card_left
+.route_tooltip_icon
+.btn_directions================================weightwatchers.com
+INVERT
+span[class*="NavigationSlice_logo"]================================wellandgood.com
+INVERT
+.nav-trigger
+.logo================================wellrx.com
+INVERT
+.logo================================wenxuecity.com
+INVERT
+.logo================================wepe.com.cn
+INVERT
+#u0_img================================wesbos.com
+CSS
+footer > div > div:not(.bottom) {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================westerndigital.com
+INVERT
+.desktop-brand-logo================================westlaw.com
+CSS
+.co_hl.blue,
+.highlightBox.blueBox {
+   background-color: ${lightblue} !important;
+}
+.co_hl.purple,
+.highlightBox.purpleBox {
+   background-color: ${#bd73bd} !important;
+}================================what-if.xkcd.com
+INVERT
+.illustration
+.archive-image
+.logo================================whatsapp.com
+INVERT
+span[data-icon="audio-download"]
+.landing-main .invisible-space > span
+div.landing-header > span > svg
+#wafaq_search_input
+CSS
+[data-asset-intro-image], [data-asset-intro-image-light] {
+    background-image: url(/img/intro-connection_c98cc75f2aa905314d74375a975d2cf2.jpg) !important;
+}
+html[dir] .landing-main > :first-child > :nth-child(2) > :first-child {
+    border: 16px solid white !important;
+}
+span[data-icon="tail-in"] {
+    color: rgb(30, 36, 39) !important;
+}
+span[data-icon="tail-out"] {
+    color: rgb(4, 57, 51) !important;
+}
+div#subheader {
+    background-image: url(https://static.whatsapp.net/rsrc.php/v1/yQ/r/dPFl9fRFF9u.jpg) !important;
+    background-size: 100% !important;
+}
+IGNORE INLINE STYLE
+path[fill="currentColor"]
+path[fill="#FFFFFF"]
+.landing-main svg path================================whitemad.pl
 INVERT
 #logo
-#cb-nav-logo================================wiadomoscihandlowe.pl
+#cb-nav-logo================================who.int
+INVERT
+.background-url-holder > picture > img================================whois.arin.net/ui/advanced.jsp
+CSS
+td, div#content div#subcontent div.box ul li {
+    background-image: none !important
+}================================whois.com
+INVERT
+img[src^="logo.gif"]================================wiadomoscihandlowe.pl
 INVERT
 .dropdown-portal__link
 .hamburger__button span
@@ -10,15 +278,764 @@ INVERT
 .KW__headerContainer
 .logo
 .map-container
-img[src*="carriers/"]================================wiesci24.pl
+img[src*="carriers/"]================================wiemy.to
 INVERT
-.tdb-logo-img================================wirtualnemedia.pl
+img.site-logo
+.content-font__icon
+.font-dropdown__item================================wiesci24.pl
 INVERT
-img[src$="logo-black.gif"]================================wszystkoconajwazniejsze.pl
+.tdb-logo-img================================wiki.facepunch.com
+CSS
+body {
+    background-color: transparent !important;
+}
+.content {
+    background-image: none !important;
+}================================wiki.mozilla.org
+CSS
+body {
+    background-image: none !important;
+}================================wiki.teamfortress.com
+INVERT
+.mw-wiki-logo
+CSS
+body,
+#mw-page-base,
+#p-logo,
+#content,
+#footer {
+    background-image: none !important;
+}
+div.vectorTabs ul li.selected a,
+#searchInput::placeholder {
+    color: var(--darkreader-neutral-text) !important;
+}================================wiki.ubuntuusers.de
+CSS
+table:not([class]),
+table[class^="zebra"] {
+    background-image: none !important;
+}================================wiki.unity3d.com
+CSS
+div#content,
+#pt-login,
+div.vectorTabs,
+div.vectorTabs *,
+.portal *,
+div.vectorMenu,
+div.vectorMenu h5 a,
+div#footer,
+div#footer * {
+    background-image: none !important;
+}================================wikibooks.org
+INVERT
+.bookend
+.mwe-math-fallback-image-inline
+.mwe-math-fallback-image-display
+img[alt="audio speaker icon"]
+IGNORE INLINE STYLE
+.infobox td================================wikidata.org
+INVERT
+.wd-mp-headerimage
+.mwe-math-fallback-image-inline
+.mwe-math-fallback-image-display
+img[alt="audio speaker icon"]
+IGNORE IMAGE ANALYSIS
+.mw-wiki-logo================================wikimapia.org
+INVERT
+#map================================wikimedia.de
+INVERT
+.logo================================wikimedia.org
+INVERT
+img[src="images/black.png"]
+img[alt="audio speaker icon"]
+CSS
+div.mw-warning-with-logexcerpt,
+div.mw-lag-warn-high,
+div.mw-cascadeprotectedwarning,
+div#mw-protect-cascadeon,
+div.titleblacklist-warning,
+div.locked-warning {
+    background-color: ${#ffa9a9} !important;
+    border-color: ${#ffa1a1} !important;
+}================================wikimediafoundation.org
+INVERT
+.nav-logo================================wikimediastatus.net
+INVERT
+.logo-container================================wikinews.org
+wikiquote.org
+INVERT
+.bookend
+img[alt="audio speaker icon"]================================wikipedia.org
+wikiless.org
+INVERT
+.mwe-math-fallback-image-inline
+.mwe-math-fallback-image-display
+.mw-ext-score
+.mw-logo-wordmark
+.mw-logo-tagline
+.mw-wiki-logo
+.central-textlogo__image
+.svg-Wikimedia-logo_black
+header .branding-box > a > span > img
+.main-footer-menuToggle
+div.post-content.footer-content > h2 > img
+.mw-hiero-outer.mw-hiero-table
+#p-logo-text
+body > .oo-ui-windowManager .vega .marks
+.minerva-footer-logo img
+.music-symbol img
+.tool.tool-button[src$="background-image:"]
+.mw-kartographer-map
+.mw-kartographer-mapDialog-map
+img[alt="audio speaker icon"]
+img[src*="Wiktionary-logo"]
+.locmap .pl
+.locmap .pr
+CSS
+.mwe-popups-discreet > img,
+div .thumbimage[src$=".png"],
+div .thumbimage img[src$=".png"],
+.image-carousel .image-loaded{
+    background-color: white;
+}
+.mw-mmv-image .svg,
+.fullImageLink [src*=".svg"],
+a[href$=".svg"]:hover > img,
+a[href*=".gif"]:hover > img {
+    background-color: rgba(255, 255, 255, 0.75) !important;
+    background-blend-mode: color;
+}
+.diff-addedline .diffchange {
+    background-color: ${lightblue} !important;
+}
+.diff-deletedline .diffchange {
+    background-color: ${#feeec8} !important;
+}
+@keyframes unseen-fadeout-to-unread {
+    from {
+        background-color: ${#dce8ff} !important;
+    }
+    to {
+        background-color: ${#ffffff} !important;
+    }
+}
+@keyframes unseen-fadeout-to-read {
+    from {
+        background-color: ${#dce8ff} !important;
+    }
+    to {
+        background-color: ${#eaecf0} !important;
+    }
+}
+.main-top {
+    background: none !important;
+}
+ol.references li:target,
+sup.reference:target {
+    background-color: ${lightblue} !important;
+}
+.control-bar {
+    background-color: var(--darkreader-neutral-background) !important;
+    background-image: none !important;
+}
+.k-player,
+body.mediawiki,
+#dialogEngineContainer #dialogEngineDialog {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.template-facttext {
+    background-color: #eaecf0 !important;
+}
+#mw-page-base {
+  background-color: var(--darkreader-neutral-background);
+  background-image: linear-gradient(rgb(24, 26, 27) 50%, var(--darkreader-neutral-background) 100%);
+}
+IGNORE INLINE STYLE
+.legend-color:not(table.wikitable .legend-color)
+#on_image_elements span
+IGNORE IMAGE ANALYSIS
+.k-player .k-menu-bar li a================================wikisource.org
+wikiversity.org
+wikivoyage.org
+INVERT
+.mwe-math-fallback-image-inline
+.mwe-math-fallback-image-display
+.mw-wiki-logo
+.central-textlogo
+img[alt="logo Wikisource"]
+img[alt="Video Camera Icon.svg"]
+img[alt="audio speaker icon"]================================wikitech.wikimedia.org
+INVERT
+img[alt="audio speaker icon"]
+IGNORE IMAGE ANALYSIS
+.mw.wiki-logo================================wikiwand.com
+INVERT
+img.mwe-math-fallback-image-inline
+img.mwe-math-fallback-image-display
+img.immediate:not(.ntmb)
+.title_icon
+img.logo_img
+td.icon
+li.menu-tooltip:not(.lang_btn)
+#main_menu > li:not(.lang_btn) > img.logo_img ~ i
+.article_btn .drop_down li a > i
+.feedback_btn .drop_down li a > i================================wiktionary.org
+INVERT
+.bookend
+.central-featured-logo-text
+.zh-glyph img
+img[alt="audio speaker icon"]
+.mw-logo-wordmark
+CSS
+div.NavFrame div.NavHead {
+    background-image: none !important;
+}================================wildberries.ru
+INVERT
+ymaps[class$="ground-pane"]
+ymaps[class$="svg-icon-content"] > ymaps================================willthompson.co.uk
+INVERT
+body
+body > *================================windows.php.net
+CSS
+#content-columns .block,
+#page-area .content {
+    background-image: none !important;
+}
+#content-columns .block .corners-top,
+#content-columns .block .corners-bottom,
+#page-area .content .corners-top,
+#page-area .content .corners-bottom {
+   filter: invert(91%) !important;
+}
+IGNORE IMAGE ANALYSIS
+#content-columns .block .corners-top
+#content-columns .block .corners-bottom
+#page-area .content .corners-top
+#page-area .content .corners-bottom
+#content-columns .block .corners-top span
+#content-columns .block .corners-bottom span
+#page-area .content .corners-top span
+#page-area .content .corners-bottom span
+#main-column .innerbox .corners-top
+#main-column .innerbox .corners-bottom
+#mid-column .innerbox .corners-top
+#mid-column .innerbox .corners-bottom
+#main-column .innerbox .corners-top span
+#main-column .innerbox .corners-bottom span
+#mid-column .innerbox .corners-top span
+#mid-column .innerbox .corners-bottom span================================windscribe.com
+CSS
+#body_wrap > div.blue-bg.blue-top > div.twinkling-blue {
+    background-image: none;
+}================================winzip.com
+INVERT
+.navbar-brand================================wired.co.uk
+wired.com
+INVERT
+body a svg
+a[data-testid="Logo"]
+.c-nav__open-icon
+.c-nav__close-icon
+.standard-navigation__logo-image > img================================wireshark.org
+INVERT
+.navbar-brand================================wirtualnemedia.pl
+INVERT
+img[src$="logo-black.gif"]================================wmar2news.com
+INVERT
+.PageLogo-image
+.wx-nav > img================================word-view.officeapps.live.com
+INVERT
+img.WACPageImg================================wordnik.com
+INVERT
+img[alt="wordnik logo"]
+.footer-logo================================wordpress.com
+INVERT
+svg.masterbar__wpcom-wordmark
+div.wp-login__footer.wp-login__footer--jetpack > img
+CSS
+svg.social-icons.social-icons__apple.social-icons--enabled {
+    fill: white !important;
+}
+.p2020-sidebar {
+    background-image: none !important;
+    background: var(--darkreader-neutral-background);
+}
+.block-editor-rich-text__editable {
+    color: var(--darkreader-neutral-text);
+}
+.block-editor-block-list__layout .block-editor-block-list__block::after {
+    box-shadow: none !important;
+}================================workona.com
+INVERT
+.style-module--unchecked--208a1================================worldcubeassociation.org
+CSS
+.event-checkbox input[type="checkbox"] + i.cubing-icon,
+.event-checkbox input[type="radio"] + i.cubing-icon,
+.event-radio input[type="checkbox"] + i.cubing-icon,
+.event-radio input[type="radio"] + i.cubing-icon {
+    color: rgba(0, 0, 0, 1) !important;
+}
+IGNORE IMAGE ANALYSIS
+.flag-icon-pl
+.flag-icon-kr
+.flag-icon-fi
+.flag-icon-jp
+.flag-icon-ru
+.flag-icon-si
+.flag-icon-co
+.flag-icon-lt
+.flag-icon-sk
+.flag-icon-bg
+.flag-icon-ve
+.flag-icon-ge
+.flag-icon-ec
+.flag-icon-pk
+.flag-icon-uy
+.flag-icon-mg
+.flag-icon-pa
+.flag-icon-cy
+.flag-icon-bh
+.flag-icon-mt
+.flag-icon-bt
+.flag-icon-jm================================worldometers.info
+INVERT
+#coronavirus-cases-log.active .highcharts-background
+#coronavirus-deaths-log.active .highcharts-background
+#coronavirus-cases-linear.active .highcharts-background
+#coronavirus-deaths-linear.active .highcharts-background================================worldtimebuddy.com
+CSS
+body,
+.clientarea > :first-child {
+    background-image: none !important;
+}================================wowturkey.com
+CSS
+body {
+    background: none !important;
+}
+.cevapButton {
+    background-image: none !important;
+}
+span.postdetails span.name a {
+    background: transparent !important;
+}
+IGNORE INLINE STYLE
+.cevapButton
+span.name a================================wpshout.com
+INVERT
+a[rel="home"] > img
+CSS
+.site-title {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================writefreely.org
+INVERT
+img[src*="writefreely.svg"]
+img[src*="icon.svg"]
+img[src*="i.snap.as/"]
+span================================wszystkoconajwazniejsze.pl
 CSS
 #papier img {
     mix-blend-mode: normal !important;
-}================================wyborcza.pl
+}================================wuffs.org
+CSS
+.heavyShower {
+    background-color: ${#e4b849} !important;
+}
+.lightShower {
+    background-color: ${#ff9} !important;
+}
+.wday-0, .wday-6 {
+    background: ${#ccc} !important;
+}
+.wday-0 .mWeekday,
+.wday-6 .mWeekday {
+    color: ${#000059} !important;
+}
+select:focus {
+    color: var(--darkreader-selection-text) !important;
+}================================wunderground.com
+CSS
+.bar-on {
+   fill: rgba(0, 0, 0, 0.4) !important;
+}================================wvpublic.org
+INVERT
+.Page-header-logo
+.chevron================================www.123cha.com
+INVERT
+.logo================================www.adjust.com
+INVERT
+.homepage .a-section:first-child::before
+CSS
+.a-section.bg-gradient {
+    --bg-gradient-end: ${white} !important;
+    --bg-gradient-start: var(--darkreader-neutral-background) !important;
+}================================www.androidauthority.com
+INVERT
+header > a > svg
+header > div > button > svg
+footer > div > div > a > svg
+CSS
+footer {
+    background-image: none !important;
+}================================www.bilibili.com
+INVERT
+.bpx-player-sending-area
+.bpx-player-video-info
+CSS
+.login-scan-box {
+    background: white !important;
+}
+.bili-mini-content-wp .login_qrcode_tip {
+    width: 173px !important;
+    height: 173px !important;
+    left: 0px !important;
+    top: 0px !important;
+}
+.qrcode {
+    background: white !important;
+}================================www.bromite.org
+CSS
+body,
+#container {
+    background-image: none !important;
+}================================www.ebay.*
+www.ebay.*.*
+CSS
+html,
+body {
+    background-image: none !important;
+}================================www.encyclopedia-titanica.org
+CSS
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+    background-image: none !important;
+}================================www.flickr.com
+IGNORE INLINE STYLE
+#icon-flickr_logo_dots path================================www.freepascal.org/docs-html
+INVERT
+img================================www.freeriderhd.com
+CSS
+#game-container {
+    background-color: #cdcdcd !important;
+}================================www.gamer.com.tw
+CSS
+body {
+    background-image: none !important;
+}================================www.google.*
+www.google.*.*
+INVERT
+.gb_hc
+.gb_ec
+.gb_x.gb_Vb
+.gb_x.gb_Ub
+.gb_0b
+#dictionary-modules img[src*="png"]
+a.gb_b > div
+a[href*="about/products"][title]
+.JOmIqc
+.hLcKi
+#EcMbV
+#wrap a[href="/mobile/"]
+.vk-sf-b
+.vk-t-btn
+.ChZgtd div::before
+.ChZgtd div::after
+.yPHXsc div
+.mn-dwn-arw
+img.act-icon-dark-gray
+.YsGUOb
+.tays_show_more_answer_button_hide
+.tays_show_more_answer_button_show
+#tays_add_more_answers_button_hide
+#tays_add_more_answers_button
+img[src^="https://www.google.com/maps"]
+[data-attrid="formula-image"]
+[data-attrid^="variable"] img
+[src^="/chrome/static/images/thank-you/"]
+[src^="/chrome/static/images/reversible/"]
+[src="/chrome/static/images/gpay/slate.png"]
+[src^="/chrome/static/images/productivity/"]
+[src^="/chrome/static/images/features/phone"]
+[src^="/chrome/static/images/features/big_phone"]
+[src^="/chrome/static/images/be-more-productive/"]
+[src^="/chrome/static/images/search-bar/chrome-ui"]
+[src="/chrome/static/images/go-mobile/qr-code.png"]
+[src^="/chrome/static/images/download-browser/pixel"]
+[src^="/chrome/static/images/browser-by-google/pixel"]
+[src^="/chrome/static/images/sync-incognito/chrome-ui"]
+[src^="/chrome/static/images/download-browser/big_pixel"]
+[src="/chrome/static/images/homepage/homepage_tools.png"]
+[src="/chrome/static/images/homepage/homepage_privacy.png"]
+[src="/chrome/static/images/google-translate/screen-english.png"]
+#shield-ok-fill-shield
+CSS
+.RNNXgb,
+.aajZCb {
+    box-shadow: 0 0 2px 0 ${rgba(0,0,0,0.16)}, 0 0 0 1px ${rgba(0,0,0,0.08)} !important;
+}
+.Gor6zc {
+    background-color: white !important;
+}
+img[id^="platop"] {
+    background-color: white !important;
+}
+.chr-full-bleed-hero {
+    background-image: none !important;
+}
+html,
+body,
+img, [role="img"], video, iframe,
+#gb,
+a[href^="https://shopping.google.com"][href*="/lists"] > span {
+    filter: none !important;
+}
+IGNORE INLINE STYLE
+.kdPwrb
+.rnt3Ze
+.NYcQFd
+#shield-ok-fill-shield================================www.hapo.org
+INVERT
+.section__overlap[style*="/new-site/background-swoosh.png"]================================www.inu-manga.com
+CSS
+.bs .bsx .limit .type.Manhwa, .listupd .utao.styletwo .uta .imgu .type.Manhwa {
+    background-image: url("/wp-content/themes/mangareader/assets/images/manhwa.png") !important;
+}
+.bs .bsx .limit .type.Manga, .listupd .utao.styletwo .uta .imgu .type.Manga {
+    background-image: url("/wp-content/themes/mangareader/assets/images/manga.png") !important;
+}================================www.jetbrains.com
+IGNORE INLINE STYLE
+linearGradient[id*="svg"] > stop
+radialGradient[id*="svg"] > stop
+svg[class*="logo"]
+#__SVG_SPRITE_NODE__ > symbol > path
+#__SVG_SPRITE_NODE__ > symbol > g================================www.jiqizhixin.com
+INVERT
+.header__logo================================www.khirevich.com
+INVERT
+.fig > img================================www.linuxcollections.com
+INVERT
+html
+body
+CSS
+body {
+    background-image: none !important;
+}================================www.liqpay.ua
+INVERT
+div.qrcode > canvas================================www.mayoclinic.org
+INVERT
+.mc-logo
+.logo > a > img[alt="Mayo Clinic"]
+img[src="/-/media/images/mayologo.png"]
+img[src="/styles/img/gbs/logo-mayoclinic-mobile.png"]
+CSS
+ul#nav.nav > li.no-image > a,
+ul#nav.nav > li.current > a {
+    background-image: url("/UniversalNav/Styles/img/sprite-globalnavarrows.png") !important;
+}================================www.menti.com
+INVERT
+div#__next svg[role="img"] > title ~ g
+img[src^="https://images.mentimeter.com/themes/832111/tyett7pf-brand-light.svg"]================================www.minecraft.net
+INVERT
+.feature-details img
+.ms-accordion .shade
+.ms-accordion td.platform-data
+.nav-links__tab-icon
+CSS
+.ms-accordion td.platform-data {
+    background-color: white !important;
+}
+div[style*="background-image: url("][style*="/background-images/bg-wool-white.png"],
+.promo-area .bg-wool-light {
+    background-image: none !important;
+}
+IGNORE IMAGE ANALYSIS
+.promo-area .trans-top-dark================================www.mozilla.org
+INVERT
+img.sidebar-icon
+h1.c-logo
+CSS
+div.mzp-c-navigation-logo {
+    background: ${black} !important;
+}
+IGNORE IMAGE ANALYSIS
+.c-logo.t-browser-word-hor-white-xs
+.c-logo.t-browser-word-hor-xs
+.noodle-browser================================www.msn.cn
+CSS
+.heading span,
+msft-attribution span {
+    color: var(--darkreader-neutral-background) !important;
+}
+.heading + .abstract {
+    color: ${rgb(247, 244, 241)} !important;
+}
+IGNORE INLINE STYLE
+.article
+msft-ad-label================================www.oschina.net
+INVERT
+.logo > svg > g > path================================www.phoronix.com
+CSS
+img[src*="/benchmark/result/"] {
+    background-color: #348755 !important;
+}================================www.photopea.com
+CSS
+.block .panelhead div .cross {
+  background-image: var(--icon_cross);
+}
+.window .whead .cross {
+  background-image: var(--icon_cross);
+}
+[data-darkreader-inline-fill] {
+    fill: ${white} !important;
+}
+* {
+    border-color: var(--darkreader-bg--bg-panel) !important;
+}================================www.physics.utoronto.ca/~aephraim/aephraim.html
+CSS
+body {
+    --darkreader-inline-bgcolor: var(--darkreader-neutral-background) !important;
+}================================www.pixivision.net
+INVERT
+.hdc__logo
+.ghdsp__logo
+.sidebar-visible-button
+._search-field-visible-button================================www.psytec.co.jp
+INVERT
+[background$="images/square.gif"]
+[background$="images/square.gif"] > *
+td[background*="images/sep_b"]================================www.qt.io
+CSS
+.b-background__wrapper .b-background__asset[style^="background-image"] {
+    filter: brightness(50%) sepia(40%) !important;
+}
+div[class*="frontpage"] .scheme--default p {
+    color: var(--darkreader-neutral-text) !important;
+}================================www.rbc.ua
+INVERT
+.h-inner > .logo================================www.realtek.com
+CSS
+#t3-header,
+body > div.t3-wrapper > div > div.section-wrap.bg-wrap1 > div > div > div.custom > div > a  {
+    background: var(--darkreader-neutral-background) !important;
+}
+#t3-header > div > div.col-xs-3.visible-xs-block > button.search-toggle,
+#t3-header > div > div.col-xs-3.visible-xs-block > button.globe-toggle  {
+    background-color: inherit !important;
+}================================www.scien.cx
+CSS
+body.custom-background {
+    background-image: none !important;
+}================================www.searchenginejournal.com
+INVERT
+.sej-footer-logo
+.sej-mobile-logo
+.whitelogo================================www.soepub.com/discuzx34
+www.soepub.net/discuzx34
+CSS
+.c_l,
+.c_r,
+.c_yb,
+.c_yc,
+.c_ycr,
+.c_yt {
+    background-image: none !important;
+}================================www.songsterr.com
+INVERT
+use[href^="#rest"]
+use[href^="#dot"]
+CSS
+#tablature svg text {
+    fill: var(--darkreader-neutral-text) !important;
+}
+#tablature svg path {
+    stroke: var(--darkreader-neutral-text) !important;
+}
+section[role="main"] div[style^="transform"] {
+    mix-blend-mode: normal !important;
+}================================www.sport5.co.il
+INVERT
+.news-room-placeholder .container-message-in .newsroom-row .newsroom-spitz================================www.statshunters.com
+INVERT
+.logo
+CSS
+.highcharts-background {
+    fill: none !important;
+}
+.highcharts-text-outline {
+    stroke: none !important;
+}================================www.stern.de
+CSS
+.page {
+    --page-background: var(--darkreader-neutral-background) !important;
+}
+.slide-navigation {
+    background: var(--darkreader-neutral-background) !important;
+}================================www.storm.mg
+INVERT
+.footer_logo_img
+#logo_img================================www.tandfonline.com
+INVERT
+img.no-mml-formula================================www.thisoldhouse.com
+INVERT
+.c-masthead__main[style^="background-image"]
+IGNORE INLINE STYLE
+.c-footer__logo-link *================================www.thivien.net
+CSS
+body {
+    background-image: none !important;
+}================================www.tiktok.com
+INVERT
+.like-container .icon
+.logo-link
+div[class*="DivSeekBarContainer"]
+div[class*="DivVolumeControlContainer"]
+.video-control-container-browser
+.volume-control-container-browser
+.seek-bar-container
+.volume-control-container
+svg[class*="StyledLinkLogo"]
+svg[class*="SvgPlayIcon"]
+#svg-music-note > path
+CSS
+[data-e2e="like-icon"] svg,
+[data-e2e="comment-icon"] svg,
+[data-e2e="share-icon"] svg {
+    fill: var(--darkreader-neutral-text) !important;
+}================================www.tinkoff.ru
+INVERT
+a[title="Tinkoff"]================================www.tumblr.com
+INVERT
+.QnWzN > div
+div[role="progressbar"]
+CSS
+a[data-testid="google-login-button"],
+a[data-testid="apple-login-button"] {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+footer[role="contentinfo"] > ul > li > a {
+    filter: invert(0%) hue-rotate(180deg) contrast(200%) !important;
+}
+:root {
+    --darkreader-bg--white: 23, 23, 23 !important;
+    --darkreader-text--black: 228, 224, 218 !important;
+    --darkreader-bg--secondary-accent: 31, 32, 34 !important;
+}================================www.typingclub.com
+CSS
+object {
+    color-scheme: initial !important;
+}================================www.w3schools.com
+IGNORE INLINE STYLE
+.colorbox .innerbox================================www.wikihow.com
+INVERT
+.qa_obscured_answer_overlay :last-child:not(strong *)================================www.windy.com
+INVERT
+.data-table > .forecast-table.progress-bar > canvas================================wx.qq.com
+wx2.qq.com
+CSS
+body {
+    background-image: none !important;
+}================================wxwidgets.org
+INVERT
+img[src$="header-logo.png"]================================wyborcza.pl
 wyborcza.biz
 INVERT
 #wH_username_wrap img

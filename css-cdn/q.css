@@ -1,0 +1,67 @@
+q.utoronto.ca
+INVERT
+.ic-sidebar-logo__image
+.instructure_file_link_holder > .file_download_btn
+a.external > span > img:first-child
+CSS
+:root {
+    --ic-brand-global-nav-ic-icon-svg-fill--active: var(--darkreader-text--ic-link-color) !important;
+    --darkreader-bg--ic-brand-global-nav-bgd: var(--ic-brand-global-nav-bgd) !important;
+    --darkreader-bg--ic-brand-global-nav-logo-bgd: var(--ic-brand-global-nav-logo-bgd) !important;
+    --darkreader-border--ic-brand-global-nav-avatar-border: var(--ic-brand-global-nav-avatar-border) !important;
+}
+.ic-app-header__menu-list-link:hover,
+.ic-app-header__menu-list-link:focus {
+    background-color: ${rgba(0, 0, 0, 0.2)} !important;
+}
+.ic-DashboardCard {
+    box-shadow: ${rgba(0, 0, 0, 0.3)} 0px 1px 5px !important;
+}================================qcc.com
+INVERT
+.app-login-insert
+.logo
+.pay-insert================================quantrimang.com
+CSS
+.taxonomyList .navigation a {
+    color: var(--darkreader-neutral-text) !important;
+}
+.taxonomyList .navigation a:hover {
+     color: ${orange} !important;
+}================================qubes-os.org
+INVERT
+[src$="xen-logo.svg"]
+[src$="whonix-tor.svg"]================================quickbase.com
+CSS
+td.cell, td.label {
+   border-color: rgb(24, 26, 27) !important;
+}================================quirksmode.org
+INVERT
+.logoPPK
+CSS
+body {
+    background-image: none !important;
+}================================quizlet.com
+CSS
+.UIKeyboardHint {
+    background-color: transparent !important;
+}
+IGNORE INLINE STYLE
+.FeedbackHeading-emoji > svg *================================quora.com
+CSS
+.logo_fill {
+    fill: rgb(219, 87, 83) !important;
+}
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+div.q-box.qu-bg--white {
+    background-color: #181a1b !important;
+    background-image: none !important;
+}
+IGNORE INLINE STYLE
+#upvote
+#downvote================================qwant.com
+INVERT
+.background-home__logo
+.home__logo__container .home__logo
+canvas.mapboxgl-canvas

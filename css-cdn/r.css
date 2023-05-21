@@ -1,7 +1,20 @@
-radar-opadow.pl
+rachel53461.wordpress.com
+CSS
+#grad {
+    background-image: none !important;
+}================================racketboy.com
+CSS
+#rb-split,
+#rb-split > div {
+    background-image: none !important;
+}================================radar-opadow.pl
 INVERT
 #chase-map
-.ro_tooltip================================radio17.pl
+.ro_tooltip================================radareu.cz
+INVERT
+#radarMap .leaflet-map-pane================================radeonramdisk.com
+INVERT
+#logo================================radio17.pl
 INVERT
 .main-title================================radiokolor.pl
 INVERT
@@ -11,7 +24,175 @@ a.logo-1
 CSS
 .content-box-1 {
     background-image: none !important;
-}================================reheader.glitch.me
+}================================railwaygazette.com
+INVERT
+.mastheadLogo================================rain.thecomicseries.com
+CSS
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+    background-image: none !important;
+    margin: 0px !important;
+    padding: 8px !important;
+}
+#comicimage {
+    background-color: #ffffff !important;
+}================================rakuten.com
+INVERT
+.chakra-image================================rapidtables.com
+IGNORE INLINE STYLE
+td[style^="background:"]================================raspberrypi.com
+INVERT
+.__rptl-header-logo path[fill="#000"]
+CSS
+body {
+    color: var(--darkreader-neutral-text) !important;
+}================================raspberrypi.org
+INVERT
+.site-header__home-link
+IGNORE IMAGE ANALYSIS
+.c-at-home__container================================rateyourmusic.com
+IGNORE IMAGE ANALYSIS
+*================================rationalwiki.org
+INVERT
+.mw-wiki-logo================================read.amazon.*
+lire.amazon.*
+INVERT
+.header_bar_icon:not(#kindleReader_button_close)
+.header_bar_button
+#kindleReader_content
+.kg-full-page-img
+.side-menu-close
+.fixed-book-title
+ion-menu
+ion-header
+ion-title
+CSS
+.kr-renderer-container,
+.kr-renderer-container-fullpage {
+    z-index: 0 !important;
+}================================readme.io
+CSS
+.rm-PlaygroundRequest,
+.CodeTabs-toolbar {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================readpaper.com/pdf-annotate/note
+INVERT
+.page================================readthedocs.io
+CSS
+.toc-drawer,
+.sig, code.literal,
+.sidebar-search-container,
+.sidebar-tree .current > .reference {
+     background-color: var(--darkreader-neutral-background) !important;
+}================================realmadridfin.net
+CSS
+.button_submit,
+#content_section,
+#shoutbox_b,
+#shoutbox_color,
+#shoutbox_face,
+#shoutbox_i,
+#shoutbox_nosound,
+#shoutbox_u,
+#shoutbox_u + img {
+    background-image: none !important;
+}
+#shoutbox_message {
+    background-color: none !important;
+}================================realmicentral.com
+INVERT
+img[itemprop="logo"]
+div.fly-but-wrap.left.relative > span================================redbubble.com
+INVERT
+[data-testid="ds-wordmark"]================================redcross.*
+CSS
+.lecture-attachment img.is-loaded {
+    filter: brightness(50%) sepia(40%) !important;
+}================================reddit.com
+INVERT
+video ~ div [style^="height"]
+CSS
+[style^="--background"] {
+    --background: ${#FFFFFF} !important;
+}
+[style^="--canvas"] {
+    --canvas: ${#DAE0E6} !important;
+}
+[style^="--pseudo-before-background"] {
+    --pseudo-before-background: ${#DAE0E6} !important;
+}
+[style^="--comments-overlay-background"] {
+    --comments-overlay-background: ${#DAE0E6} !important;
+}
+[style^="--commentswrapper-gradient-color"] {
+    --comments-overlay-background: ${#DAE0E6} !important;
+}
+[style^="--fakelightbox-overlay-background"] {
+    --fakelightbox-overlay-background: ${#DAE0E6} !important;
+}
+.md p>a[href="#s"]::after, a[href="#s"]::after {
+    color: #000;
+}
+header a[aria-label="Home"] svg:last-child g,
+header > div > div + div a[href] *,
+header > div > div + div button[aria-label] * {
+    fill: var(--darkreader-neutral-text) !important;
+}
+#COIN_PURCHASE_DROPDOWN_ID > div {
+    background: linear-gradient(180deg,hsla(0,0%,100%,.1) 45.96%,hsla(0,0%,100%,.57) 46%,hsla(0,0%,100%,0) 130%),${gold} !important;
+}
+#COIN_PURCHASE_DROPDOWN_ID > div > span {
+    color: ${white} !important;
+}
+.md-spoiler-text:not([data-revealed])::selection {
+    color: transparent !important;
+    background-color: var(--darkreader-bg--newCommunityTheme-metaText) !important;
+}
+div[role="menu"][style^="position: fixed"] button button[role="switch"][aria-checked="false"] {
+    background-color: ${gray} !important;
+}
+div[role="menu"][style^="position: fixed"] button button[role="switch"] > div {
+    background-color: ${black} !important;
+}
+object[data="about:blank"] {
+    display: none !important;
+}================================reddit.zendesk.com
+INVERT
+header > div.logo > a > img
+img.hero-inner-image================================redditstatus.com
+INVERT
+.logo-container================================redgamingtech.com
+CSS
+body {
+    background-image: none !important;
+}================================redhat.com
+CSS
+p, li {
+   color: ${black} !important;
+}
+.PFElement {
+    background-color: ${white} !important;
+}
+IGNORE INLINE STYLE
+.redhat-logo *================================redis.io
+CSS
+.bg-gradient-to-bl {
+    background-image: none !important;
+}================================redpenreviews.org
+CSS
+header a {
+    color: var(--darkreader-neutral-text) !important;
+}================================refactoring.guru
+CSS
+.recipe {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================referentiemateriaalvo.noordhoff.nl
+CSS
+body {
+    background-image: none !important;
+}================================regex101.com
+INVERT
+canvas================================reheader.glitch.me
 INVERT
 [src=$"GitHub-Mark.png"]
 [src=*"header-image-readme-gen.gif]
@@ -22,25 +203,225 @@ CSS
 }
 #upload-github {
     border: 1px solid #dddddd;
+}================================rei.com
+INVERT
+.logo__img================================relay.firefox.com
+INVERT
+img.c-landing-hero-brands
+img.c-brand-title
+.fx-bento-app-link.fx-bento-link.fx-mobile > span::before
+.fx-bento-app-link.fx-bento-link.fx-vpn > span::before
+div.glocal-site-options > a > img
+div.glocal-site-options > form > button::before================================relive.cc
+INVERT
+img[src*="logo-relive"]
+IGNORE IMAGE ANALYSIS
+.email-button i================================rememberthemilk.com
+CSS
+div[contenteditable="true"] {
+    border: transparent !important;
+}================================render.com
+INVERT
+.rm-section.rm-hero
+.rm-section.rm-hero > *:not(.rm-back-bottom)
+.rm-back-top
+.rm-back-large================================render.githubusercontent.com/view/ipynb
+INVERT
+img.math================================replit.com
+CSS
+.monaco-editor .cursor {
+    background-color: ${#000};
+}================================reproducible.archlinux.org
+INVERT
+img[src*="icons/"]================================repubblica.it
+INVERT
+.page-header__logo================================resetera.com
+CSS
+.bbc-spoiler:not(:hover):not(:active),
+.bbc-spoiler:not(:hover):not(:active) * {
+    background-color: ${black} !important;
+    color: ${black} !important;
+}================================resmigazete.gov.tr
+CSS
+img[src="/assets/img/arma.png"] {
+    filter: hue-rotate(180deg) invert(1) brightness(2);
+}================================respekt.cz
+INVERT
+.sitelogo-link================================restaurantji.com
+INVERT
+.logo_sticky================================restoreprivacy.com
+CSS
+body {
+    background-color: var(--darkreader-bg--color-body) !important;
+}================================retracmirrors.com
+CSS
+body, #app > div {
+    background-image: none !important;
+}================================reuters.com
+INVERT
+path[d^="M121.865 50.29c0"]================================rfi.fr
+INVERT
+.o-header__site-nav-link================================rg-adguard.net
+INVERT
+img[src*="info"]
+img[src*="like"]
+img[src*="donate"]
+img[src*="faq"]
+CSS
+body,
+.tftable th {
+    background: none !important;
+}================================richie-bendall.ml
+CSS
+.content--card {
+    background-color: #303030;
+}
+::-webkit-scrollbar {
+    width: 0;
+    color: transparent;
+}
+body {
+    background-color: #5c6bc0;
+}
+.app--bar, .drawer--content :not(.mdc-list--non-interactive) > :not(.mdc-list-item--disabled) .mdc-list-item--activated::after, :not(.mdc-list--non-interactive) > :not(.mdc-list-item--disabled) .mdc-list-item--activated::before {
+    background-color: #3f51b5;
+}
+.btc-dialog .mdc-button {
+    color: #3f51b5;
+}
+.btc-dialog svg {
+    fill: white;
+}================================richiebendallstatus.ml
+CSS
+#page-container {
+    background-image: none;
+}
+.success-bg {
+    background-color: #80BA27;
+}
+.warning-bg {
+    background-color: #f7921e;
+}
+.success {
+    color: #80BA27;
+}
+.warning {
+    color: #f7921e;
+}
+.danger-bg {
+    background-color: #ff0000;
+}
+.paused-bg, .info-bg, .black-bg {
+    background-color: #17252e;
+}================================riptutorial.com
+CSS
+.whole-container {
+    background-image: none !important;
 }================================roblox.com
 CSS
 .checkbox input[type=checkbox]:checked + label::before {
     background-color: var(--darkreader-neutral-text) !important;
+}================================rocksbox.com
+INVERT
+.nav_logo================================rockylinux.org
+INVERT
+img[alt="Rocky Linux"]================================rog.asus.com
+IGNORE IMAGE ANALYSIS
+.rog-header .nav-menu .nav-bar================================ros.org
+CSS
+.bg-ros-dots-grid {
+    background-image: none !important;
+}================================roscidus.com
+CSS
+span.caption-wrapper img {
+  background-color: white !important;
+}================================roskomsvoboda.org
+INVERT
+img[src="/static/core/images/logo.svg"]================================rostov.tele2.ru
+INVERT
+.header-navbar-logo================================rottentomatoes.com
+IGNORE IMAGE ANALYSIS
+.icon__fresh
+.fresh
+.icon================================royalbank.com
+CSS
+.rbc-select-input {
+    background-color: var(--darkreader-neutral-background) !important;
 }================================rp.pl
 INVERT
 a[href="/"]
 .burger--menu span
 .icon-logo::before
 .footer--logo
-.footer--copyright--content div================================rpo.gov.pl
+.footer--copyright--content div================================rpcs3.net
+CSS
+p,
+.compat-types,
+.compat-hdr-left,
+.compat-status-container {
+    color: var(--darkreader-neutral-text) !important;
+}================================rpm.org
+IGNORE IMAGE ANALYSIS
+body================================rpo.gov.pl
 INVERT
 .view-content .field-content > img
 #etykieta_szukaj a
 IGNORE IMAGE ANALYSIS
-#bip_kontener================================rudeiczarne.pl
+#bip_kontener================================rt.ru
+INVERT
+#logo_text================================rte.ie
+INVERT
+.masthead .nav-btn.menu
+CSS
+.masthead .weather-widget .icon {
+    filter: none !important;
+}
+.theoplayer-skin .theo-control-bar-shadow  {
+    background-image: linear-gradient(transparent var(--darkreader-neutral-background)) !important;
+}================================rtlnieuws.nl
+CSS
+section {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================rubenfixit.com
+CSS
+.shape-top-left::after,
+.nav-btn::after {
+    border-color: transparent transparent transparent var(--darkreader-neutral-background) !important;
+}
+.shape-top-right::after,
+.nav-btn::before {
+    border-color: transparent transparent var(--darkreader-neutral-background) transparent !important;
+}
+.shape-bottom-left::after {
+    border-color: var(--darkreader-neutral-background) transparent transparent transparent !important;
+}
+.shape-bottom-right::after {
+    border-color: transparent var(--darkreader-neutral-background) transparent transparent !important;
+}
+#blog-isotope-masonry article,
+.shape-top-left,
+.shape-top-right,
+.shape-bottom-left,
+.shape-bottom-right {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================rubjo.github.io
+CSS
+select {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================rudeiczarne.pl
 INVERT
 #logo
-#footer-logo================================rynek-kolejowy.pl
+#footer-logo================================rumratings.com
+CSS
+body {
+    background-image: none !important;
+}================================runkit.com
+INVERT
+.CodeMirror div.CodeMirror-cursor================================runtothefinish.com
+CSS
+:root {
+    --body-background-color: var(--darkreader-neutral-background) !important;
+}================================rynek-kolejowy.pl
 INVERT
 .logoTK
 .partnerNaglowka

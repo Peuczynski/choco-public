@@ -7,6 +7,103 @@ CSS
 .inner-container,
 .bg-base-secondary-10 {
     background-image: none !important;
+}================================t.bilibili.com
+CSS
+body {
+    background: var(--darkreader-neutral-background) !important;
+}================================t.me
+telegram.me
+INVERT
+.tgme_logo================================tableau.com
+INVERT
+.feature-list__icon
+.mobile-nav-button__icon
+.site-logo
+CSS
+section {
+    background-image: none !important;
+}================================tablesgenerator.com
+INVERT
+.icon-all-borders.toolbar-icon
+.icon-no-borders.toolbar-icon
+.icon-edit-borders.toolbar-icon
+.icon-merge-cells.toolbar-icon
+.icon-split-cells.toolbar-icon
+.icon-no-colors.toolbar-icon
+IGNORE INLINE STYLE
+.sp-thumb-inner
+.sp-preview-inner================================tabletochki.org
+INVERT
+.perekaz__list img================================tails.boum.org
+INVERT
+.laptop
+CSS
+body {
+    background-image: none !important;
+}
+#donate-banner p {
+    color: var(--darkreader-neutral-background) !important;
+}
+#donate-banner u {
+    border-bottom-color: var(--darkreader-neutral-background) !important;
+}
+IGNORE IMAGE ANALYSIS
+#donate-banner================================tailwindcss.com
+CSS
+.bg-white:not(#docsearch), .bg-gray-100 {
+    --bg-opacity: none !important;
+}
+.text-gray-900, .hover\:text-gray-900:hover,
+h1, h2, h3,
+h4, h5, h6 {
+    --text-opacity: none !important;
+}
+.bg-center {
+    background: none !important;
+}================================take-a-screenshot.org
+INVERT
+.switch-window span::before================================taobao.com
+INVERT
+#J_SearchIcon
+.J_MyShopCoupon
+.J_BtnEditSKU
+.cart-checkbox
+CSS
+.tbh-member.J_Module {
+    background-image: none !important;
+}
+#q.search-combobox-input {
+    background-color: var(--darkreader-neutral-background);
+}================================tapology.com
+INVERT
+.logo
+ul.feedCats
+CSS
+ul.feedCats li a:link, ul.feedCats li a:visited {
+    color: var(--darkreader-neutral-background) !important;
+}================================tarnogorski.info
+INVERT
+.td-main-logo================================tasks.google.com
+INVERT
+div[role="listitem"] > div > div > div[role="presentation"]================================tass.ru
+INVERT
+div[class^="LogoImage_logo"] > svg > path
+button[class^="Footer_icon_app_store"] > svg > g > path:last-of-type
+CSS
+div[class^="ds_ext_carousel"] {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================tastoid.com/
+CSS
+.jumbotron.jumbotron-no-bg {
+    background: var(--darkreader-neutral-background) !important;
+}================================tcrf.net
+CSS
+body {
+    background-image: none !important;
+}================================teamtrees.org
+CSS
+.hypeTemplate_tano {
+    background-color: ${white} !important;
 }================================techmaniak.pl
 activemaniak.pl
 agdmaniak.pl
@@ -31,12 +128,335 @@ body,
 #search input.search {
     background-color: var(--darkreader-neutral-background) !important;
     background-image: none !important;
-}================================teleman.pl
+}================================technologyreview.com
 INVERT
-.movieRank================================terazwy.pl
+a[class^="headerTemplate__logo"]================================techpowerup.com
+INVERT
+.page-header__logo================================techspot.com
+INVERT
+svg#techspot-logo================================telegeography.com
+INVERT
+.map-tile-loaded
+div#globe-start > canvas
+div#globe-end > canvas
+div.leaflet-map-pane
+img.map-banner
+div.mapboxgl-map
+span.hamburger-box
+a > img[src^="https://www2.telegeography.com/hubfs/"]
+img[alt="TeleGeography"]================================teleman.pl
+INVERT
+.movieRank================================telerik.com
+INVERT
+a.TK-Aside-Menu-Link
+a.TK-Aside-Menu-Button
+#ContentPlaceholder1_C377_Col00 > img
+CSS
+a.TK-TLRK-Logo svg path[fill="#7c878e"] {
+    --darkreader-inline-fill: ${black} !important;
+}
+a.TK-TLRK-Logo svg path[fill="#4b4e52"] {
+    --darkreader-inline-fill: ${black} !important;
+}
+a.TK-PRGS-Logo-Footer svg path[fill="#4b4e52"] {
+    --darkreader-inline-fill: ${black} !important;
+}
+#ContentPlaceholder1_C418_Col00 > footer {
+    background-image: none !important;
+}================================teltarif.de
+CSS
+body,
+.ttColBack,
+#tthdrbox {
+    background: var(--darkreader-neutral-background);
+    color: var(--darkreader-neutral-text);
+}================================tenforums.com
+CSS
+.garhead {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+    border-left-color: var(--darkreader-neutral-background) !important;
+    border-right-color: var(--darkreader-neutral-background) !important;
+}================================tenor.com
+INVERT
+.FlagIcon
+.ShareIcon================================terazwy.pl
 INVERT
 img[src*="img/loga"]
-img[src*="img/logotr.png"]================================tokfm.pl
+img[src*="img/logotr.png"]================================terms.archlinux.org
+INVERT
+img[src="svg/calendar.svg"]================================terraform.io
+IGNORE INLINE STYLE
+.text================================terraria.wiki.gg
+CSS
+#mw-head {
+    background: var(--theme-navbar-background);
+}
+#mw-panel .portal h3::after {
+    border-color: var(--theme-sidebar-heading-arrow-color) transparent;
+}
+#mw-panel .portal h3:hover::after {
+    border-color: var(--theme-sidebar-heading-arrow-color-hover) transparent;
+}
+#simpleSearch::before, #simpleSearch::after {
+    border-color: var(--theme-navbar-search-botton-text-color);
+}
+#simpleSearch:hover::before, #simpleSearch:hover::after {
+    border-color: var(--theme-navbar-search-botton-text-color-active);
+}================================tesco.com
+CSS
+.ui-components-library .nav-dropdown .dropdown a.nav-toggle h1,
+.ui-components-library .nav-dropdown .dropdown a.nav-toggle h2,
+.ui-components-library .nav-dropdown .dropdown a.nav-toggle h3,
+.ui-components-library .nav-dropdown .dropdown a.nav-toggle h4,
+.ui-components-library .nav-dropdown .dropdown a.nav-toggle h5,
+.ui-components-library .nav-dropdown .dropdown a.nav-toggle h6 {
+    z-index: 0 !important;
+}================================tesla.com
+INVERT
+.tds-modal-close-icon
+.tds-menu-header-legacy [id*="tds-menu-header-main--trigger"]:checked ~ [for*="tds-menu-header-main--trigger"] .tds-menu-header-main--cross_hatch
+CSS
+.tcl-hero-parallax__heading,
+.tcl-hero-parallax__subheading a,
+.tcl-hero-parallax__additional-link {
+    color: ${gray} !important;
+}
+#block-mainheadernavigation .tds-menu-header-nav--list_link {
+    color: var(--darkreader-neutral-background) !important;
+}================================testudo.umd.edu
+CSS
+#secondary-side,
+#widgetbox_widget_parent_0 {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================the-conjugation.com
+CSS
+#gauche {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================the-race.com
+INVERT
+.img-fluid================================the5to9.xyz
+CSS
+:root {
+    --wt-text-on-background-color: var(--darkreader-neutral-text) !important;
+}================================theatlantic.com
+INVERT
+[class^="NavHamburgerButton_root"]
+[class^="NudgeShared_chevron"]
+[class^="NonMeteredNudge_desktopTextContainer"]::after================================theatlas.com
+CSS
+.d4 .axis .tick text {
+    fill: var(--darkreader-neutral-text) !important;
+}
+.d4 .axis .tick rect {
+    fill: var(--darkreader-neutral-background) !important;
+}================================thecamels.org
+INVERT
+.block-tags
+.block-client-group-list
+.slider-content-list-item-opinion-logo
+.slider-testimonials-list-item
+CSS
+.slider-testimonials-content {
+    background-color: var(--darkreader-neutral-background) !important;
+    background-image: none !important;
+}================================thecanadianencyclopedia.ca
+INVERT
+.edit
+.citation
+.share
+.print
+.dot-1.dot
+.dot-2.dot
+.dot-3.dot
+.accordion-toggler.dropdown-toggler.nav-submenu-toggler================================thecode.media
+INVERT
+img[src$="/logo.svg"]
+.post-item__arrow
+li::before================================thedailybeast.com
+INVERT
+.Logo
+.NavSubDesktop__hamburger-bars================================thefreedictionary.com
+INVERT
+strong.i.logo
+a.i.keyboard-link.mobile-hidden
+#regButton::before
+ul.social-networks
+a.i.icon-notif
+div.box > a.i
+div.cprh > span.i.A.cpr
+a.i.popup-opener
+ul.logos-list================================thefreelibrary.com
+INVERT
+div#logo
+CSS
+div.main_content {
+    background-image: none !important;
+}================================theguardian.com
+INVERT
+.inline-the-guardian-logo__svg
+a[data-link-name$="logo"] svg
+.crossword__grid .crossword__cell-text
+.most-popular__number================================theinformation.com
+INVERT
+.logo
+IGNORE IMAGE ANALYSIS
+header.locked .logo================================theins.ru
+INVERT
+header > div > a > svg================================thejakartapost.com
+INVERT
+.logo-jakartapost================================thelancet.com
+INVERT
+.journal-logos
+.footer__logo================================themoscowtimes.com
+moscowtimes.ru
+INVERT
+.site-header__logo
+.footer__logo
+.contribute-teaser__button================================themoviedb.org
+INVERT
+.glyphicons_v2.link
+.glyphicons_v2.facebook
+.glyphicons_v2.twitter
+.glyphicons_v2.instagram
+.glyphicons_v2.keyboard
+.glyphicons_v2.speech-bubble-alert
+.glyphicons_v2.arrow-thin-right
+.glyphicons_v2.arrow-thin-left
+CSS
+.card {
+    background-color: ${#dfe1e2} !important;
+}================================thenounproject.com
+INVERT
+div[class^="styles__Image"]
+a[class^="styles__HeaderLogoLink"]================================theoatmeal.com
+INVERT
+img.d-inline-block.align-bottom================================theonion.com
+INVERT
+a[href="//www.theonion.com"] .theonion================================thepaper.cn
+INVERT
+.head_logo================================thepiratebay.org
+INVERT
+img[src="https://torrindex.net/images/tpb.jpg"]
+img[src="https://torrindex.net/images/tpbsmall_notext.jpg"]================================thereader.mitpress.mit.edu
+INVERT
+#logo================================theregister.*
+theregister.*.*
+INVERT
+.row_label.title_rhs_line
+.blocksandfiles_logo
+.devclass_logo
+#sitpub_logo================================theverge.com
+INVERT
+.c-global-header__logo
+.c-tab-bar__logo
+.c-footer__logo-link================================thewindowsclub.com
+INVERT
+.custom-logo================================thompsonstein.com
+INVERT
+a.logo================================thriftbooks.com
+INVERT
+.DesktopHeader-logo================================thronemaster.net
+INVERT
+.head-info-wild================================thunderbird.net
+INVERT
+.w-48
+a[title="Thunderbird"] > svg================================ti.com
+INVERT
+.ti_p-responsiveHeader-top-logo================================tianocore.org
+INVERT
+.tcLogoArea================================tieba.baidu.com
+INVERT
+.add-more-forum
+.all-wraper
+.core_title_btns
+.day_rcmd > .class_title
+.fengchao-wrap-box span
+.focus_btn
+img[src*="sign_err.png"]
+.save_face_bg
+.search_bright .nav_wrap_add_border
+.share_btn_wrapper
+.sub_nav_wrap
+.threadlist_rep_num
+.u-f-item
+CSS
+.card_banner {
+    filter: brightness(50%);
+}
+.class_title,
+.content-sec,
+.f-d-item,
+.left-sec,
+.page-container,
+.pb_footer,
+.sub_nav_wrap,
+.tb_footer {
+    background-image: none !important;
+}
+.u-f-item {
+    color: var(--darkreader-neutral-background) !important;
+}
+.tang-pass-qrcode-imgWrapper {
+    background-color: white !important;
+}================================time.com
+INVERT
+nav.main .menu-btn .menu-btn-box================================tinder.com
+CSS
+svg > path[style*="--rewind"] {
+  fill: ${black} !important;
+}
+svg > path[style*="--nope"] {
+  fill: ${red} !important;
+}
+svg > path[style*="--super-like"] {
+  fill: ${cyan} !important;
+}
+svg > path[style*="--like"] {
+  fill: ${#22ebc0} !important;
+}
+svg > path[style*="--boost"] {
+  fill: ${purple} !important;
+}================================titantv.com
+INVERT
+img[alt="Home"]================================tizen.org
+INVERT
+#header #logo================================tjournal.ru
+INVERT
+mark
+CSS
+mark a {
+  color: ${#346eb8} !important;
+}
+.main.layout {
+    background: var(--darkreader-neutral-background) !important;
+}================================tns-e.ru
+INVERT
+img[title*="ТНС энерго"]
+img[src="/img/refresh.png"]
+img[src="/img/logout-black.png"]================================to-do.live.com
+INVERT
+span[class^="ms-Toggle-thumb"]
+CSS
+.backgroundLines {
+    background-image: linear-gradient(180deg, var(--darkreader-bg--bg-primary), var(--darkreader-bg--bg-primary) 52px, var(--darkreader-bg--bg-separator) 52px, var(--darkreader-bg--bg-separator) 52px) !important;
+}================================todoist.com
+INVERT
+.ist_button_apple > img
+#td-help-logo_svg__a ~ g:last-of-type
+CSS
+main > section:first-of-type > div {
+    z-index: 1 !important;
+}
+img[src^="/_next/static/images/"],
+[style*="/_next/static/images/"]  {
+    filter: brightness(50%) sepia(40%) !important;
+}
+option,
+.oT9NU,
+footer {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================tokfm.pl
 INVERT
 .controls span.play svg
 CSS
@@ -46,20 +466,328 @@ div.bottom_section_bg {
 }
 body.desk #content {
     background-color: var(--darkreader-neutral-background) !important;
-}================================totylkoteoria.pl
+}================================tonsky.me
+CSS
+body {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}================================torguard.net
+INVERT
+img[src$="statusok.gif"]
+img[src$="statusfailed.gif"]================================tosdr.org
+INVERT
+img[src*="tosdr-logo-128.svg"]
+img[src*="/img/news/"]
+img[src*="guidelines.svg"]================================totylkoteoria.pl
 INVERT
 .site-branding
 .header__socials
 CSS
 .hero {
     background-image: none !important;
-}================================trojmiasto.pl
+}================================toutatice.fr
+INVERT
+.img-responsive
+.banner================================towersemi.com
+INVERT
+.Logo================================towhee.io
+INVERT
+.logo-wrapper================================town-of-salem.fandom.com
+IGNORE INLINE STYLE
+span[style^="text-shadow"]================================trac.ffmpeg.org
+INVERT
+img[src$="trac_logo_mini.png"]
+img[src="/ffmpeg-logo.png"]
+CSS
+select option {
+  background-color: var(--darkreader-neutral-background);
+}================================tracfone.com
+INVERT
+.navbar-container nav .navbar-brand================================track.toggl.com
+CSS
+#root,
+.content-wrapper > * {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================trailhead.salesforce.com
+INVERT
+lwc-tds-header
+CSS
+.search-input__input {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.user-info__name {
+    color: inherit !important;
+}
+.progress-ring__content {
+    background-color: white !important;
+}
+[data-layout="desktop"] .nav-list-item__link:hover,
+[data-layout="desktop"] .nav-list-item__button[aria-expanded="true"] {
+    background: inherit !important;
+}================================transifex.com
+INVERT
+img.close_image================================translate.google.*
+translate.google.*.*
+INVERT
+.ttsbutton
+.tlid-copy-translation-button
+.starbutton
+.speech-button
+.clear
+.swap > .jfk-button-img
+.morebutton
+.close-button
+.ita-kd-icon-button
+.ita-kd-menuitem-inputtool-icon
+.ita-kd-checkbox
+.vk-t-btn
+.vk-sf-b
+.ita-hwt-backspace-img
+.ita-hwt-enter-img
+.ita-hwt-grip
+.gt-ex-quote
+CSS
+.trans-verified-button {
+    background-size: cover;
+}
+IGNORE IMAGE ANALYSIS
+.ita-kd-img================================translate.yandex.*
+INVERT
+.button.button_tab.state-selected::before
+#optionsButton::after
+#clearButton::after
+#textNativeSpeaker
+#textSpeaker
+#microphone::after
+#keyboardButton::after
+#spellerButton::after
+.button.button_icon.button_icon_swap::after
+#favButton::after
+#translatorSpeaker
+#translatorNativeSpeaker
+#copyButton::after
+#shareButton::after
+#goodVoteButton::after
+#badVoteButton::after
+#editorButton::after
+.toggler::after
+.button.button_icon.button_icon_speaker
+.dictionary-example_toggler::after
+.dictionary-example_meta__vote-buttons
+.icon.button.button_icon.button_icon_sync::after
+.message.message_yellow.message_replace
+.placeholder
+.button.header-button.button_icon.button_icon_clear2::after
+#shareCopyLink::after================================translate.yandex.*/collections
+INVERT
+.button.header-button.button_icon.button_icon_clear2::after
+.record-line_speaker.button.button_icon.button_icon_speaker::after
+.button.button_icon.button_icon_lines::after
+.button.button_icon.button_icon_trash::after
+#shareCollectionCopy::after================================translate.yandex.*/doc
+INVERT
+.button.button_tab.state-selected::before
+.listbox-option::after================================translate.yandex.*/ocr
+INVERT
+.button.button_tab.state-selected::before
+.button.button_icon.button_icon_swap::after
+.button.button_icon.button_icon_plus::after
+.button.button_icon.button_icon_minus::after
+.button.button_icon.button_icon_lines::after
+.button.button_icon.button_icon_words::after
+.button button_icon.button_icon_blocks::after
+.button.button_icon.button_icon_blocks::after
+.button.button_icon.button_icon_reset::after================================translate.yandex.*/translate
+INVERT
+.button.button_tab.state-selected::before
+#shareButton::after
+.listbox-option::after
+#shareCopyLink::after================================transport.orgp.spb.ru
+INVERT
+#map================================transum.org
+INVERT
+img[src*="Level"]================================trendmicro.com
+INVERT
+.logo================================trezor.io
+INVERT
+.hero-image================================tribunemag.co.uk
+INVERT
+.si-hr-nv__toggle--menu
+.si-hr-sm__item================================trip101.com
+INVERT
+.logo
+.name
+.partner-logo
+img.partner-img================================trojmiasto.pl
 INVERT
 img[alt*="Trojmiasto.pl"]================================truestory.pl
 INVERT
-.tdb-logo-img================================tvn24.pl
+.tdb-logo-img================================truity.com
+INVERT
+.navbar-btn.logo
+.footer-logo.logo================================tug.org/FontCatalogue
+INVERT
+img================================tutorialspoint.com
+INVERT
+i.fa
+i.fab
+i.fal
+img.tp-logo
+button.slick-prev.slick-arrow::before
+button.slick-next.slick-arrow::before================================tuwroclaw.com
+INVERT
+.navigation i[class^="ico"]
+.portal-logo
+.partners a img
+.hamburger-wrapper
+img[src*="gfx/ico"]================================tuxcare.com
+INVERT
+.navbar__logo================================tuxedocomputers.com
+INVERT
+#logo================================tv.yandex.*
+INVERT
+.icon_location::after
+.icon_location::before
+.button_arrow_down::after
+IGNORE IMAGE ANALYSIS
+.icon_location::after
+.icon_location::before
+.button_arrow_down::after================================tvland.com
+CSS
+body,
+.header-container {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================tvn24.pl
 INVERT
 .header-menu__more-button
-.hamburger-icon================================tygodnikkrag.pl
+.hamburger-icon================================tvrain.ru
 INVERT
-#header-logo-image
+.menu3__logo================================tvtropes.org
+INVERT
+body.darthWiki > i
+body.wmgWiki > i
+.spi.darthwiki
+.spi.sugarwiki
+.spi.film
+.spi.headscratchers
+.spi.laconic-icon
+.spi.lightnovel
+.spi.manga
+.spi.nightmarefuel
+.spi.radar
+.spi.recap
+.spi.shoutout
+.spi.webcomic
+.spi.wmg
+.spi.ymmv
+img[src="/img/loading-alt.gif"]
+IGNORE IMAGE ANALYSIS
+body.sugarWiki #header-spacer-left::after
+body.sugarWiki #header-spacer-right::after================================tweakers.net
+INVERT
+.infoBox > .title::before
+#userbar li.icon.selected > a
+CSS
+#logo a {
+    background: url("https://tweakers.net/g/if/v3/framework/tweakers_logo_full.svg") no-repeat center !important;;
+}
+@media screen and (max-width: 1000px) {
+    #logo a {
+        background: url("https://tweakers.net/g/if/v3/framework/menu_icons_responsive_v6.png") no-repeat -8px -220px !important;
+    }
+}
+.ankeiler > a.commentCount {
+    background-image: url("https://tweakers.net/g/icons/commentcounter_small_bg.svg") !important;
+    text-decoration: none !important;
+}
+#userbar li.icon a {
+    background-image: url("https://tweakers.net/g/if/v3/framework/menu_icons_v2.png") !important;
+}
+#userbar li.icon.flag.nl::after {
+    border-top-color: #e7184c !important;
+    background-color: #fff !important;
+    border-bottom-color: #014a93 !important;
+}
+#userbar li.icon.flag.be::after {
+    border-left-color: #000 !important;
+    background-color: #ffff1a !important;
+    border-right-color: #e7184c !important;
+}
+.thumb.category {
+    border: none !important;
+}
+.ctaButton.play::after {
+    background-color: #FFF !important;
+}
+.relatedContentContainer .relatedContentItems .itemContainer {
+    border-top-color: ${#d9d9d9} !important;
+    border-bottom-color: ${#d9d9d9} !important;
+}
+#categoryBrowser li a {
+    background-color: initial !important;
+    background-image: none !important;
+}
+#categoryBrowser li.more {
+    background-image: url("https://tweakers.net/g/if/categories/arrows.png") !important;
+}
+#categoryBrowser li.more:not(li.active.more) {
+    background-position-y: -17px !important;
+}
+#categoryBrowser li.more.active {
+    background-image: url("https://tweakers.net/g/if/categories/arrows.png"), linear-gradient(rgb(131, 24, 46), rgb(148, 15, 49)) !important;
+}
+#tracker .fakeTop .toggleVisibility .corner::before,
+#tracker .fakeTop .toggleVisibility .corner::after {
+    border-color: ${#ccc} !important;
+}
+@media screen and (max-width: 767px) {
+    #userbar li.icon a {
+        background-image: url("https://tweakers.net/g/if/v3/framework/menu_icons_responsive_v6.png") !important;
+    }
+    #categoryBrowser li.more.active {
+        background-image: none !important;
+        box-shadow: none !important;
+    }
+}
+#contentArea,
+#categoryBrowser,
+#categoryBrowser .sublist,
+#categoryBrowser .mainlist,
+#categoryBrowser ul,
+#categoryBrowser li {
+    border-color: ${#b2b9bd} !important;
+}
+IGNORE IMAGE ANALYSIS
+#categoryBrowser li a
+table.highlights .title a.showMoreItems================================twit.tv
+INVERT
+.logo-large================================twitch.tv
+INVERT
+.volume-slider__slider-container
+.seekbar-bar
+.mention-fragment--recipient
+.reply-line--mentioned
+CSS
+.seekbar-segment {
+    background-color: rgb(169, 112, 255) !important;
+}================================twitter.com
+INVERT
+[role="slider"]
+[style^="flex-grow"]
+CSS
+main,
+header {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================twosigma.com
+INVERT
+.homepage-video-desktop video
+.homepage-video-desktop img================================tygodnikkrag.pl
+INVERT
+#header-logo-image================================typescriptlang.org
+CSS
+.dark-theme .markdown pre {
+    filter: none !important;
+}
+:root {
+    --darkreader-bg--raised-background-color: #1c1f21 !important;
+}

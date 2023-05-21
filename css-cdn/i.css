@@ -1,9 +1,354 @@
-inforlex.pl
+i-item.jd.com
+CSS
+.itemInfo-wrap .summary-price-wrap .summary-top .summary-promotion {
+    background-image: none !important;
+}================================ica.coop
+INVERT
+.main-header__logo================================icloud.com
+INVERT
+.rm-list-body
+.note-list-item-attachment
+.sc-iujRgT.jxLrRl
+.icloud-text.image
+.img.app-icon-icloud
+#cloudos-loading-spinner
+.editor-container
+.light > svg
+.apple-icloud-logo > g > path:first-child
+.apple-icloud-logo.dark > g > path:last-child
+CSS
+.cw-pane-container,
+.reminders {
+    background-image: none !important;
+}================================icofont.com
+INVERT
+.logo================================iconfinder.com
+INVERT
+.logo================================iconify.design
+IGNORE INLINE STYLE
+svg.iconify *
+svg#footer-icon-name *
+svg#icon-nav-prev *
+svg#icon-nav-next *
+.si-svg-wrapper svg *
+.block-container .icons svg *================================icons8.com
+CSS
+.main-page .gradient {
+    background-image: none !important;
+}================================icrc.org
+CSS
+.logo,
+.logo img {
+    background-color: #fff !important;
+}================================ieee.org
+INVERT
+.logo-left================================iett.istanbul
+CSS
+#routedesc p:nth-child(2) {
+    font-size: 0;
+}
+#routedesc p:nth-child(2)::after {
+    font-size: 20px;
+    content: "Kırmızı renkli seferler ÖHO ve OAŞ; beyaz renkli seferler İETT’ye aittir."
+}================================ifixit.com
+INVERT
+a[aria-label="home page"]
+IGNORE IMAGE ANALYSIS
+*================================iflscience.com
+INVERT
+.header-primary div a svg
+.footer-branding a svg
+.footer-subscribeBox div span a svg================================ifood.com.br
+CSS
+.responsive-header__logo svg {
+    --darkreader-inline-fill: rgb(212, 45, 58) !important;
+}================================igurublog.wordpress.com
+CSS
+body,
+.entry,
+#content,
+#container {
+    background-image: none !important;
+}================================ikea.*
+CSS
+.range-revamp-ratings-bar__star--empty path,
+.range-revamp-ratings-bar__star--half path:first-child  {
+    fill: ${rgb(246, 245, 244)} !important;
+}
+.hnf-svg-icon {
+    fill: var(--darkreader-neutral-text) !important;
+}
+.card,
+.card-header,
+.card-footer {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+IGNORE INLINE STYLE
+.gpr__color-dot================================iliad.it
+IGNORE IMAGE ANALYSIS
+.background================================ilovepdf.com
+INVERT
+.brand__logo
+.ico--down
+.ico--desk
+.ico--hamburger================================ilyabirman.*
+INVERT
+img[src*="layout-win"]
+CSS
+body {
+    background: none !important;
+}================================imap:
+pop3:
+CSS
+table[class|="moz-header"] {
+	background: none;
+}================================imdb.com
+INVERT
+.a-icon
+.jw-slider-volume
+CSS
+#wrapper {
+    background: ${#e3e2dd} !important;
+}
+.ipc-page-section--base {
+    --ipc-pageSection-base-bg: var(--darkreader-neutral-background) !important;
+}
+:root: {
+    --darkreader-bg--ipt-baseAlt-shade1-bg: var(--darkreader-neutral-background) !important;
+}
+.imdb-header__nav-drawer div,
+.ipc-menu--on-baseAlt,
+.imdb-header__search-menu,
+.ipc-promptable-base__panel {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.ipc-promptable-base__content {
+    background-color: #171a1b !important;
+}
+div[class^="SubNav__SubNavContainer"],
+div[class^="Media__ButtonContainer"] > a,
+div[class*="WatchlistButton__ButtonParent"] > button,
+a[class*="EmptyState__FYWStateButton"],
+a[class*="EmptyState__FromYourWatchlistRibbon"] > svg,
+.ipc-poster-card,
+.ipc-poster-card__actions > .ipc-button {
+    background: rgba( var(--ipt-on-baseAlt-rgb,255,255,255),var(--ipt-baseAlt-hover-opacity,0.08) ) !important;
+}
+div[class^="SubNav__ShareButtonWrapper"]::before,
+div[class^="Root__Separator"] {
+    background: rgba(var(--ipt-base-rgb,255,255,255),0.2); !important;
+}
+.ipc-title__text::before,
+.ipc-tabs__indicator {
+    background: #f5c518 !important;
+}
+.ipc-signpost--accent1 {
+    background: var(--darkreader-bg--mdc-theme-ipt-accent1-color, #bb9508) !important;
+}
+hgroup[class*="ipc-title--category-title"] > .ipc-title__text,
+.ipc-title-prompt__title {
+    color: #f5c518 !important;
+}
+.boxOfficeTitle:nth-of-type(2n) {
+    background: linear-gradient( to right,rgba(var(--ipt-on-baseAlt-rgb),0),rgba(var(--ipt-on-baseAlt-rgb),0.06) ) !important;
+}
+div[class^="VideoInfostyles__VideoDescriptionOverlay"] {
+    background: linear-gradient(transparent 50%,var(--ipt-baseAlt-bg)) !important;
+}
+main {
+    background: var(--ipc-pageSection-baseAlt-bg) !important;
+}
+.ipc-watchlist-ribbon__bg-ribbon {
+    fill: rgba(var(--ipt-baseAlt-shade1-rgb), 0.75) !important;
+}
+.ipc-watchlist-ribbon--inWatchlist .ipc-watchlist-ribbon__bg-ribbon {
+    fill: #BB9508 !important;
+}
+.ipc-switch__slider::before,
+.ipc-switch__slider::after {
+    background: #5799ef !important;
+}
+.aux-content-widget-2 {
+    background: none !important;
+}================================immobilienscout24.de
+INVERT
+img[alt^="ImmobilienScout24"]
+.topnavigation__sso-login__plus-logo
+.button-primary
+.main-search__content--rent--from-0
+.result-list-entry__new-flag
+.product-teaser__image
+.no-of-results-highlighter
+CSS
+.result-list__listing {
+	background-color: transparent !important;
+}================================inc.com
+INVERT
+svg[class*="logo"]================================ind.ie
+INVERT
+.three-rs .three-rs-list p================================independent.co.uk
+INVERT
+.logo-text
+#MegaMenuButton
+.search-toggle
+.jw-slider-horizontal
+.jw-slider-volume
+IGNORE INLINE STYLE
+.logo-svg-cls-2================================inet.se
+INVERT
+.h1yh8nho
+a.item-button span[class*="icon"]
+CSS
+:root {
+    --svg-icon-default-color: #e8e6e3 !important;
+}================================infinity-academies.com
+INVERT
+img.bb-logo
+img[src*="profile-avatar-buddyboss-50.png"]================================infinitysearch.co
+INVERT
+img[src$="github.ico"]
+img[src$="unsplash.png"]
+img[src$="boardreader.ico"]
+#logo_img_home[src$="logo_text_black.png"]================================info.wyborcza.biz
+INVERT
+.imgw================================inforlex.pl
 INVERT
 div[class="content -dark"]
 div[class="loginLogo"]
 img[src*="infor-lex_2020.jpg"]
-a[class="client-logo-entry"]================================interia.pl
+a[class="client-logo-entry"]================================informa.com
+INVERT
+.header-logo================================informatech.com
+INVERT
+.log-img================================inoreader.com
+CSS
+.article_expanded {
+    background-color: rgb(31, 35, 38) !important;
+}================================instagram.com
+INVERT
+.s4Iyt
+.coreSpriteActivityHeart
+.coreSpriteAppStoreButton
+.coreSpriteCall
+.coreSpriteCheck
+.coreSpriteCi
+.coreSpriteClose
+.coreSpriteDesktopNavDirect
+.coreSpriteDesktopProfileSaveActive
+.coreSpriteDesktopProfileTaggedActive
+.coreSpriteDirectHeart
+.coreSpriteDownload
+.coreSpriteDropdownArrowGrey9
+.coreSpriteGallery
+.coreSpriteGooglePlayButton
+.coreSpriteKeyhole
+.coreSpriteLockSmall
+.coreSpriteLoggedOutWordmark
+.coreSpriteMobileNavDirect
+.coreSpriteMobileNavTypeLogo
+.coreSpriteNavBack
+.coreSpriteNotificationLeftChevron
+.coreSpriteNullProfile
+.coreSpriteOptionsEllipsis
+.coreSpritePagingChevron
+.coreSpriteProfileCamera
+.coreSpriteReload
+.coreSpriteSaveNull
+.coreSpriteSpinstaStory
+.coreSpriteStoryCreation
+.coreSpriteTaggedNull
+.coreSpriteVideoNux
+.coreSpriteWindowsStoreButton
+.coreSpriteWordmark
+.glyphsSpriteAdd__outline__24__grey_9
+.glyphsSpriteAdd_friend__outline__96
+.glyphsSpriteApp_instagram__outline__24__grey_9
+.glyphsSpriteApp_messenger__outline__24__grey_9
+.glyphsSpriteApp_twitter__outline__24__grey_9
+.glyphsSpriteApp_whatsapp__outline__24__grey_9
+.glyphsSpriteCall__outline__24__grey_9
+.glyphsSpriteCamera__outline__24__grey_9
+.glyphsSpriteChevron_down__outline__24__grey_9
+.glyphsSpriteChevron_left__outline__24__grey_9
+.glyphsSpriteChevron_up__outline__24__grey_9
+.glyphsSpriteCircle_add__outline__24__grey_9
+.glyphsSpriteComment__outline__24__grey_9
+.glyphsSpriteContact_import
+.glyphsSpriteContact_import_sm
+.glyphsSpriteDirect__outline__24__grey_9
+.glyphsSpriteDirect__outline__96
+.glyphsSpriteDownload_2FAC
+.glyphsSpriteError__outline__24__grey_9
+.glyphsSpriteError__outline__96
+.glyphsSpriteFacebook__outline__24__grey_9
+.glyphsSpriteFb_brand_center_grey
+.glyphsSpriteForward__outline__24__grey_9
+.glyphsSpriteFriend_Follow
+.glyphsSpriteGlyph_chevron_right
+.glyphsSpriteHashtag__outline__24__grey_9
+.glyphsSpriteHeart__filled__16__grey_9
+.glyphsSpriteHeart__filled__24__grey_9
+.glyphsSpriteHeart__outline__24__grey_9
+.glyphsSpriteHome__filled__24__grey_9
+.glyphsSpriteHome__outline__24__grey_9
+.glyphsSpriteInfo__filled__16__grey_9
+.glyphsSpriteLink__outline__24__grey_9
+.glyphsSpriteLocation__outline__24__grey_9
+.glyphsSpriteLock__outline__24__grey_9
+.glyphsSpriteLock__outline__96
+.glyphsSpriteMail__outline__24__grey_9
+.glyphsSpriteMenu__outline__24__grey_9
+.glyphsSpriteMore_horizontal__outline__24__grey_9
+.glyphsSpriteNew_post__outline__24__grey_9
+.glyphsSpritePaging_chevron
+.glyphsSpritePlay__filled__16__grey_9
+.glyphsSpriteSave__filled__24__grey_9
+.glyphsSpriteSave__outline__24__grey_9
+.glyphsSpriteSearch__filled__24__grey_9
+.glyphsSpriteSearch__outline__24__grey_9
+.glyphsSpriteSettings__outline__24__grey_9
+.glyphsSpriteShare__outline__24__grey_9
+.glyphsSpriteShopping__outline__16__grey_9
+.glyphsSpriteStar_filled_24
+.glyphsSpriteStar_half_filled_24
+.glyphsSpriteStory__outline__24__grey_9
+.glyphsSpriteUser__filled__24__grey_9
+.glyphsSpriteUser__outline__24__grey_9
+.glyphsSpriteUser_follow__filled__24__grey_9
+.glyphsSpriteUser_follow__outline__24__grey_9
+.glyphsSpriteUsers__outline__24__grey_9
+.glyphsSpriteVideo_chat__outline__24__grey_9
+.glyphsSpriteWhatsapp__outline__24__grey_9
+.glyphsSpriteX__outline__24__grey_9
+span.LikeSprite.embedSpriteHeartOpen
+span.hideText.embedSpriteComment
+span.hideText.embedSpriteShare
+span.hideText.embedSpriteSaveOpen
+span.Sprite.embedSpriteGlyph.hideText
+.-Nmqg
+svg[aria-label*="Facebook"]
+a[role="link"][href="/"] i[role="img"]
+CSS
+div > a[tabindex],
+div > span > a[tabindex] {
+    border-color: transparent !important;
+}
+._ac3p {
+    background-color: rgb(180, 180, 180) !important;
+}
+._ac3o {
+    background-color: rgb(68, 68, 68) !important;
+}================================instructables.com
+INVERT
+.site-logo================================instructure.com
+INVERT
+.equation_image
+.Page-container================================integration.wikimedia.org
+INVERT
+img.graphite-graph================================interaktywnie.com
+INVERT
+img[alt="Interaktywnie.com"]
+img[src*="companym/"]================================interia.pl
 INVERT
 .interia-logo
 .search-submit
@@ -12,7 +357,51 @@ CSS
 .calendar-body {
     background-color: var(--darkreader-neutral-background) !important;
     background-image: none !important;
-}================================ipko.pl
+}================================internetexchangemap.com
+INVERT
+div[aria-label="Map"] > div:first-child
+div.fade================================internetowa.tv
+INVERT
+img[src*="/img/"]
+CSS
+.star-on-png::before {
+    color: #FCAD03 !important;
+}================================interpride.org
+INVERT
+.logo .img-responsive================================investopedia.com
+INVERT
+.widget-ticker-container
+.mntl-dotdash-universal-nav__logo================================invisioncommunity.com
+INVERT
+img[src*="customer_logos.png"]
+img[src*="logo_dark.png"]
+img[src*="footer"]
+.cDownloadsCategoryCount
+CSS
+.ipsBadge {
+    --darkreader-bg--badge--background: var(--darkreader-neutral-background) !important;
+}
+.ipsReact_reactCount > a,
+.ipsReact_reactCount > span,
+.elFullInbox_menu,
+.ipsMenu_auto,
+.ipsMenu_footerBar,
+.ipsMenu_headerBar,
+.ipsMenu_innerContent,
+.ipsMenu_item,
+.ipsMenu_sep,
+.ipsMenu_title,
+.ipsPadding {
+	background-color: var(--darkreader-neutral-background) !important;
+}================================inwestomat.eu
+CSS
+main {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================iopscience.iop.org
+INVERT
+.article-text img[alt^="$"]================================ipinfo.io
+INVERT
+.navbar-brand================================ipko.pl
 INVERT
 .NB3WM
 CSS
@@ -27,6 +416,26 @@ CSS
 }
 ._2A4oT::before {
     background-size: 36px 38px !important;
+}================================iplocation.net
+INVERT
+img[src="/assets/images/logo.png"]================================iqiyi.com
+INVERT
+.qy-micro-bg================================irishtimes.com
+INVERT
+.masthead-block-logo img================================is.muni.cz
+INVERT
+.isElInput_label_latex
+.se-tex-img================================isbgpsafeyet.com
+CSS
+h1, h2, h3,
+h4, h5, h6 {
+    color: rgb(255, 255, 255) !important;
+}
+.Hero, .Footer {
+    background: None !important;
+}
+.Button-is-primary {
+    background: var(--primary-background-color);
 }================================ising.pl
 CSS
 body.grey-gui-bg #content,
@@ -36,11 +445,45 @@ div.grey-gui-bg,
 .small-purple-heading,
 .small-navy2-heading {
     background-image: none !important;
-}================================itbiznes.pl
+}================================istanbulfm.com.tr
+CSS
+#jarallax-container-0 {
+    z-index: 0 !important;
+}================================italy-vms.ru
 INVERT
-.custom-logo================================ithardware.pl
+#main_logo================================itbiznes.pl
+INVERT
+.custom-logo================================itch.io
+INVERT
+.header_widget .mobile_nav_btn
+CSS
+.index_page .app_banner .outline_button,
+.youtube_game_promo_banner_widget .game_information .cta_button {
+    border-color: var(--darkreader-neutral-text) !important;
+}================================item.jd.com
+IGNORE IMAGE ANALYSIS
+*================================itemfix.com
+INVERT
+.logo-outer
+.footer-logo
+a[href="ll"]================================ithardware.pl
 INVERT
 .navbar-brand
 a[href*="uzywki.expert"]
 a[href*="rankingi"]
-a[href*="feed"]
+a[href*="feed"]================================iu-fernstudium.de
+INVERT
+.cp-logo
+.cp-contact-bubble__svg-open
+svg[class$="transform"]================================iubenda.com
+INVERT
+img[alt="Iubenda logo"]================================iupts.org
+CSS
+body, .loginbg {
+    background-image: none !important;
+}================================ixbt.com
+CSS
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+    color: var(--darkreader-neutral-text);
+}

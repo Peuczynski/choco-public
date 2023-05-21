@@ -1,10 +1,518 @@
-magazynbieganie.pl
+m.dianping.com
 INVERT
-.logo-box================================mapa-turystyczna.pl
+.flash-screen
+.header-download-img================================m.genk.vn
+CSS
+.news .li {
+    background-image: none !important;
+}================================m.motonet.fi
+CSS
+form#haku input[type="text"], #select_my_motonet {
+    color: var(--darkreader-neutral-text);
+}================================m.slashdot.org
+CSS
+.slashbar,
+.story-prop,
+#discussion,
+#filler {
+    background-image: none !important;
+}================================machinelearningmastery.com
 INVERT
-.ts-map svg================================medianauka.pl
+img.size-full.wp-image-7676================================madshi.net
+CSS
+body,
+tr,
+td {
+    background-image: none !important;
+}================================magazine.skyeng.ru
 INVERT
-img[src*="wzory"]================================meteo.imgw.pl
+.header__logo__img================================magazynbieganie.pl
+INVERT
+.logo-box================================magic.freizeitspieler.de
+INVERT
+img[src="pics/MtG-Freizeitspieler.gif"]
+CSS
+body {
+    background-image: none !important
+}================================magister.net
+INVERT
+.bottom > img
+CSS
+.splash-container {
+    z-index: 0 !important;
+}
+.cijfers-k-grid.k-grid .grade.empty {
+    background-image: none !important;
+    background-color: ${#cfcfcf} !important;
+}================================mail.google.com
+INVERT
+.asor_t0
+.asor_i1 > img
+.asor_i4
+.d-Na-Jo.d-Na-N-ax3
+.RK-QJ-Jk
+.RK-Mo.RK-Qq-LF
+#ita-st-id-cs
+.d-Na-N-M7-JX.d-Na-J3
+.gb_df
+img[src$="google_gsuite"]
+img[src$="profile_mask2.png"]
+.rY>.sa
+.buh
+.asor
+.mixmax-flyout__wrapper
+div[aria-label="Hangouts"] > div[role="tablist"] > div[tabid="chat"] > div
+form[method="POST"] ~ table div[style] > div > :first-child button:not([string]):not([id])
+img[src^="//ssl.gstatic.com/ui/v1/icons/common/x"]
+div[style$="gm_add_black_24dp.png)"]
+CSS
+@media (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5) {
+    .buk {
+        background-image: url(//ssl.gstatic.com/ui/v1/icons/mail/rfr/density_default_v1_2x.png) !important;
+    }
+    .bui {
+        background-image: url(//ssl.gstatic.com/ui/v1/icons/mail/rfr/density_comfortable_v1_2x.png) !important;
+    }
+    .buj {
+        background-image: url(//ssl.gstatic.com/ui/v1/icons/mail/rfr/density_compact_v1_2x.png) !important;
+    }
+}
+.buk {
+    background-image: url(//ssl.gstatic.com/ui/v1/icons/mail/rfr/density_default_v1_1x.png) !important;
+}
+.bui {
+    background-image: url(//ssl.gstatic.com/ui/v1/icons/mail/rfr/density_comfortable_v1_1x.png) !important;
+}
+.buj {
+    background-image: url(//ssl.gstatic.com/ui/v1/icons/mail/rfr/density_compact_v1_1x.png) !important;
+}
+div[class*="bym"][role="navigation"] {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.ain .TO,
+.TO.ol {
+    background-color: rgba(255,255,255,0.05) !important;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #424242 !important;
+}
+::-webkit-scrollbar {
+    background-color: transparent !important
+}
+.aRg,
+.aRj {
+  color: ${white} !important;
+}
+IGNORE INLINE STYLE
+.at
+.au
+.av
+.qj
+.hU.hM
+.hV.hM
+.ajZ-Jt
+.aH5
+.JA-Kn-Jr-Kw-Jt================================mail.jwpub.org/owa
+IGNORE IMAGE ANALYSIS
+.image-font-png
+.image-font_size-png
+.image-bold-png
+.image-italic-png
+.image-underline-png
+.image-backcolor-png
+.image-forecolor-png
+.image-insertunorderedlist-png
+.image-insertorderedlist-png
+.image-outdent-png
+.image-indent-png
+.image-justifyleft-png
+.image-justifycenter-png
+.image-justifyright-png
+.image-createlink-png
+.image-unlink-png
+.image-superscript-png
+.image-subscript-png
+.image-strikethrough-png
+.image-alttext-png
+.image-blockdirltr-png
+.image-blockdirrtl-png
+.image-undo-png
+.image-redo-png
+.image-removeformat-png
+.image-table_icon-png
+.image-insertpicture-png
+.image-emoji-png
+.image-format-png================================mail.qq.com
+INVERT
+.listbg
+.navbar
+.topline
+.topbg
+.todaybar_ad_bg
+.navbottom
+.search_subject .smartsearch
+#searchIcon
+CSS
+.fdbody, .tipstitle {
+    background-color: ${#9bbb59} !important;
+}
+.fdbody {
+    border-left-color: var(--darkreader-neutral-background) !important;
+}
+.readmailinfo, .settingtable, .tabtitle td.selected, .biginfo, .tipstitle, .colorsure {
+    background-color: ${#ebf4d8} !important;
+}
+.toolbgline, .tabtitle td, .readmailinfo, .settingtd, .addr_line, .filtertd1, .bartools {
+    border-bottom-color: ${#87a34d} !important;
+}
+.toolbg, .toolbg1, .tabtitle, .addrsort {
+    background-color: ${#bed393};
+}
+.attbg {
+    background-color: ${#dceac0} !important;
+}
+body[module="qmReadMail"] {
+    background-color: var(--darkreader-neutral-background) !important;
+    color: var(--darkreader-neutral-color) !important;
+}
+.selbar_bt {
+    background-color: var(--darkreader-neutral-background) !important;
+    border-top-color: var(--darkreader-neutral-background) !important;
+    border-bottom-color: var(--darkreader-neutral-background) !important;
+}
+table.O2 td {
+    border-bottom-color: ${#c1c8d2} !important;
+}
+body[accesskey],
+.cpright {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.B, .nomail, .colortitle {
+    background-color: ${#a9b3b6} !important;
+}
+.settingTitle .selected {
+    color: ${#ebf4d8} !important;
+}================================mail.tutanota.com
+CSS
+div.mb > div > svg > path {
+    fill: black !important;
+}================================mailbox.org
+CSS
+body.bg-blog {
+    background-image: none !important;
+}
+.common .mod_article > .inside {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================makeuseof.com
+IGNORE IMAGE ANALYSIS
+.header-logo================================manage.buyvm.net
+INVERT
+.legend-container================================manjaro.org
+INVERT
+img[alt="manjaro logo"]
+CSS
+.bg-teal-accent-400,
+.bg-teal-accent-400 path {
+    background-color: ${rgb(29,233,182)} !important;
+    fill: ${rgb(29,233,182)} !important;
+}
+IGNORE INLINE STYLE
+.bg-teal-accent-400 path================================manualslib.com
+IGNORE IMAGE ANALYSIS
+div.pdf================================map.qq.com
+INVERT
+#FullScreen
+#Logo
+#Map
+.MenuPanelCheckbox
+.MenuPanelContent
+.nextStep
+.prevStep
+.textInput
+.titleText
+.traffic_next
+.traffic_rightbg_b2
+.traffic_rightbg_m
+.traffic_rightbg_m3
+.traffic_rightbg_t2================================mapa-turystyczna.pl
+INVERT
+.ts-map svg================================maps.metager.de
+INVERT
+.map canvas================================marginalrevolution.com
+INVERT
+.logo-mobile
+.logo-desktop
+img[src$="mru-logo-450.png"]
+CSS
+nav {
+  background-color: #288d73 !important;
+}================================mariadb.org
+INVERT
+.featured-header-image================================marinij.com
+INVERT
+.custom-logo.logo > a > img================================market.yandex.*
+INVERT
+ymaps[class$="main-engine-container"] > canvas
+ymaps[class$="marker"] > div > div > div
+CSS
+a[data-zone-name="offerLink"]:has(img) {
+    background-color: #fff !important;
+}================================marketplace.visualstudio.com
+CSS
+.ux-updated-date {
+    color: ${rgb(55, 255, 0)} !important;
+}
+.ms-Grid-row {
+    color: ${rgba(0, 0, 0, .8)} !important;
+}================================markmcgranaghan.com
+CSS
+body {
+    background-color: transparent !important;
+}================================marktplaats.nl
+INVERT
+.mp-Header-logo
+.mp-svg-messages
+.mp-svg-notification
+.mp-svg-profile
+.svg-icon-block================================mastarti.com
+streamguard.cc
+INVERT
+.fp-play-icon div
+.fp-pause-icon .fp-pause-block div
+.fp-volumebar em.fp-color
+.fp-fullscreen-line
+.fp-fullscreen-dot================================math.semestr.ru
+INVERT
+.img-online================================math.tamu.edu
+INVERT
+div[align="center"] > p + p > img================================mathsisfun.com
+CSS
+#searchFld {
+    background-color: var(--darkreader-neutral-background) !important;
+    border-color: black !important;
+}
+#searchBtn {
+    border-color: black !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}
+#content h1 {
+    color: var(--darkreader-neutral-text) !important;
+}
+#hdr {
+    opacity: 0.2;
+}
+#menuWide li{
+    background-color: rgb(64, 99, 255) !important;
+    color: white !important;
+}
+#menuWide li:hover {
+    background-color: rgb(18, 35, 112) !important;
+}================================matomo.org
+INVERT
+img[alt*="WordPress"]
+img[src*="Mailfence"]
+img[src*="sampling"]
+img[src*="logo"]
+img.mega-menu-logo
+CSS
+select, .elementor-text-editor, .elementor-text-editor *,
+.elementor-blockquote *, .elementor-testimonial *,
+.elementor-price-table * {
+    color: var(--darkreader-neutral-text) !important;
+}
+.elementor-card-shadow-yes .elementor-post__card:hover {
+    box-shadow: rgb(76 75 75 / 42%) 0px 0px 30px 0px;
+}
+.elementor-card-shadow-yes .elementor-post__card {
+    box-shadow: rgb(0 0 0 / 23%) 0px 0px 10px 0px;
+}================================matrix.org
+INVERT
+.mxnavbar__logo
+.mxnavsection__icon
+.mxgrid__item__bg__img
+.mxblock__explore__item__img
+a[aria-label="matrix live  permalink"] > svg
+a > svg================================matrix.to
+INVERT
+div.footer > p > img================================matsci.org
+INVERT
+.d-header #site-logo
+CSS
+.category-logo.aspect-image img {
+  background-color: white !important;
+}================================matters.news
+INVERT
+.splash-screen .icon
+.logo .icon
+CSS
+section[class$="container"][style^="background-image"] {
+    background-image: none !important;
+}================================mcbsys.com
+INVERT
+.site-branding
+.icon-image================================mcdonalds.com
+INVERT
+.cmp-global-header__logo================================medianauka.pl
+INVERT
+img[src*="wzory"]================================mediawiki.org
+INVERT
+#p-logo-text
+.mw-logo-wordmark
+img[alt="audio speaker icon"]
+IGNORE IMAGE ANALYSIS
+.mw.wiki-logo================================medium.com
+INVERT
+.svgIcon
+.svgIcon-use
+div[role="separator"]================================medium.freecodecamp.org
+CSS
+span.markup--quote.markup--p-quote.is-other {
+    background-image: linear-gradient(rgba(14, 255, 167, 0.2), rgba(14, 255, 167, 0.2)) !important;
+}================================medrxiv.org
+INVERT
+.blood_logo
+.logo-img================================meduza.io
+CSS
+mark {
+    color: var(--darkreader-neutral-text) !important;
+}================================meet.google.com
+IGNORE INLINE STYLE
+svg[preserveAspectRatio*="meet"] *================================meet.jit.si
+IGNORE INLINE STYLE
+.jitsi-icon *================================mega.nz
+INVERT
+a.fm-files-view-icon
+a.top-icon.menu
+div.checkdiv.megaapp-download.checkboxOff.switches
+div.fm-dialog-close.medium
+div.nw-tree-panel-arrows.icons-sprite
+i.small-icon.context
+i.small-icon.dialog-sprite.arrows-to-bottom
+i.small-icon.dialog-sprite.arrows-to-top
+i.small-icon.download-as-zip
+i.small-icon.icons-sprite.tiny-grey-tick
+i.small-icon.import-to-cloud
+i.top-menu-icon.menus-sprite
+i.transfer-progress-icon
+span.top-icon.language
+CSS
+.grid-wrapper {
+    outline-color: var(--darkreader-bg--surface-main);
+}
+.topbar-searcher {
+    background: var(--darkreader-bg--surface-grey-2) !important;
+}================================meituan.com
+INVERT
+.dpLogo
+.header-title
+.site-logo================================memtest.org
+INVERT
+.logo-default================================mendeley.com
+CSS
+.highlightLayer * {
+   background-color: var(--darkreader-selection-text) !important;
+}================================mercury.postlight.com
+INVERT
+.SVGInline-svg path
+#merc-logo
+[src^="/_/src/components/images/reader_kindle_image"]
+[href="https://postlight.com/"] > svg > g > path
+[src^="/_/src/components/images/reader_tout_image"]
+[src^="/_/src/components/images/phone"]
+.w-0-m.db-l.dn.cover.w-50================================merriam-webster.com
+INVERT
+circle.outline.Oval
+CSS
+.logo-cnt path[fill="#004990"] {
+  fill: ${#0085e0} !important;
+}================================messages.android.com
+INVERT
+.x4Tquc
+.QrWqSe
+.XCHXxd
+.pXeIKc================================messages.google.com
+INVERT
+.x4Tquc
+.QrWqSe
+.XCHXxd
+.pXeIKc
+CSS
+.input-background {
+  --input-bg-fade-color: #202124 !important;
+}================================messenger.com
+INVERT
+._4rv6
+a._4ce_
+div[aria-label="Change Position"]
+div[role="slider"]
+CSS
+._8rsr {
+  fill: #0098ff !important;
+}
+._576q mask path {
+  fill: white !important;
+}
+._576q mask rect {
+  fill: black !important;
+}
+._576q div {
+  background-color: transparent !important;
+}
+.j7vl6m33, .a8c37x1j, .bp9cbjyn, mask[id*="jsc_c"] > circle {
+    fill: var(--always-white) !important;
+}
+.a8c37x1j > rect {
+  fill: var(--darkreader-bg--fds-white) !important;
+}
+:root, .__fb-light-mode {
+    --filter-disabled-icon: invert(100%) opacity(30%) !important;
+    --filter-placeholder-icon: invert(59%) sepia(11%) saturate(200%) saturate(135%) hue-rotate(176deg) brightness(96%) contrast(94%) !important;
+    --filter-primary-icon: invert(100%) !important;
+    --filter-secondary-icon: invert(62%) sepia(98%) saturate(12%) hue-rotate(175deg) brightness(90%) contrast(96%) !important;
+    --filter-warning-icon: invert(77%) sepia(29%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(128%) hue-rotate(359deg) brightness(102%) contrast(107%) !important;
+    --filter-blue-link-icon: invert(73%) sepia(29%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(103.25%) hue-rotate(189deg) brightness(101%) contrast(101%) !important;
+    --filter-positive: invert(37%) sepia(61%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(115%) hue-rotate(91deg) brightness(97%) contrast(105%) !important;
+    --filter-negative: invert(25%) sepia(33%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(110%) hue-rotate(345deg) brightness(132%) contrast(96%) !important;
+}
+.qbubdy2e {
+    fill: none !important;
+}
+.tdjehn4e, .oo1teu6h {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+.tdjehn4e:hover, .ovq5dppa:hover {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+}
+::after {
+    border-left-color: var(--darkreader-bg--messenger-card-background) !important;
+    border-bottom-color: var(--darkreader-bg--messenger-card-background) !important;
+    border-top-color: var(--darkreader-bg--messenger-card-background) !important;
+    border-right-color: var(--darkreader-bg--messenger-card-background) !important;
+}
+i.eb18blue {
+    filter: none;
+}
+div[style][title] > div[style^="transform"] {
+    z-index: 0 !important;
+}
+.x1g6sh6t {
+    fill: none !important;
+}
+.x1g6sh6t {
+    fill: none !important;
+}
+IGNORE INLINE STYLE
+[role="button"] svg
+[role="button"] svg line
+div svg[viewBox="0 0 36 36"] mask path
+mask > rect
+g > rect================================metacareers.com
+INVERT
+a[href="/"] img.img
+#careersContentContainer div[style^="background-image: "]
+#careersContentContainer div[style^="background-image: "] > *================================metal.equinix.com
+INVERT
+.tw-logo================================meteo.imgw.pl
 INVERT
 .meteo-chart > div > canvas
 CSS
@@ -12,7 +520,80 @@ CSS
     filter: none !important;
 }
 IGNORE IMAGE ANALYSIS
-.gory-imgw a================================mint.intuit.com
+.gory-imgw a================================metrics.torproject.org
+INVERT
+img[src^="/images/flags/"]
+g > text
+g > line
+CSS
+.dot {
+    fill: var(--darkreader-neutral-background) !important;
+}
+div > img[src] {
+    filter: invert(90%) !important;
+}================================metrobyt-mobile.com
+INVERT
+#digital-header-logo-img
+CSS
+#Desktop-img {
+    z-index: 0 !important;
+}================================mewe.com
+CSS
+body > .ember-view {
+    background-color: ${#ebf0f3} !important;
+}
+body > .ember-view.dialog_wrapper {
+    background-color: transparent !important;
+}================================microsoft.com
+INVERT
+.m-updated-quicklinks .c-carousel.f-single-slide ul > li > a.c-hyperlink > img.large-icon
+.carousel-inner .card-background
+.key-message .card-background
+.animated-hero-media
+CSS
+#announce picture + div h3,
+#announce picture + div p,
+.edgeconsumer.features .m-hero h1,
+.edgeconsumer.features .m-hero p {
+    color: var(--darkreader-neutral-background) !important;
+}
+div[aria-label="Download Microsoft Edge dialog"] {
+    background-color: #389fef !important;
+}================================microsoftedge.microsoft.com
+INVERT
+rect[x="7.5"]
+text[text-anchor="middle"]================================midkar.com
+CSS
+body {
+    background-image: unset !important;
+}================================mikanani.me
+INVERT
+.an-res-row-bg================================miktex.org
+INVERT
+.icon-bar
+CSS
+body,
+.site-footer {
+    background-image: none !important;
+}================================mikufan.com
+IGNORE IMAGE ANALYSIS
+#header-container================================minecraftskins.com
+CSS
+.farbtastic .overlay {
+    background-image: url("https://www.minecraftskins.com/bundles/app/images/mask.png") !important;
+}
+.header__menu-outer > ul > li > a {
+    color: black !important;
+}
+IGNORE INLINE STYLE
+.color
+#color
+IGNORE IMAGE ANALYSIS
+.farbtastic .overlay================================minesweeper.online
+IGNORE IMAGE ANALYSIS
+*================================minsu.dianping.com
+INVERT
+.zg-map================================mint.intuit.com
 INVERT
 .recharts-cartesian-axis-ticks
 CSS
@@ -28,7 +609,83 @@ CSS
     border-right-color: ${black} !important;
 }
 IGNORE INLINE STYLE
-.recharts-sector================================mojosoft.com.pl
+.recharts-sector================================miro.com
+INVERT
+#pixiCanvasContainer > :nth-child(1)
+.b-icon================================mit.edu
+INVERT
+.mit-logo================================mitx.*
+CSS
+img {
+	background-color: white !important;
+}================================mixcloud.com
+INVERT
+.cQABPj
+IGNORE INLINE STYLE
+path[fill="none"]
+path[fill-rule="evenodd"]================================mjtnet.com
+INVERT
+.navbar-brand================================mlb.com
+CSS
+#percentile-rank text,
+.legend {
+    fill: var(--darkreader-neutral-text) !important;
+}================================mnt.ee
+CSS
+#zone-content-wrapper {
+    color: var(--darkreader-neutral-text) !important;
+}
+#zone-content {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================mobiel.nl
+INVERT
+.credit-warning__image
+.dt-carousel-home__dots
+.spec__network
+img[alt="Tele2"]
+img[alt="hollandsnieuwe"]
+.header-main__icon
+.spec__network-ready
+IGNORE INLINE STYLE
+.version-without-subscription-row__color
+.gEJLdA================================mobile.bg
+CSS
+table .tablereset {
+  background-image: none !important;
+}================================moegirl.org.cn
+CSS
+span.heimu a.external,
+span.heimu a.external:visited,
+span.heimu a.extiw,
+span.heimu a.extiw:visited {
+    color: #dadada !important;
+}
+.heimu,
+.heimu a,
+a .heimu,
+.heimu a.new {
+    background-color: #dadada !important;
+    color: #dadada !important;
+}
+body:not(.heimu_toggle_on) .heimu:hover,
+body:not(.heimu_toggle_on) .heimu:active,
+body:not(.heimu_toggle_on) .heimu.off {
+    color: black !important;
+}
+body:not(.heimu_toggle_on) .heimu:hover a,
+body:not(.heimu_toggle_on) a:hover .heimu,
+body:not(.heimu_toggle_on) .heimu.off a,
+body:not(.heimu_toggle_on) a:hover .heimu.off {
+    color: darkblue !important;
+}
+body:not(.heimu_toggle_on) .heimu.off .new,
+body:not(.heimu_toggle_on) .heimu.off .new:hover,
+body:not(.heimu_toggle_on) .new:hover .heimu.off,
+body:not(.heimu_toggle_on) .heimu.off .new,
+body:not(.heimu_toggle_on) .heimu.off .new:hover,
+body:not(.heimu_toggle_on) .new:hover .heimu.off {
+    color: #BA0000 !important;
+}================================mojosoft.com.pl
 INVERT
 img[src*="logo16"]
 img[src*="img/iko"]
@@ -52,20 +709,324 @@ select {
     color: var(--darkreader-neutral-background) !important;
 }
 IGNORE INLINE STYLE
-header.smaller================================money.pl
+header.smaller================================moluch.ru
+INVERT
+.logo
+CSS
+body {
+    background-image: var(--darkreader-neutral-background) !important;
+}================================money.pl
 CSS
 .dynks {
     color: ${#666666} !important;
 }
 a[href$="twitter.com/money_pl"] path:first-of-type {
     --darkreader-inline-fill: transparent !important;
-}================================moto.pl
+}================================mongodb.com
+INVERT
+img[alt="MongoDB logo"]================================monitor.firefox.com
+INVERT
+svg[class="Mozilla-logo"] > path[fill="#ffffff"]
+.fx-bento-app-link.fx-bento-link.fx-mobile > span::before
+img[src="/img/svg/laptop.svg"]
+img[src="/img/svg/globe.svg"]
+img[src="/img/svg/vpn.svg"]
+button[class="vpn-banner-close"]================================monokai.pro
+INVERT
+.c-icon-process================================monstercat.com
+CSS
+.volume-slider-outer {
+  z-index: -99999999999;
+  background-color: ${#4d4d4d} !important;
+}
+.volume-slider-inner{
+  background-color: ${#1873cc} !important;
+}
+.volume-slider-handle {
+  background-color: ${#1d1d1d} !important;
+}
+.title, h3, .line-bottom, .line-top, a, .one-line-ellipsis {
+  color: ${#4b4e50} !important;
+}================================monta.ir
+INVERT
+.floatLeft
+.formula-pack > img
+.m--content-panel > div > div > canvas
+.highcharts-background
+.customized-field
+.source
+.choice > .layoutImageInline
+.choice > img
+.choice > div > img
+.navbar-item > img
+.empty_state_student
+progress
+td > img
+.notice > div > img
+td > div > img
+.extrapractice > div > img
+.extrapractice > div > div > img
+.empty_teacher
+.GO5O4PB-gc-b
+.GO5O4PB-gc-i
+.GO5O4PB-gc-e
+.GO5O4PB-gc-i > div
+.GO5O4PB-gc-Eb > div > a
+img.is-rounded
+img.is-128x128
+CSS
+.GO5O4PB-gc-n {
+    background-image: none !important;
+}================================moodle.herzen.spb.ru
+INVERT
+.img-responsive================================moovitapp.com
+INVERT
+.map
+.logo================================morele.net
+INVERT
+.h-logo.col
+.h-control-btn > [src="/static/img/shop/icon-bezpieczna-dostawa.svg"]
+.swiper-slide-visible.mx-auto.swiper-slide > .d-flex.img-container
+div.cn-different-frontend.cn-menu-item-hover.cn-shop > .cn-main-name.cn-name > .cn-name-value > span:nth-of-type(1)================================morningstar.com
+INVERT
+.mbc-legend-top
+.mbc-legend-bottom
+.mbc-legend-item-date
+.mdc-medal
+.mdc-icon
+.legend-group
+.legend-box-text
+.mbc-chart-group
+.square-text
+.min-max
+.axis .tick
+.axis .name
+.mbc-axis .tick
+.mbc-chart-legend-inner
+.mbc-layers .tick================================mos.ru
+INVERT
+div[class^="src-components-Map-___styles-module__map_container"]
+div[class^="src-components-Map-___styles-module__control"]::before
+div[class^="src-components-Map-___styles-module__control"]::after
+#map_div_container
+#points_layer > text================================motherjones.com
+INVERT
+.logo
+.footer-logo
+.menu-button================================moto.pl
 INVERT
 img[src="https://bi.im-g.pl/im/0/24525/m24525630.png"]
 CSS
 .main_wrapper,
 .top_section_bg, .bottom_section_bg {
     background-color: ${#e5e5e5} !important;
-}================================muratordom.pl
+}================================motorsport.com
+CSS
+.ms-schedule-table__cell {
+    background-color: var(--darkreader-neutral-dark) !important;
+}================================mozilla.net
 INVERT
+.css-editor-container header h4::before================================mp.weixin.qq.com
+INVERT
+.audio_card_progress
+.audio_card_progress_handle================================msi.com
+INVERT
+a.logo
+.site-logo
+.site-header-menu-toggle--button span
+.flickity-button-icon
+.homeLink__logo
+CSS
+#MSI_Support .top-headBg,
+#MSI_Support .top-head,
+#MSI_Support .main-contact-support {
+    background-image: none !important;
+}
+.related__link > .related__title,
+.service__link > .service__head {
+    z-index: 1 !important;
+}================================msmgtoolkit.in
+CSS
+.cid-r89gzwx5mR .mbr-section-title {
+    color: ${white};
+}
+.cid-r89gzwx5mR .mbr-section-subtitle {
+    color: ${white};
+}================================msn.com
+INVERT
+.logowrapper================================msys2.org
+CSS
+body {
+    background-image: none !important;
+}================================mt.lv
+CSS
+.graph > text {
+    fill: var(--darkreader-neutral-text) !important;
+}================================mturk.com
+INVERT
+[src="/assets/images/how-it-works.png"]
+[src="/assets/images/requester_signup.svg"]
+[src="/assets/images/worker_signup.svg"]
+.lb-mid-8.lb-tiny-24.lb-col > .lb-img > div================================mullvad.net
+CSS
+#bg {
+    fill: #192E45;
+}================================multitran.com
+INVERT
+img[src="/gif/logoe.gif"]
+CSS
+body {
+    background-image: none !important;
+}================================mumble.info
+INVERT
+.os
+.suggested-download-button-caption================================muratordom.pl
+INVERT
+.logo================================murena.com
+INVERT
+picture.wordmark--link================================musclewiki.com
+INVERT
+img[src="/static/images/logo.png"]================================music.163.com
+INVERT
+.btns
+.cor
+#g_backtop
+#g_player
+.hot
 .logo
+.m-playbar
+.m-table thead
+.u-btn2
+.u-lv
+.u-btn
+.m-tabs
+.n-srch .pgsrch
+.n-srch .pgsrch .btn
+.n-srch .pgsrch .srch
+CSS
+.n-myinfo {
+    background-image: none !important;
+}================================music.amazon.*
+CSS
+.listViewStatusButtonInLibrary .add,
+.listViewStatusButtonInLibrary .added {
+    background-color: ${black} !important;
+}
+.slider .scrubber,
+.slider .scrubberHandle,
+.slider .sliderTrackRemainder {
+    background-color: ${black} !important;
+}================================music.apple.com
+INVERT
+body:not(.dark-mode) .web-navigation__logo-link.button-reset.ember-view
+body:not(.dark-mode) .native-upsell__logo
+body:not(.dark-mode) .native-upsell__action
+body:not(.dark-mode) .dt-search-box__icon
+.web-chrome-playback-controls
+.dt-media-contextual-menu
+.web-chrome-playback-lcd__contextual-badge--non-marquee.web-chrome-playback-lcd__contextual-badge
+.love-or-popular__popular.love-or-popular__glyph
+.web-chrome-playback-lcd__progress-bar-container
+.web-chrome-playback-lcd__volume================================musictheory.net
+INVERT
+[data-musictheory-id="lesson"] canvas================================my.account.sony.com
+INVERT
+img[class*="img-wallpaper"]================================my.bible.com
+CSS
+.nav-title {
+    color: var(--darkreader-neutral-text) !important;
+}================================my.cofc.edu
+CSS
+.container {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================my.contabo.com
+CSS
+#mainmenu > div,
+#submenu > div,
+.button,
+.ui-button {
+    background-image: none !important;
+}
+.ui-button {
+    color: var(--darkreader-neutral-text) !important;
+}================================my.frantech.ca
+INVERT
+.logo================================my.nextdns.io
+INVERT
+.mt-2.mb-4.text-center
+img[src*="/static/media/logo-large"]
+img[src*="/static/media/samsung"]
+img[src*="/static/media/sonos"]
+.d-md-inline > img
+.settings-button
+.stream-button
+.tooltipParent > img
+.list-group-item > div > img
+.d-flex > .text-break > img
+.d-flex > .flex-grow-1 > div > img
+.d-flex.align-items-center.flex-wrap a img
+CSS
+.text-right[style*="opacity: 0.3"] {
+    opacity: 0.6 !important;
+}
+g.rsm-geographies {
+    filter: invert(1) hue-rotate(180deg) brightness(130%) !important;
+}
+img[src*="/misc/flags/"] {
+    filter: revert !important;
+}================================my.nintendo.com
+CSS
+.Layout-app,
+.signUpButton {
+    background-image: none !important;
+}================================my.remarkable.com
+INVERT
+.menu-button
+img[alt="desktop icon"]
+img[alt="mobile icon"]================================my.volia.com
+CSS
+body.signInPage {
+    background-image: none !important;
+}
+a.mainLogo {
+    background-color: ${grey} !important;
+}================================myaccount.google.com
+INVERT
+c-wiz ul img================================myaccount.suse.com
+INVERT
+.auth-org-logo
+.logo================================myalmacoffee.com
+CSS
+:root {
+    --gradient-base-background-1: var(--darkreader-neutral-background) !important;
+}================================myanimelist.net
+INVERT
+.link-provider img
+.theme-songs td[width="8%"]:first-child
+CSS
+body:not(.ownlist) {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+body {
+    background-image: none !important;
+    background-color: var(--dakreader-neutral-background) !important;
+}================================mybrandnewlogo.com
+IGNORE INLINE STYLE
+.b-logo-wrap *================================myfood4less.com
+INVERT
+.elementor-widget-theme-site-logo================================mymenu.be
+INVERT
+.close-icon
+CSS
+.uix-steps .item.active .number {
+    color: ${darkred} !important;
+}
+IGNORE INLINE STYLE
+.uix-tracking .information .step .number================================myunidays.com
+INVERT
+.title
+.menu-btn-icon================================mywikis.com
+INVERT
+.heading-primary
+.heading-subtext
+.hero

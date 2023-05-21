@@ -1,4 +1,27 @@
-natemat.pl
+n.maps.yandex.ru
+mapeditor.yandex.com
+INVERT
+span[class*="nk-icon_id_commit-"] > svg > g > path
+span[class*="nk-icon_id_business-feedback-task"] > svg > g > path================================nagatabi-p.jimdofree.com
+INVERT
+.cc-imagewrapper > img================================nalog.ru
+INVERT
+.header__logo================================namecheap.com
+INVERT
+.whoisguard-img================================naps2.com
+CSS
+.os-icon[title="Linux"] {
+    background-color: white !important;
+}================================narimiran.github.io/nim-basics
+CSS
+body,
+#toc.toc2 {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================narrativ.com
+INVERT
+img[alt="Narrativ Logo"]================================nasa.gov
+IGNORE IMAGE ANALYSIS
+.vjs-has-started .vjs-control-bar .vjs-control.vjs-logo-image================================natemat.pl
 aszdziennik.pl
 innpoland.pl
 dadhero.pl
@@ -11,22 +34,290 @@ a[href="#comments"]
 CSS
 img[class*="Footer--Logo"] {
     background-color: #fff !important;
-}================================neonet.pl
+}================================nationalgeographic.com
+INVERT
+.NavBar__Logo__Container================================nature.com
+INVERT
+.c-header__logo
+[href="#search-menu"] > svg
+.c-header__link--chevron > svg
+img[alt="Nature Careers"]================================naturemade.com
+INVERT
+div.header-banner > svg
+ul.main-nav-child-links > li > a > img
+CSS
+:root {
+    --gradient-base-background-1: unset !important;
+}
+form[action="/search"] > div > label {
+    display: none;
+}================================nauka.rocks
+INVERT
+.navigation-branding================================navalnews.com
+INVERT
+.logo================================nba.com
+INVERT
+.nlProgressBar================================nbc12.com
+INVERT
+div.logo.logo-slim
+div.logo.logo-large.logo-footer
+IGNORE IMAGE ANALYSIS
+.logo================================nbcphiladelphia.com
+INVERT
+.site-footer__social-list-item .icon================================nbi.ku.dk
+CSS
+.tile-link {
+    color: var(--darkreader-neutral-color) !important;
+}================================nec.com
+INVERT
+.logo================================needymeds.org
+CSS
+#header {
+    background: unset !important;
+}================================nejm.org
+INVERT
+a[href="/"] svg================================neonet.pl
 INVERT
 div[class^="newsSingleBar"] > div[class^="newsSingleBarHeaderWidescreen-category"]
 CSS
 div[class^="newsSingleBar"] > div[class^="newsSingleBarHeaderWidescreen-category"] {
     color: ${white} !important;
-}================================niestatystyczny.pl
+}================================neowin.net
 INVERT
-div#logo > h1 > a > img================================nowafarmacja.pl
+.comment-link
+.news-view-switcher span
+.author a.twitter-link
+.meta-comments
+.comment-link::before
+.select-wrap::after
+.report-article-button::before
+#comment-help::before
+.comment-button-report
+.comment-interact a
+CSS
+.select option {
+    background-color: #1c1e1f !important;
+    color: white !important;
+}================================nerdschalk.com
+INVERT
+.logo-default================================nerdwallet.com
+IGNORE INLINE STYLE
+#global-nav *================================nero.com
+INVERT
+.navbar-brand================================netlify.com
+INVERT
+.masthead-home-logo
+CSS
+[data-darkreader-inline-fill] {
+    fill: var(--scrim-icon-color) !important;
+}================================netzpolitik.org
+INVERT
+img[src*="/wp-content/themes/liebefeld/images/netzpolitik_logo.svg"]
+img[src*="/wp-content/themes/liebefeld/images/palasthotel.svg"]
+a.menu__canvas--toggle================================newegg.com
+CSS
+.show-img-bg .goods-img:not(.bg-lightgray),
+.show-img-bg .goods-img > img {
+	mix-blend-mode: normal !important;
+}================================news.mit.edu
+INVERT
+.logo > .mit-news================================news.mynavi.jp
+INVERT
+.itsearch-head .logo
+.site-header__bnr
+.site-header__logo================================news.yahoo.com
+INVERT
+#uh-logo
+.vp-handle================================news.ycombinator.com
+INVERT
+.votearrow================================newyorker.com
+INVERT
+[data-testid="Logo"]
+[class*="Logo__logo"]================================nexojornal.com.br
+INVERT
+.g-aiImg================================nextdns.io
+CSS
+.index .key-features .feature.blocklists {
+    background-image: none !important;
+}
+IGNORE INLINE STYLE
+path.rsm-geography
+IGNORE IMAGE ANALYSIS
+.index .hero .content .logo================================nextjs.org
+IGNORE INLINE STYLE
+.banner *================================ngrok.com
+INVERT
+.customer-logos
+CSS
+.browser path[fill="#BBB"], .browser g[fill="#BBB"] {
+    fill: #BBB !important;
+}
+.terminal tspan[fill="#FFF"] {
+    fill: #FFF !important;
+}
+.terminal tspan[fill="#BBB"] {
+    fill: #BBB !important;
+}================================nicehash.com
+INVERT
+.chart
+img[src*="hashpower@2x]================================niestatystyczny.pl
+INVERT
+div#logo > h1 > a > img================================nirsoft.net
+CSS
+.menub1 a:link, .menub1 a:visited{
+    color: #0040ff;
+}
+.menub1 a:hover {
+    color: #ffffd0;
+}================================niser.ac.in
+CSS
+body,
+#main-content,
+#page {
+    background-image: none !important;
+}================================nixos.org
+INVERT
+header a[href="/"]::after
+CSS
+.demo-preview > .thumbnail svg .background {
+    fill: var(--darkreader-neutral-background) !important;
+}
+.packages-searchbox::before,
+.packages-searchbox::after {
+    background-image: none !important;
+}================================nlnet.nl
+INVERT
+.header_logo================================nnmclub.to
+nnm-club.me
+INVERT
+img[src$="images/icon_arrow.gif"]
+img[src$="images/freeleech.gif"]
+IGNORE IMAGE ANALYSIS
+*================================nokia.com
+CSS
+.pds-background-cover > .pds-background-image-set {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.pds-background-cover video {
+    filter: brightness(50%) sepia(40%) !important;
+}================================norton.com
+INVERT
+.c-topnav__wrap a================================nos.nl
+INVERT
+.npo-button
+IGNORE IMAGE ANALYSIS
+.npo-button================================notebooks.githubusercontent.com/view/ipynb*
+CSS
+.jp-CodeConsole .CodeMirror.cm-s-jupyter,
+.jp-Notebook .CodeMirror.cm-s-jupyter,
+.highlight {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================notion.so
+INVERT
+img[alt="People using Notion"]
+.global-margin-s .logos
+.persona-grid > .persona-grid-item > .persona-grid-image
+.desktop-illustration
+.illustration .next-image
+.api-section-image .next-image
+.visual .next-image
+.logo svg > :first-child
+CSS
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+* {
+    caret-color: ${gray} !important;
+}
+.notion-divider-block div div {
+    border-bottom: 1px solid ${rgba(55, 53, 47, 0.4)} !important;
+}================================novartis.com
+INVERT
+#logo================================novelgames.com
+CSS
+a#commonLogo {
+    background-image: url("https://staticz.novelgames.com/style/default/common_e.5.png"), linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255)), url("https://staticz.novelgames.com/style/default/common.8.png") !important;
+}================================nowafarmacja.pl
 INVERT
 .icon-chevron-down
 .payment-banners
 .hheader::after================================nowemedium.pl
 INVERT
 .logo-tagline-group
-.menu_toggle================================nvidia.pl
+.menu_toggle================================nperf.com
+INVERT
+.SpeedTest > .resultPanel
+CSS
+.SpeedTest > .resultPanel {
+    background-color: transparent !important;
+}================================npmjs.com
+INVERT
+header a[href="/"] svg
+#orgs_panel img.h2
+#enterprise_detail_panel img.h2
+#customers_panel img[src*="adobe.full.png"]
+#customers_panel img[src*="bbc.full.png"]
+#customers_panel img[src*="conde-nast.full.png"]
+#customers_panel img[src*="netflix.full.png"]
+#customers_panel img[src*="visa.full.png"]
+._5532dff2
+._93bbf0b4
+CSS
+a title + g[data-darkreader-inline-fill] {
+    fill: var(--darkreader-neutral-text) !important;
+}================================nrc.nl
+INVERT
+.header__logo
+.selections-bar__item__image
+.header__button svg
+.block__more-link__arrow path
+.metabox__icon
+.article__byline__icon
+.footer__logo
+.socialbuttons================================ns.nl
+CSS
+.section--nsYellow {
+   background-color: var(--darkreader-neutral-background) !important;
+}================================ntlite.com
+CSS
+.fr-wrapper *::selection {
+    background-color: dodgerblue !important;
+}================================nvidia.com
+nvidia.in
+INVERT
+svg.global-footer__logo
+a.brandLink
+img[src*="Experience"]
+a[href*="facebook"]
+a[href*="twitter"]
+a[href*="youtube"]
+a[href*="flickr"]
+CSS
+div.nvidia a svg {
+    fill: ${black} !important;
+}
+div.brand-container a svg {
+    fill: ${black} !important;
+}
+.taboff {
+    background-image: none !important;
+}
+.mid-gray {
+    fill: #999 !important;
+    background-color: #999 !important;
+}
+.dark .green40 {
+    fill: #3b5d00 !important;
+    background-color: #3b5d00 !important;
+}
+.green50 {
+    fill: #598b00 !important;
+    background-color: #598b00 !important;
+}
+.dark .green100 {
+    fill: #76b900 !important;
+    background-color: #76b900 !important;
+}================================nvidia.pl
 INVERT
 .brand-container
 img[src*="Experience"]
@@ -36,4 +327,97 @@ CSS
 body,
 .taboff {
     background-image: none !important;
+}================================nxos.org
+INVERT
+#logo
+a[href^="#sidewidgetarea"]================================nymag.com
+INVERT
+.article-feed-header svg
+.article-nav-top-center
+#latest-feed-title
+.logo-svg
+#site-feed-curbed-title > .feed-title-wrapper
+.tab-trigger > svg
+.tab-trigger > svg > circle
+.tab-trigger > svg > g > circle
+.title-logo
+#vulture-trigger > svg > g > path:nth-child(1)
+#wwwthecut-trigger > svg > .active > path
+CSS
+.collection-articles-lede_first-featured .lede-item[data-track-index="0"] .lede-image-wrap {
+    z-index: 0 !important;
+}
+.collection-articles-lede_first-featured .lede-item[data-track-index="0"] .lede-text-wrap {
+    z-index: 1 !important;
+    position: absolute !important;
+}================================nytimes.com
+INVERT
+#site_header_wrapper a[aria-label="Wirecutter"]
+div#live-country-map.live-country-map-embed
+div#live-us-map.live-us-map-embed
+g > text
+.svelte-1v1dl99
+.vmap-zoom-buttons
+#xwd-board
+CSS
+.css-oylsik,
+.css-nhjhh0 svg,
+.css-18z7m18 svg,
+.css-1q2j1fr svg,
+a[data-testid] > svg {
+    fill: ${black} !important;
+}
+.headline-link div {
+    color: ${black} !important;
+}
+.headline-link div:hover {
+    color: ${#555} !important;
+}
+.svelte-15nnlbj {
+    font-weight: bold !important;
+}
+#xwd-board rect[class^="Cell-block--"] {
+    fill: ${black} !important;
+}
+#xwd-board text[class^="Cell-hidden--"] {
+    color: ${black} !important;
+}
+#xwd-board rect[class^="Cell-cell--"] {
+    fill: ${darkgrey} !important;
+}
+#xwd-board rect[class^="Cell-highlighted--"] {
+    fill: ${lightgrey} !important;
+}
+#xwd-board rect[class^="Cell-selected--"] {
+    fill: ${white} !important;
+}
+#xwd-board rect[class^="Cell-related--"] {
+    fill: ${goldenrod} !important;
+}
+#xwd-board rect[class^="xwd__cell--cell"] {
+    fill: ${darkgrey} !important;
+}
+#xwd-board rect[class^="xwd__cell--highlighted"] {
+    fill: ${lightgrey} !important;
+}
+#xwd-board rect[class^="xwd__cell--selected"] {
+    fill: ${white} !important;
+}
+#xwd-board rect[class^="xwd__cell--related"] {
+    fill: ${khaki} !important;
+}
+#xwd-board rect[class*="xwd__cell--penciled"] ~ text[text-anchor^="middle"] {
+    fill: ${blue} !important;
+}================================nzbget.*
+INVERT
+.icon-top
+.icon-bottom
+.icon-up
+.icon-down================================nzz.ch
+INVERT
+.logo
+CSS
+.logo {
+    background-color: unset !important;
+    color: ${white} !important;
 }

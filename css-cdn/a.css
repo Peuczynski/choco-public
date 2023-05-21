@@ -1,7 +1,291 @@
-akcemed.pl
+a11ywithlindsey.com
+INVERT
+.logo
+CSS
+:root {
+    --off-white: var(--darkreader-neutral-background) !important;
+}================================aad.org
+INVERT
+.header-AAD-logo================================abandonia.com
+CSS
+.alt1G2 {
+    background-image: none !important;
+}
+.alt2G2 {
+    background-image: none !important;
+}================================abcnews.go.com
+INVERT
+.navLogo
+#sections
+#search
+#notifications================================abiturma.de
+INVERT
+div.formula
+amp-img.latex-inline
+img[src^="/assets/compiled-latex/"]================================ableton.com
+INVERT
+.main-nav__logo
+.main-footer__basics__logo
+.main-footer__secondary__signature__logo================================about.gitlab.com
+INVERT
+div.customer-logos__companies a
+CSS
+.progressbar {
+    background: black;
+}================================academy.abeka.com
+INVERT
+.logo img
+.center-align img================================academy.dqlab.id
+INVERT
+.menu img================================access.ing.de
+CSS
+.tile__info {
+    background-color: #fff !important;
+}================================access.wgu.edu
+my.wgu.edu
+INVERT
+img[alt="WGU Logo"]
+.nav-hamburger================================accessiblepalette.com
+INVERT
+.swatch .hex
+IGNORE INLINE STYLE
+.swatch================================accesswire.com
+INVERT
+.v2-nav-logo================================account.live.com
+INVERT
+.ms-Grid-col.ms-sm8.ms-lg4
+.ms-Grid-col.ms-sm4.ms-hiddenMdDown.pullout-textwrap
+.ms-Grid-col.ms-sm2 img
+CSS
+img[class="ShowMoreLoading"] {
+	filter: invert(93.7%) hue-rotate(180deg) contrast(90.6%) !important
+}================================account.microsoft.com/profile
+INVERT
+.ms-StackItem div div img[src*="svg?n"]================================account.orchid.com
+INVERT
+.walletconnect-qrcode__image================================account.proton.me
+account.protonvpn.com
+INVERT
+.sign-layout-bg
+.sign-layout-bg > *
+CSS
+.qr-code {
+    border: 5px solid white !important;
+}
+IGNORE INLINE STYLE
+.logo *
+.qr-code *================================account.ui.com
+CSS
+div[class^="Toggle-module_switcher"] {
+    background-color: var(--darkreader-neutral-text) !important;
+}
+input[class^="Toggle-module_input"] {
+    background-color: initial;
+}
+div[class^="Modal-module_content"] form > div > canvas {
+    border: 5px solid white !important;
+}================================account.xiaomi.com
+CSS
+.mi-profile-layout__profile {
+    background-image: none !important;
+}================================accounts.google.com
+INVERT
+img[src$="signin_tapyes.gif"]
+CSS
+#countryList div[role="option"][data-value] > div > div > div[style] {
+    background-image: url('//ssl.gstatic.com/i18n/flags/48x32/nobevel/66bdb7a1bbbdbf86a67de382fac49ecc/flags.png') !important;
+}================================accounts.hetzner.com
+dns.hetzner.com
+konsoleh.hetzner.com
+robot.hetzner.com
+INVERT
+.top-bar-link > img
+.d-flex > img
+#panel_dropdown_btn > img
+#user_dropdown_btn > img================================accounts.spotify.com
+INVERT
+.spotify-logo================================accounts.zoho.com
+INVERT
+div#product_img.tfa_totp_mode
+span.zoho_logo
+.zwHDots================================accuweather.com
+INVERT
+.allergy-icon
+.icon-search
+img[src$="arrow-right-black.svg"]================================acer.com
+INVERT
+.firstHeader .logos
+CSS
+.contSectionBen img {
+    filter: brightness(50%) sepia(40%) !important;
+}
+.contSectionBen .textOverBen {
+    position: inherit !important;
+}================================acmicpc.net
+INVERT
+.cm-s-lucario.CodeMirror================================acorn.utoronto.ca
+CSS
+.acorn-classic.page-container .academic-history .sessionHeader,
+.acorn-classic.page-container .academic-history .credit-earned-section,
+.acorn-classic.page-container .academic-history .average-section,
+.acorn-classic.page-container .academic-history .courses,
+.acorn-classic.page-container .academic-history .coursesHeader,
+.acorn-classic.page-container .academic-history .academic-history-report .gpa-listing,
+.acorn-classic.page-container .academic-history-recent table .emph {
+    color: var(--darkreader-neutral-text) !important;
+}================================actioncardapp.com
+INVERT
+.logo================================ad.nl
+CSS
+.instanews-page-main-content {
+    color: var(--darkreader-neutral-text) !important;
+}================================ada.org
+INVERT
+.logo================================adata.com
+INVERT
+.logo-nav================================addons.mozilla.org
+INVERT
+div[class="Rating Rating--small"]
+img.SecondaryHero-module-icon
+IGNORE IMAGE ANALYSIS
+.Icon-youtube
+span.Permission-description::before================================adguard-dns.io
+INVERT
+.animation__video
+.footer__logo
+.header__logo
+.map__point-icon
+.map__point-city
+.servers-info__queries
+CSS
+.animation__video {
+    z-index: 0 !important;
+}
+.map__point-city,
+.servers-info__map {
+    filter: invert(1) hue-rotate(120deg) brightness(250%) !important;
+}================================adguard-vpn.com
+INVERT
+.header__logo================================adguard.com
+INVERT
+a.header__logo
+svg.reviews__icon-topic
+.article__section--list-ico .md__list .md__img
+.article__content--title-ico .article__section .md__title .md__img
+.p-header-logo.p-header-logo--image img
+.icon--gray-chrome
+.icon--gray-edge
+.icon--gray-opera
+.icon--gray-firefox
+IGNORE IMAGE ANALYSIS
+.icon--gray-opera
+.icon--gray-firefox================================admin.migadu.com
+CSS
+.container {
+    background-image: none !important;
+}================================afterpay.com
+INVERT
+div[class^="navigation_logo"]================================aftonbladet.se
+CSS
+a[href$="plus_plusikon"] > :nth-child(1) {
+   color: ${white}
+}================================ai2.appinventor.mit.edu
+CSS
+.blocklyDraggable text {
+    color: var(--darkreader-neutral-text) !important;
+}================================aiming.pro
+INVERT
+#left_side_bar > div.logo > a > img================================akademy.kde.org
+edu.kde.org
+dot.kde.org
+forum.kde.org
+CSS
+body,
+#footer {
+    background: ${rgb(225, 227, 228)} !important;
+}================================akasa.com
+INVERT
+.logo================================akcemed.pl
 INVERT
 .td-main-menu-logo
-.footer-logo-wrap================================allegro.pl
+.footer-logo-wrap================================akinator.com
+INVERT
+.bubble
+.bubble-body
+CSS
+.bubble {
+    background-color: ${black} !important;
+    color: ${white} !important;
+}
+.bubble-body {
+    background-color: ${white} !important;
+    color: ${black} !important;
+}
+.question-number {
+    color: ${white} !important;
+}================================alamy.com
+CSS
+.bg-opacity-0 {
+    background-color: transparent !important;
+}================================aldi.us
+IGNORE INLINE STYLE
+.company-logo-content *================================alertus.com
+INVERT
+.Header-branding
+[src^="https://images.squarespace-cdn.com"]================================alexpage.de
+CSS
+#page {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}================================alfredapp.com
+INVERT
+[src*="macworld.png"]
+[src*="tuaw.png"]
+[src*="eddy_awards.png"]
+[src*="appstorm.png"]
+[src*="tnw.png"]
+[src*="search.jpg"]
+[src*="clipboard.jpg"]
+[src*="control.jpg"]
+[src*="konami-code.png"]
+[src*="oatmeal404.jpg"]
+[src*="query-history.png"]================================algorithm-wiki.org
+INVERT
+.thumbimage
+CSS
+.thumbimage {
+    background-color: ${rgb(1, 4, 5)} !important;
+    border-color: ${rgb(48, 54, 57)} !important;
+}================================aliexpress.*
+CSS
+a[class^="SnowOrderDetails_Product__imageWrap"],
+div[class^="SnowOrderList_ProductImage__imageWrapper"] {
+  background-color: #fff !important;
+}
+IGNORE INLINE STYLE
+svg[class^="ali-kit_Rating__star"]================================alipay.com
+INVERT
+#J_logoHomeUrl
+.global-logo
+CSS
+.qrcode-detail-img {
+    background-color: white !important;
+}
+.authcenter-background {
+    z-index: 0 !important;
+}
+.authcenter-head,
+.authcenter-foot,
+.authcenter-body-login,
+.authcenter-body-logo > a {
+    z-index: 1 !important;
+}================================aljazeera.com
+INVERT
+#site-logo > img
+.navbar-brand > img
+#navbar-hamburger-mobile================================allconnect.com
+INVERT
+.mininav-header__logo-image================================allegro.pl
 INVERT
 i[title="Smart!"]
 ol[data-role="slidesList"] > li[data-analytics-view-value="Smart! Week już od 10 października"]
@@ -36,15 +320,238 @@ IGNORE IMAGE ANALYSIS
 ._12h65================================allegrolokalnie.pl
 INVERT
 .mlc-masthead__branding
-.mlc-site-footer__branding================================ang.pl
+.mlc-site-footer__branding================================allestoringen.*
+downdetector.*
+downdetector.*.*
+xn--allestrungen-9ib.*
+INVERT
+#map_container
+#map-card================================allmacworld.com
+INVERT
+.logo
+.tie-appear.post-thumbnail
+.tie-appear.post-thumbnail > [href="https://allmacworld.com/blocs-free-download/"]
+.tie-appear.post-thumbnail > [href="https://allmacworld.com/waves-v11-complete-download-free/"]
+.tie-appear.post-thumbnail > [href="https://allmacworld.com/3dequalizer-4-for-mac-free-download/"]
+.tie-appear.post-thumbnail > [href="https://allmacworld.com/sylenth1-for-mac-free-download/"]
+.tie-appear.post-thumbnail > [href="https://allmacworld.com/synapse-audio-legend-free-download/"]================================allrecipes.com
+INVERT
+.checkbox-list-checkmark::before
+.external-link-icon
+.icon-ellipsis > svg
+.icon-email-outline
+.icon-search
+.icon-share-favorite
+.rating-bar-wrapper
+img[src="/img/profile.png"]================================allspice.io
+INVERT
+[data-mesh-id="SITE_HEADERinlineContent"] img================================alphacoders.com
+INVERT
+.main
+.main > *
+#page_header
+#page_header > *================================alphashooters.com
+CSS
+.site-container {
+    --darkreader-bg--site-container-background: var(--darkreader-neutral-background) !important;
+}================================alpine.com
+INVERT
+.alpsalpineLogo================================alt.hololive.tv
+INVERT
+video[src*="bg.mp4"]
+video[src*="first.mp4"]
+img[src*="logo_2line_gradient_color.svg"]
+svg================================altlinux.org
+INVERT
+.mw-wiki-logo================================amap.com
+INVERT
+.amap-info
+.amap-menu
+.imgfeed[style*="place_default.jpg"]
+.logo-img
+#subway-svg
+#themap
+.title01-logo > a > img================================amazingmarvin.com
+INVERT
+.header-title================================amazon.*
+amazon.*.*
+INVERT
+#banner-image
+#ordersContainer .a-box.order-attributes img
+div.a-section.vse-lb-video-metadata
+div.vse-video-content
+img[src*="smile-logo"]
+.a-icon-arrow.a-icon-small.arrow-icon
+.a-icon-close
+.a-icon-extender-expand
+.a-icon-popover
+.a-link-nav-icon
+.currencyINR
+div.vse-video-title
+div.vse-video-labels
+i.a-icon-search
+CSS
+.banner-border {
+    background-image: none !important;
+    background-color: ${white} !important;
+}
+div.milestone.notReached .milestone-marker::before {
+    border-color: var(--darkreader-neutral-text);
+}
+span.milestone-bar {
+    z-index: 0;
+}
+span.milestone-bar_foreground {
+    background-color: #4DC2B4;
+}
+span.milestone-bar_background {
+    background-image: linear-gradient(var(--darkreader-neutral-text) 40%, #181a1b00 0px);
+}
+img {
+    border-radius: 5% !important;
+}================================amazon.cn
+INVERT
+#nav-logo
+CSS
+#nav-main,
+.nav-search-scope {
+    background-image: none !important;
+}================================ametek.com
+INVERT
+.ametek_logo================================amfam.com
+INVERT
+.SiteHeader__logo-img================================amtrak.com
+INVERT
+img[alt="Add travelers and discounts"]
+img[alt="Passenger"]
+img[alt="Switch departure and arrival stations."]================================androidcentral.com
+INVERT
+.site-logo
+CSS
+.lazy-loaded {
+    mix-blend-mode: normal !important;
+}================================androidpolice.com
+INVERT
+.header-logo svg================================ang.pl
 CSS
 body {
     background-image: none !important;
-}================================antywirus-nod32.pl
+}================================angrymetalguy.com
+INVERT
+.plbrand
+CSS
+.thepage {
+    background-color: ${white} !important;
+}
+.content-pad {
+    background-color: ${white} !important;
+}================================anibrain.ai
+IGNORE INLINE STYLE
+div[class^="style__HexagonDiv"] *
+svg[class^="styles__SvgWithShadow"] *================================anilibria.tv
+CSS
+#oframeanilibriaPlayer pjsdiv:nth-child(12) pjsdiv:nth-child(2) pjsdiv,
+#oframeanilibriaPlayer pjsdiv:nth-child(14) pjsdiv:nth-child(2) pjsdiv {
+     background-color: var(--darkreader-neutral-text) !important;
+}================================anilist.co
+CSS
+:root {
+    --color-background: 39,44,56 !important;
+    --color-foreground: 31,35,45 !important;
+    --color-foreground-grey: 25,29,38 !important;
+    --color-foreground-grey-dark: 16,20,25 !important;
+    --color-foreground-blue: 25,29,38 !important;
+    --color-foreground-blue-dark: 19,23,29 !important;
+    --color-text: 159,173,189 !important;
+    --color-text-light: 129,140,153 !important;
+    --color-text-lighter: 133,150,165 !important;
+}================================ankiweb.net
+CSS
+.sidebar {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================annas-archive.org
+CSS
+.header-inner div[style$="rgba(0, 0, 0, 0.41) 0px 0px 3px;"] {
+    background-color: var(--darkreader-neutral-text) !important;
+}================================anon-co-eu.com
+INVERT
+img[alt="Anon-Co Radios Europe"]================================anon-co.com
+INVERT
+img[alt="Anon-Co"]================================answers.opencv.org
+CSS
+#header,
+body,
+#question-list,
+.short-summary,
+#ground {
+    background-image: none !important;
+}================================answers.unity.com
+IGNORE IMAGE ANALYSIS
+header.section-header div.shard::before================================antagning.se
+INVERT
+.a-logo
+.burger
+.uhrlogo
+.expand-icon
+.favourite-active
+CSS
+select {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================antistorm.eu
+INVERT
+#map-area
+#map-controls-area
+#controlPlayPauseIcon
+#meteogram_temperature
+#meteogram_dewPoint
+#meteogram_cloudCover
+#meteogram_precipitation
+#meteogram_precipitationProbability
+#meteogram_pressure
+#meteogram_windSpeed
+img[src*="data:image/png;base64,iVBORw"]================================antywirus-nod32.pl
 CSS
 .module.infolinia {
     background-image: none !important;
-}================================app.betrybe.com
+}================================anytype.io
+IGNORE IMAGE ANALYSIS
+.img.home================================aol.com
+INVERT
+.logo================================aosogrenci.anadolu.edu.tr
+CSS
+.welcome {
+    background-image: none !important;
+}================================apartmentlist.com
+INVERT
+div[class*="LogoContainer"]
+div[class*="MenuButton"]================================apartments.com
+INVERT
+.logo================================apclassroom.collegeboard.org
+INVERT
+.overview-icon svg
+.Zoom--expander svg
+svg.icon--xmark
+.RI_header__button svg.svg-icon
+CSS
+.standalone_image img {
+    background-color: white;
+}================================api.kde.org
+INVERT
+.center
+.image
+CSS
+.memdoc, .memproto {
+    background-image: initial !important;
+}================================apie.lrt.lt
+INVERT
+img[alt="LRT"]
+button[class^="Burger_burger"]================================apkpure.com
+INVERT
+img[src$="gp_logo.png"]================================apnews.com
+INVERT
+.hamburger-box
+.sticky-part > div svg
+.LeftRail > div svg================================app.betrybe.com
 INVERT
 section.quiz-result__template summary
 section.quiz-result__template summary .block-code
@@ -67,18 +574,435 @@ CSS
 .quiz-question__alternatives label:hover,
 .quiz-question__alternatives input[type=radio]:checked + label {
    background: initial !important
-}================================architekturaibiznes.pl
+}================================app.codesignal.com
+CSS
+.monaco-editor .cursor {
+   background-color: var(--darkreader-selection-text) !important;
+}================================app.corellium.com
+INVERT
+.brand
+.logo================================app.daily.dev
+IGNORE INLINE STYLE
+.h-logo *================================app.datadoghq.com
+INVERT
+.HostMap-canvas
+CSS
+.log-dt-event.active, .log-dt-event.active:hover, .log-dt-event:hover {
+    background-color: rgb(37, 45, 58) !important;
+}
+svg text.time_cursor {
+    fill: ${black} !important;
+}================================app.grammarly.com
+CSS
+use.valueCircle_f6otssy {
+    stroke: url(#pb-gradient-0);
+}
+:root {
+    --highlight-bg: ${rgba(0, 0, 0, 0.2)}
+}
+.alerts-clarity {
+    --highlight-bg: ${rgba(57, 93, 207, 0.2)};
+}
+.alerts-engagement {
+    --highlight-bg: ${rgba(29, 203, 162, 0.2)};
+}
+.alerts-correctness {
+    --highlight-bg: ${rgba(255, 69, 103, 0.2)};
+}
+.alerts-delivery {
+    --highlight-bg: ${rgba(124, 58, 172, 0.2)};
+}
+[class*="-alerts-markSelectedHigh"], span[class*="markSelectedFocused"] {
+    background-color: var(--highlight-bg) !important;
+}
+[class*="-navigation-counterWrapper"] [class*="-navigation-counterContent"],
+[class*="-paidview-counter"] [class*="-paidview-counterContent"] {
+    fill: rgb(0, 0, 0, .9);
+}
+IGNORE INLINE STYLE
+use[class*="valueCircle_"]================================app.kognity.com
+INVERT
+img.KogCalculator
+.content-image-figure > img[src*="png"]
+CSS
+body, .KogDashboard-insideLoader {
+    background: none var(--darkreader-neutral-background) !important;
+}
+img:not([src*="png"]):not([src*="svg"]) {
+    background-color: white !important;
+}================================app.mysms.com
+CSS
+.message a {
+     color: grey;
+}================================app.roll20.net
+INVERT
+.sheet-hp
+.sheet-ac
+.sheet-textbox
+.sheet-name-container
+.sheet-attributes-container
+.sheet-attr-container button
+.sheet-hlabel-container
+.sheet-vitals
+.sheet-init button
+.sheet-spell-level
+.sheet-spell-level input
+.sheet-textbox .sheet-options
+.sheet-speed input
+.sheet-part select
+.sheet-resources .sheet-subcontainer
+.sheet-resources .sheet-label
+.sheet-subcontainer .sheet-top
+.sheet-textbox .sheet-label
+.sheet-attack .sheet-options
+CSS
+.sheet-attributes-container,
+.sheet-init,
+.sheet-speed,
+.sheet-trait,
+.sheet-part,
+.sheet-spell-level,
+.sheet-details {
+    color: ${white} !important;
+}================================app.standardnotes.org
+INVERT
+[aria-label="Challenge modal"] > svg > circle:first-child
+input[id^="react-tag-"]
+CSS
+search-options svg {
+    fill: var(--darkreader-neutral-text) !important;
+}
+IGNORE INLINE STYLE
+search-options svg================================app.timelyapp.com
+INVERT
+.Clock__clock_css_icon___LfBr6
+.Clock__stopwatch___2G-CB
+CSS
+.Day__container___1Fpnl.Day__showBackground___3CXnw {
+     background-image: none;
+}================================app.traderepublic.com
+IGNORE INLINE STYLE
+#chartPriceLine================================app.youneedabudget.com
+CSS
+[data-darkreader-inline-fill] {
+    fill: ${black} !important;
+}================================apple.com
+INVERT
+.ac-slider-ax-track
+.controls-progress-indicator
+.rf-ccard-content-info================================apple.com/leadership/
+IGNORE IMAGE ANALYSIS
+*================================apps.microsoft.com
+INVERT
+.empty-star================================aprs-map.info
+INVERT
+img[src*="tile.openstreetmap.org/"]
+img[src*="tile.opentopomap.org/"]================================aprs.fi
+INVERT
+img[src*="maps.googleapis.com/maps/vt"]
+img[src*="tile.openstreetmap.org"]
+CSS
+#panel {
+    background-image: none !important;
+}================================apteka.ru
+INVERT
+ymaps[class$="ground-pane"]
+.icon--logo================================aras.com
+CSS
+.alternate_color.banner__title.display-2,
+.alternate_color.banner__subtitle.display-5 {
+    color: var(--darkreader-neutral-text) !important;;
+}
+.banner__title.display-2,
+.banner__subtitle.display-5 {
+    color: ${white} !important;
+}================================archenoah-kelkheim.de
+IGNORE IMAGE ANALYSIS
+.wsite-header================================architekturaibiznes.pl
 INVERT
 .icon-section
-a span.image-rwd-dzial-logo================================audycje.tokfm.pl/widget
+a span.image-rwd-dzial-logo================================archive.org
+INVERT
+p + fieldset a svg
+.search-field svg
+.ia-wordmark
+CSS
+#search-input {
+    color: var(--darkreader-neutral-background) !important;
+}================================ario-player.sourceforge.net
+INVERT
+div.header
+CSS
+div.main,
+#menu li a,
+#menu li {
+    background-image: none !important;
+}================================ars.particify.de
+CSS
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.mat-mini-fab {
+    box-shadow: none !important;
+}
+.mat-card {
+    background-color: #{gray} !important;
+    box-shadow: none !important;
+}
+.mat-chip {
+    background-color: var(--darkreader-neutral-background)  !important;
+    color: var(--darkreader-neutral-text) !important;
+}================================arstechnica.com
+CSS
+.listing, .video-thumbnail {
+    background-blend-mode: initial !important;
+}
+.article-single figure img {
+    mix-blend-mode: initial !important;
+}================================artofproblemsolving.com
+INVERT
+.latex
+.latexcenter================================artsy.net
+CSS
+[aria-checked="false"][role="checkbox"] svg path {
+    fill: transparent !important;
+}
+IGNORE INLINE STYLE
+[role="checkbox"] svg *================================arxiv.org
+CSS
+.abstract {
+     background-color: transparent !important;
+}================================asahichinese-j.com
+INVERT
+#HeaderInner img
+.SocialNav
+.Tag li a
+CSS
+.Tag li a {
+    color: ${grey} !important;
+}
+a, .LastUpdated, .Lead {
+    color: var(--darkreader-neutral-text) !important;
+}
+#Footer p, #FooterInner {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+h1, .ArticleBody p, .ImagesHeightMod {
+    background-color: var(--darkreader-neutral-background) !important;
+    color: var(--darkreader-neutral-text) !important;
+}================================asahilinux.org
+INVERT
+.header-logo================================asana.com
+INVERT
+.siteHeader__logo
+.DatePickerCalendarDate--today .DatePickerCalendarDate-button::after
+CSS
+.MultiColorIcon--unselected .MultiColorIcon-path--fadedBlack {
+    fill: var(--darkreader-bg--color-icon) !important;
+}
+.MultiColorIcon-path--white {
+    fill: var(--darkreader-text--color-icon-foreground) !important;
+}
+.DailySummaryInboxThread--selected,
+.TaskAddedToPotInboxThread--selected,
+.InboxExpandableThread.InboxExpandableThread--selected,
+.PortfolioItemRow {
+    background: var(--darkreader-neutral-background) !important;
+}
+.PortfolioItemRow:hover {
+    background: ${#FFF} !important;
+}
+.HomePageContent {
+    background-image: none !important;
+}
+div.PeopleWidgetCarousel-gradient.PeopleWidgetCarousel-gradient--right {
+    display: none;
+}================================asciinema.org
+IGNORE INLINE STYLE
+polygon
+polyline================================askjohnmackay.com
+INVERT
+[src$="ask-john-mackay-logo.png"]
+[src$="side-banner-05.gif"]
+[src$="reasonwhy.jpg"]
+CSS
+body,
+header,
+#site-footer,
+#live-search {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}================================askvg.com
+INVERT
+.site-header img================================askwoody.com
+CSS
+.banner,
+.content {
+    background-image: none !important;
+}================================assetstore.unity.com
+CSS
+div[style^="background-color:var(--color-bg-gray-5)"] {
+    --color-bg-gray-5: var(--darkreader-neutral-background) !important;
+}
+h2[style*="color:var(--color-font-header)"] {
+    --color-font-header: var(--darkreader-neutral-text) !important;
+}================================astro.build
+CSS
+hero-card .card {
+    --darkreader-bg--tw-gradient-stops: var(--darkreader-bg--tw-gradient-from), var(--darkreader-neutral-background), var(--darkreader-bg--tw-gradient-to) !important;
+}
+IGNORE INLINE STYLE
+#navlogo svg path================================asus.com
+INVERT
+span.mobile-menu-toggle.mobile
+em#searchopen.icon-search
+#af-header .af-inner .logo
+IGNORE IMAGE ANALYSIS
+#af-header .af-inner .logo
+li.nav-Rog a================================atcoder.jp
+CSS
+#fixed-server-timer {
+    color: #333;
+}================================atlas.herzen.spb.ru
+guide.herzen.spb.ru
+job.herzen.spb.ru
+INVERT
+img[src="/images/logo.png"]
+hr
+CSS
+body, .body, table, tbody, tr, td, .corner_bottom {
+    background: none !important;
+}================================atlassian.net
+INVERT
+img[src*="https://github.githubassets.com/favicon.ico"].smart-link-icon
+.sc-jTzLTM
+img[src^="https://latexmath.bolo-app.com/render/"]
+CSS
+span.code, code.code {
+    background-color: rgba(240,246,252,0.15) !important;
+}
+.ghx-parent-group,
+.ghx-issue {
+    background-color: rgba(119, 183, 255, 0.05) !important;
+}
+span.loader-wrapper a,
+.css-s0tfqx,
+.css-1vn31bx,
+.css-1gx5gpx,
+.css-wvfva4 {
+    background-color: rgba(240,246,252,0.1) !important;
+}
+.css-1yfnrso,
+.aui-flag,
+.aui-message {
+    box-shadow: 0 0 20px rgba(240,246,252,0.15) !important;
+}
+.css-1ua1xqz {
+    background-color: rgba(65, 65, 83, 0.6) !important;
+}
+code:first-of-type {
+    background-image: linear-gradient(to right, rgba(255,255,255,0.03),rgba(255,255,255,0.03) calc(1ch + 16px),transparent calc(1ch + 16px),transparent) !important;
+}
+.sc-1jjaulc-0 {
+    box-shadow: 0 0 4px ${rgba(3,9,15,0.15)} !important;
+    background-color: ${rgba(3, 9, 15, 0.02)} !important;
+}
+.sc-186t4q4-1 {
+    background-color: ${rgba(3, 9, 15, 0.02)} !important;
+}
+div.zgsxji-0.jMIyWM > div > div > div > div {
+    background-color: var(--darkreader-bg--ds-surface, #181a1b) !important;
+}
+#ak-main-content, .pfb8c3-0.dpzKHj, ._11q7vuon {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+#jira-issue-header, #jira-issue-header-actions {
+    background-color: rgb(29, 32, 33) !important;
+}
+.ak-editor-panel[data-panel-type="note"] {
+    background-color: ${rgb(217, 200, 228)} !important;
+}
+.ak-editor-panel[data-panel-type="info"] {
+    background-color: ${rgb(172, 217, 242)} !important;
+}
+.ak-editor-panel[data-panel-type="error"] {
+    background-color: ${rgb(255, 220, 211)} !important;
+}
+.ak-editor-panel[data-panel-type="warning"] {
+    background-color: ${rgb(238, 229, 187)} !important;
+}
+.ak-renderer-document hr, .ProseMirror hr {
+    background-color: rgb(69, 70, 72) !important;
+}
+.ProseMirror hr.ak-editor-selected-node {
+    background-color: rgb(0, 101, 255) !important;
+}
+.jira-issue-status-lozenge {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.fabric-text-color-mark {
+    --darkreader-text--custom-text-color: var(--custom-text-color);
+}
+#content-body {
+    --ds-surface: var(--darkreader-neutral-background) !important;
+}
+IGNORE INLINE STYLE
+.ak-editor-content-area *================================audible.com
+INVERT
+#adbl-cloud-player-controls================================audio-technica.com
+INVERT
+.o-header__logo================================audycje.tokfm.pl/widget
 CSS
 body {
      background-color: var(--darkreader-neutral-background) !important;
-}================================avanti24.pl
+}================================auth.adguard.com
 INVERT
-.box-logo================================avlab.pl
+.header__logo path[fill="#000"]================================auth0.com
+INVERT
+button[data-handler="authorise-github"] > img.icon.icon-default================================autodesk.com
+INVERT
+.uh-logo-container================================autoweek.com
+INVERT
+.nav-logo================================avanti24.pl
+INVERT
+.box-logo================================avast.com
+INVERT
+.avast-logo================================avg.com
+INVERT
+.bi-nav-toplink================================avito.ru
+INVERT
+a[class^="logo-logo"] > svg > g > path
+a[class^="logo-logo"] > svg > g > g
+div[class^="index-logo"] > a[class^="index-root"]
+.item-extended-phone
+.item-price-old::before
+.contacts-phone-3KtSI
+.button-content-phone_size_l-1O5VB
+._39EVKDP-9p1BREJQ3fhILl._2sPEvPi-1aWpcq1ggVph1C._4wLX_6jxKYoWRyE1U1WcZ
+[class^="suggest-graySuggestCategoryImg"]
+ymaps[class$="ground-pane"]
+CSS
+div[class^="item-preview-image"] {
+    z-index: 0 !important;
+}================================avlab.pl
 INVERT
 img[src*="avlab-logo"]
 img[alt*="logo"]
 .elementor-widget-wrap div div a.elementor-icon svg
-.elementor-social-icons-wrapper
+.elementor-social-icons-wrapper================================aws.amazon.com
+INVERT
+a.lb-trigger
+.hover .axis-box rect
+.img-wrapper
+img[alt^="WEB_FreeTier"]
+.lb-is-lazyloaded
+.lb-none-v-margin.lb-img
+.lb-tiny-iblock .cq-dd-image
+CSS
+.header-background {
+  fill: none !important;
+}================================azuresynapse.net
+INVERT
+.cursor================================azurlane.koumakan.jp
+IGNORE IMAGE ANALYSIS
+.mw-wiki-logo

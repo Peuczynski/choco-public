@@ -2,6 +2,56 @@ gadzetomania.pl
 CSS
 a svg path[d^="M12.881 14.785v-"] {
     fill: #fff !important;
+}================================gain.tv
+CSS
+.body-new-index .hero-img-container {
+    z-index: 0 !important;
+}================================gameinformer.com
+INVERT
+.site-logo================================gamepress.gg
+CSS
+.TLW-tier-charname {
+    color: ${black} !important;
+}================================gameranx.com
+CSS
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.mai-toc__listitem,
+.mai-toc__details,
+.mai-toc-default .mai-toc__summary {
+    background-color: ${#f7f7f7} !important;
+}================================gamerevolution.com
+INVERT
+.wp-block-xwp-curated-content__card-title
+.wp-block-xwp-curated-content__card-excerpt
+.wp-block-xwp-curated-content__card-footer
+.wp-block-xwp-curated-content__title
+.xe-footer-nav__menu
+.xe-footer-social-nav__menu
+.xe-site-footer__bottom-column-2
+#h-featured================================gamesindustry.biz
+INVERT
+.logo================================gamestop.com
+INVERT
+.nav-logo================================garmin.com
+INVERT
+.gh__logo
+.map-controls.player .pause span================================gasbuddy.com
+INVERT
+.pin
+.pin-small================================gat.no
+INVERT
+figure.logo > img
+CSS
+main.container .every_board > .row:not(.row--takeover) {
+    --front-background-color: var(--darkreader-neutral-background) !important;
+}================================gatsbyjs.com
+INVERT
+.ais-InfiniteHits-item
+CSS
+.gatsby-highlight, .language-text {
+    background-color: var(--darkreader-neutral-background);
 }================================gazeta.pl
 plotek.pl
 sport.pl
@@ -30,7 +80,76 @@ INVERT
 CSS
 .elementor-column-wrap.elementor-element-populated {
     background-color: var(--darkreader-neutral-background) !important;
-}================================gg.pl
+}================================ge.globo.com
+CSS
+.glb-grid .tabela-body {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================geekflare.com
+INVERT
+.logo================================geeksforgeeks.org
+CSS
+.gsc-input-box {
+    box-shadow: ${rgba(0, 0, 0, 0.3)} 0px 0px 2px !important;
+}================================geizhals.*
+skinflint.co.uk
+cenowarka.pl
+CSS
+img,
+.mocat-item__image,
+.primary-nav .nav-item-type-cat-image {
+    mix-blend-mode: normal !important;
+}================================genius.com
+INVERT
+.texmath================================genshin-impact-map.appsample.com
+INVERT
+.bg-secondary.px-1.py-0.input-group-text > .icon
+.border-top2.text-center.w-100.sidebar-footer
+.gm-ui-hover-effect================================gentoo.org
+INVERT
+.site-logo================================geogebra.org
+INVERT
+.icon-m
+.elemText canvas
+.gwt-Image
+.gwt-StackPanelItem img
+.GeoGebraMenuImage.menuImg
+.menuImg
+.buttonContent.stylebarButton
+.EuclidianPanel > canvas
+.stepTreeElem================================get.google.*
+get.google.*.*
+INVERT
+a[href*="about/products"]
+span[aria-label="Settings"][role="menuitem"] path
+span[aria-label="About Album Archive"][role="menuitem"] path
+span[aria-label="Download photo"][role="menuitem"] path
+span[aria-label="Manage in Google Photos"][role="menuitem"] path================================getalt.org
+INVERT
+.site-title================================getfedora.org
+INVERT
+img[alt="globe"]================================getlektor.com
+CSS
+.body-wrapper .container {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+pre {
+    background-image: none !important;
+}================================getmimo.com
+INVERT
+a[title="Home"][href] > svg
+div[class^="FifthSection___StyledDiv8"] > svg
+div[class^="Footer__Row"] > :nth-child(1) svg
+CSS
+login-container {
+    background: var(--darkreader-neutral-background) !important;
+}================================getpocket.com
+CSS
+p a[rel="noopener noreferrer"] {
+    text-shadow: none !important;
+    background-image: linear-gradient(to top,transparent,transparent 1px,var(--darkreader-text--color-canvas) 1px,var(--darkreader-text--color-canvas) 2px,transparent 2px) !important;
+}================================getsol.us
+INVERT
+img[alt="Logo"]================================gg.pl
 INVERT
 .chat-btns
 .profile-close i
@@ -38,14 +157,416 @@ INVERT
 CSS
 .sr-contact-name span {
     background-image: none !important;
-}================================gloswielkopolski.pl
+}================================ggmania.com
+CSS
+body {
+    background-image: none !important;
+}================================ghisler.com
 INVERT
-.componentsNavigationNavbar__brand================================godzinyotwarcia24.pl
+img[src$="bit.gif"]================================gigabyte.com
+INVERT
+.kf-vision
+.kf-vision > *
+.creator-vision
+.creator-vision > *
+.InnerGIGABYTEContent .scroll_bg_01
+.InnerGIGABYTEContent .scroll_bg_01 > *
+.InnerGIGABYTEContent .eagle_build_strong
+.InnerGIGABYTEContent .eagle_build_strong > *================================git-scm.com
+INVERT
+img[alt="Git"]
+CSS
+body, #masthead {
+    background-image: none !important;
+}================================github.blog
+INVERT
+a[href="https://github.com"]
+.site-branding > svg
+.icon-logo-github
+.aligncenter
+.wp-image-56594
+.wp-image-56590
+[src^="https://github.blog/wp-content/uploads/2019/03/BlogHeaders_Aligned_CHANGELOG"]
+[src^="https://i0.wp.com/user-images.githubusercontent.com/"]
+[src^="https://i1.wp.com/user-images.githubusercontent.com/"]
+[src^="https://i2.wp.com/user-images.githubusercontent.com/"]================================github.com
+github.*.*
+INVERT
+[src="https://github.githubassets.com/images/modules/site/icons/footer/github-logo.svg"]
+[src^="https://github.githubassets.com/images/modules/site/home/community-sponsor-"]
+[src^="https://github.githubassets.com/images/modules/site/home/community-readme-"]
+[src^="https://github.githubassets.com/images/modules/site/home/community-discussions-"]
+[src="https://github.githubassets.com/images/modules/site/home/dependabot-merge.png"]
+[src="https://github.githubassets.com/images/modules/site/home/dependabot-pr.png"]
+[src="https://github.githubassets.com/images/modules/site/home/gh-desktop.png"]
+[src="https://github.githubassets.com/images/modules/site/home/pr-merge.png"]
+[src="https://github.githubassets.com/images/modules/site/home/pr-comment.png"]
+[src="https://github.githubassets.com/images/modules/site/home/pr-description.png"]
+[src="https://github.githubassets.com/images/modules/site/home/pr-screen.png"]
+[src="https://github.githubassets.com/images/modules/site/home/enterprise-city-w-logos.jpg"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/codespaces-icon.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/dependency-rust.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/dependency-3.png"]
+[src^="https://github.githubassets.com/images/modules/site/codespaces/dependencies-"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/commit-3.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/extensions-1.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/extensions-2.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/commit-workflow.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/workflow-view.png"]
+[src="https://github.githubassets.com/images/modules/site/codespaces/code.png"]
+[src="https://github.githubassets.com/images/email/explore/explore-gradient-icon.png"]
+[src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/learn-to-code/learn-to-code.png"]
+.js-viewport-aware-video.color-bg-primary.width-full.d-block.codespaces-hero-video
+.build-in-animate.position-relative.mb-6-fluid.box-shadow-active-mktg.mx-auto.home-mobile-iphone.build-in-slideY.js-build-in > .js-viewport-aware-video.width-full
+.overflow-hidden.position-relative.box-shadow-active-border-mktg.rounded-2-fluid.color-bg-primary.build-in-scale-fade.js-build-in-item
+.build-in-animate.overflow-hidden.box-shadow-active-border-mktg.rounded-2-fluid.position-relative.home-workflow-comp.js-build-in-item
+.mx-lg-auto.col-lg-7.col-12
+CSS
+.markdown-body code,
+.markdown-body pre,
+.markdown-title code {
+    background-color: ${rgba(27, 31, 35, 0.1)} !important;
+}
+.markdown-body pre code {
+    background-color: transparent !important;
+}
+.refined-github .dashboard .js-all-activity-header + div {
+    background-color: ${#e4e5e9} !important;
+    border-color: ${#bbc1c9} !important;
+}
+.refined-github .dashboard-rollup-items .body {
+    border-top-color: ${#bbc1c9} !important;
+}
+.refined-github .reaction-summary-item a {
+    box-shadow: 0 0 0 2px ${white} !important;
+}
+.refined-github button.reaction-summary-item {
+    border-top-color: rgb(52, 59, 68) !important;
+    border-bottom: rgb(77, 172, 253) !important;
+}
+.js-site-search-form {
+    background-color: #ffffff1a !important;
+    border-radius: 2pt !important;
+}
+.blob-num:not(.cc-coverage-covered-border):not(.cc-coverage-missed-border) {
+    border-right: 0 !important;
+}
+.cc-issue-description {
+    color: #24292e !important;
+}
+.cc-readup-background {
+    background-color: rgb(28, 30, 31) !important
+}
+.cc-readup-content {
+    border-left: 1px solid grey !important;
+    color: rgb(216, 214, 208) !important;
+}
+.cc-readup-content blockquote {
+    border-left: 3px solid dimgrey !important;
+}
+.cc-pr__link-text {
+    color: darkgrey !important;
+}
+.cc-pr__tooltip {
+    background-color: rgb(28, 30, 31) !important;
+    color: darkgrey !important;
+}
+.jfk-bubble, .octotree-sidebar, .cc-pr__logo, .cc-octicon, #network canvas, img.network-tree {
+    filter: invert(94.4%) hue-rotate(180deg) contrast(90%) !important;
+}
+.blob-code-inner, .blob-code-inner > *, .CodeMirror pre > span, .CodeMirror-linenumber {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace !important;
+}
+#commit-activity-detail > svg {
+    fill: ${black} !important;
+}
+.ContributionCalendar-day,
+.ContributionCalendar-day[data-level="0"] {
+    fill: var(--color-calendar-graph-day-bg) !important;
+}
+.ContributionCalendar-day[data-level="1"] {
+    fill: var(--color-calendar-graph-day-L1-bg) !important;
+}
+.ContributionCalendar-day[data-level="2"] {
+    fill: var(--color-calendar-graph-day-L2-bg) !important;
+}
+.ContributionCalendar-day[data-level="3"] {
+    fill: var(--color-calendar-graph-day-L3-bg) !important;
+}
+.ContributionCalendar-day[data-level="4"] {
+    fill: var(--color-calendar-graph-day-L4-bg) !important;
+}
+.day,
+.day[data-Count="0"] {
+    fill: var(--color-calendar-graph-day-bg) !important;
+}
+.day[data-Count="1"] {
+    fill: var(--color-calendar-graph-day-L1-bg) !important;
+}
+.day[data-Count="2"] {
+    fill: var(--color-calendar-graph-day-L2-bg) !important;
+}
+.day[data-Count="3"] {
+    fill: var(--color-calendar-graph-day-L3-bg) !important;
+}
+.day[data-Count="4"] {
+    fill: var(--color-calendar-graph-day-L4-bg) !important;
+}
+:root {
+    --color-previewable-comment-form-bg: var(--darkreader-neutral-background) !important;
+    --color-calendar-graph-day-bg: ${#ebedf0} !important;
+    --color-calendar-graph-day-L1-bg: ${#9be9a8} !important;
+    --color-calendar-graph-day-L2-bg: ${#40c463} !important;
+    --color-calendar-graph-day-L3-bg: ${#30a14e} !important;
+    --color-calendar-graph-day-L4-bg: ${#216e39} !important;
+}
+.Box-row--yellow {
+    background-color: ${#fffbdd} !important;
+}
+.merge-status-list {
+    border-color: ${#c0c5c7} !important;
+}
+.user-has-reacted {
+    background-color: rgba(17, 88, 199, 0.2) !important;
+}
+.hx_IssueLabel {
+    background: rgb(var(--label-r),var(--label-g),var(--label-b)) !important;
+    color: hsl(0,0%,calc(var(--lightness-switch)*100%)) !important;
+    border-color: hsla(var(--label-h),calc(var(--label-s)*1%),calc((var(--label-l) - 25)*1%),var(--border-alpha)) !important;
+}
+.header-search-input {
+    border: 0 !important;
+}
+.HeaderMenu-link--sign-in {
+    border: 0 !important;
+}
+.timeline-comment--caret.current-user::after {
+    --color-current-user-tip-bg: var(--darkreader-bg--color-box-bg-info) !important;
+}
+.timeline-comment--caret.current-user::before {
+    background-color: var(--darkreader-border--color-box-border-info) !important;
+}
+@media screen and (min-width: 1012px) {
+    markdown-toolbar.border-lg-top-0 {
+        border-top: 1px solid var(--darkreader-border--color-border-primary) !important;
+    }
+}
+@media screen and (max-width: 767px) {
+    div.tabnav--responsive button.tabnav-tab {
+        --color-border-primary: var(--darkreader-border--color-border-primary) !important;
+    }
+}
+.TimelineItem-badge[style^="background-color: var(--color-timeline-merged-bg)"] {
+    background-color: var(--color-timeline-merged-bg) !important;
+}
+.ContributionCalendar-label {
+    --color-text-primary: var(--darkreader-neutral-text) !important;
+}
+article div[style^="background: linear-gradient"] {
+    background: linear-gradient(to top, var(--darkreader-bg--color-bg-primary), transparent) !important;
+}
+IGNORE INLINE STYLE
+a[href^="https://apps.apple.com/app/"] g
+a[href^="https://apps.apple.com/app/"] path
+tracked-issues-progress svg *
+div#user-repositories-list .tooltipped svg *
+div#org-repositories .tooltipped svg *================================github.myshopify.com
+INVERT
+.site-header__logo-image
+.column-gh.column-full>svg================================githubstatus.com
+CSS
+.illo-desktop-header {
+    z-index: 0 !important;
+}================================gitlab.com
+gitlab.host
+gitlab.*.*
+gitlab.*.*.*
+code.videolan.org
+framagit.org
+git.fairkom.net
+repo1.dso.mil
+INVERT
+.js-contrib-calendar
+CSS
+:root {
+    --svg-status-bg: #181a1b;
+}
+.avatar, .avatar-container {
+    border: none !important;
+}
+table.code .line_content *:not(pre),
+.job-log *:not(pre) {
+  font-family: "Menlo", "DejaVu Sans Mono", "Liberation Mono", "Consolas", "Ubuntu Mono", "Courier New", "andale mono", "lucida console", monospace !important;
+}
+.gl-drawer-close-button,
+.js-reply-button,
+.dropdown.more-actions > button,
+.js-note-edit,
+.btn-default-tertiary,
+.btn-confirm-tertiary {
+    mix-blend-mode: unset !important;
+}
+.board-inner {
+    --gray-10: ${#e1e3e4} !important;
+    --darkreader-border--gray-100: ${#d1cdc7} !important;
+}================================gittigidiyor.com
+CSS
+img[data-testid="productImage"] {
+    mix-blend-mode: normal !important;
+}================================giveawayoftheday.com
+INVERT
+.header_lang .curr_lang::before
+.header_logo
+.header_nav_trig
+.header_search
+.header_search .button
+IGNORE IMAGE ANALYSIS
+.countdown-amount .diggit================================giveaways.cavebot.xyz
+CSS
+.respon1.p-r-50.p-l-50.p-b-22.p-t-42.bor1.cd100.flex-sa-m.flex-w {
+    border: none !important;
+}
+.overlay1::after {
+    background: unset !important;
+}
+.overlay1::before {
+    opacity: 0.8 !important;
+    background-color: unset !impotant;
+    background-image: unset !impotant;
+}
+.overlay1::before {
+    background-color: unset !important;
+    background-image: unset !important;
+}================================gizmodo.com
+INVERT
+[aria-label="Gizmodo logo"]================================glasswire.com
+INVERT
+.download-n-marks div img
+.menu
+CSS
+.head-menu .menu a {
+  color: var(--darkreader-neutral-background) !important;
+}================================global.gotomeeting.com/join/*
+IGNORE IMAGE ANALYSIS
+body================================globo.com
+CSS
+.bar-scrubber .bar-scrubber-icon,
+.bar-background .bar-fill-2 {
+    background-color: var(--darkreader-neutral-text) !important;
+}
+.bar-background .bar-fill-1 {
+    background-color: rgba(255, 255, 255, .3) !important;
+}
+.multicontent {
+    background-color: var(--darkreader-neutral-background) !important;
+    color: var(--darkreader-neutral-text) !important;
+}
+span.bstn-hl-summary {
+    color: var(--darkreader-neutral-text) !important;
+}
+IGNORE INLINE STYLE
+.poster__play-wrapper *================================gloswielkopolski.pl
+INVERT
+.componentsNavigationNavbar__brand================================gls-pakete.de
+CSS
+.tracking--status .status-box::before, .tracking--status .status-box::after {
+    z-index: 0 !important;
+}
+.tracking--status .status-box.status--complete.status--lastcomplete .status-box--tooltip, .tracking--status .status-box.status--current .status-box--tooltip {
+    transform: none !important;
+    position: absolute !important;
+    margin-bottom: 0px !important;
+    margin-top: -10px !important;
+    bottom: 0 !important;
+}================================gnc.com
+IGNORE INLINE STYLE
+a[id^="powered_by_pixlee"]================================gnu.org
+INVERT
+#gnu-banner img
+#search-icon================================godaddy.com
+INVERT
+.logo-mark================================godfathers.com
+INVERT
+.header .top-bar .top-bar-wrapper .page-header-branding img================================godoc.org
+CSS
+.banner {
+    background-color: ${rgb(225, 190, 130)} !important;
+}================================godzinyotwarcia24.pl
 INVERT
 .mbdtr
 .mpktr
 form[action="/szukaj"]
-div[id="suchfeldlabels"]================================google.*/chrome
+div[id="suchfeldlabels"]================================gog-games.com/game
+INVERT
+img[src*="hoster_logos"]
+div.close
+CSS
+#game-details > .container::before {
+    background-image: none !important;
+}================================gog.com
+INVERT
+i.icn.icn--close
+svg.icon-wrapper-icon
+svg.big-spot__add-to-cart-icon
+svg.ic-svg:not(.button__icon):not(.productcard-slider__nav-icon)
+.productcard-thumbnails-slider-pagination
+.carousel-pagination__page
+.big-spot__carousel-pages-container
+.big-spots__arrow-icon
+.discover-games-more__icon
+CSS
+.product-tile__info:hover {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+a.product-tile__content {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.galaxy-tooltip__layer {
+    background: ${#d9d9d9} !important;
+    color: var(--darkreader-neutral-text) !important;
+}
+.big-spot__content, .big-spot__text, .big-spot__action {
+    backdrop-filter: brightness(50%) !important;
+}
+.big-spot__title, .big-spot__super-title, .big-spot__action {
+    filter: brightness(130%) !important;
+}
+.wishlist-button, .review__read-more, .review-new__add-button, .review-new__guideline-button {
+    background-image: none !important;
+}
+.productcard-thumbnails-slider__play-btn {
+    border-color: rgb(220, 218, 215) !important;
+}
+.productcard-thumbnails-slider__play-btn::before {
+    border-left-color: rgb(220, 218, 215) !important;
+}
+IGNORE IMAGE ANALYSIS
+.menu-anonymous__shelf================================gog.com/promo
+gog.com/partner
+CSS
+.wrapper.cf > .content.cf::before {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+}
+.container.promo-page-header.cf {
+    filter: brightness(100%) !important;
+}================================gokulv.netlify.app
+IGNORE IMAGE ANALYSIS
+body================================golang.org
+INVERT
+.Footer-gopher
+.gopher
+CSS
+#file-editor .CodeMirror,
+#file-editor .CodeMirror-lines,
+#file-editor .CodeMirror-gutters,
+#wrap {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================google.*/chrome
 INVERT
 [src$="slate.png"]
 [src$="articles.png"]
@@ -61,13 +582,198 @@ INVERT
 [src^="/chrome/static/images/productivity/"]
 [src^="/chrome/static/images/be-more-productive/"]
 [src^="/chrome/static/images/download-browser/pixel"]
-[src^="/chrome/static/images/google-translate/screen-"]================================gov.pl/web/bip
+[src^="/chrome/static/images/google-translate/screen-"]================================google.*/maps
+google.*.*/maps
+INVERT
+#app-container.vasquette:not(.app-imagery-mode):not(.app-globe-mode) .widget-scene-canvas
+#app-container.vasquette:not(.app-imagery-mode):not(.app-globe-mode) .canvas-container > canvas
+#app-container.vasquette:not(.app-imagery-mode):not(.app-globe-mode) .full-screen > img
+.widget-settings-button-icon
+.searchbox-button
+.searchbox-searchbutton
+.searchbox-hamburger::before
+.maps-sprite-settings-chevron-left
+a.ita-kd-icon-button > span
+li.ita-kd-menuitem > span.ita-kd-menuitem-inputtool-icon
+li.ita-kd-menuitem > span.ita-kd-checkbox
+div.maps-sprite-common-chevron-left
+span.maps-sprite-common-chevron-right
+span.section-destination-via-line-icon
+div.section-directions-trip-travel-mode-icon
+button.searchbox-hamburger.white-foreground
+label.kd-radio-label::before
+label.kd-checkbox-label::before
+label.kd-checkbox-label::after
+button.section-directions-details-action-button
+div.section-loading-spinner
+a.gb_b > div
+a.gb_xc
+.gm-style img[role="presentation"]:not([src*="v="])
+.i4ewOd-xl07Ob
+.i4ewOd-LQLjdd li::before
+.un1lmc-j4gsHd
+.maps-sprite-settings-languages
+a[href*="about/products"]
+.google-logo
+.watermark
+.section-review-action-menu
+.section-review-interaction-button
+.section-directions-trip-travel-mode-icon
+.renderable-component-icon
+.cards-rating-star
+.maps-sprite-common-chevron-right
+[role="region"] button[jsaction^="pane.list-item.add"] [class*="icon-background"] [class*="icon"][src*="black"]
+.top-activity-icon
+.activity-icon
+img[src$="menu_black_24dp.png"]
+#assistive-chips .e2moi img
+button[guidedhelpid="searchbutton"]
+a[href^="//myaccount.google.com/yourdata/maps"] > div
+img[src^="//www.google.com/images/branding/lockups/"][alt="Google Maps"]
+div[role="checkbox"] > div
+div[aria-label="Toggle star"][role="checkbox"]
+#legendPanel > div > div > div > div > div > div > div > div > div[jsaction^="keydown"][jsshadow=""][role="checkbox"][style=""]
+#legendPanel > div > div > div > div > div > div > div > div > div > div > div > div[jsaction^="keydown"][jsshadow=""][role="checkbox"]
+#map-canvas > div > #watermark
+body.vsc-initialized > #app > #map-container > #map > .map-outer.map-extent
+body.vsc-initialized > #app > #map-container > #map > div > div > div > button[jsaction="map.toggle-map-control"] > img
+body.vsc-initialized > #app > #map-container > #map > div > div > div > div > div > button[jsaction="map.zoom-out"] > img
+body.vsc-initialized > #app > #map-container > #map > div > div > div > div > div > button[jsaction="map.zoom-in"] > img
+#app-container > #modal-dialog > div > div > div > div > button[jsaction="modal.close"]
+#map-canvas div[data-tooltip]
+div[style="top: 0px;"] > div > div > div > :first-child
+div[style="top: 0px;"] > div > :last-child > div > :nth-child(2)
+div[style="top: 0px;"] > div:first-child:not([style^="background"]) > :last-child
+CSS
+#app-container > #modal-dialog > div > div > div > div > button[jsaction="modal.close"] {
+   background-color: $var(--darkreader-neutral-background) !important;
+}
+IGNORE IMAGE ANALYSIS
+.widget-settings-map
+.widget-settings-satellite
+.widget-settings-terrain
+.widget-settings-globe
+.widget-settings-traffic
+.widget-settings-transit
+.widget-settings-bike
+.widget-settings-street-view
+.widget-settings-covid-info-icon
+.widget-settings-location-sharing
+.widget-settings-your-places
+.widget-settings-rate-review
+.widget-settings-timeline
+.widget-settings-link
+.widget-settings-print================================googleprojectzero.blogspot.com
+CSS
+.c5 a img {
+  background-color: white !important;
+}================================goplay.anontpp.com
+INVERT
+img[src*="download.svg"]
+img[src*="cast.png"]
+img[src*="bookmark.png"]
+.jw-slider-container
+.jw-time-tip::after================================gorod.gov.spb.ru
+INVERT
+.header__logo
+.reason__icon
+.map-with-address
+.problem-details__map
+.problem-map-page__map
+.evtmap canvas================================gorod.mos.ru
+INVERT
+.scene__logo
+div[id^="map"] > div > div > div
+div[style^="text-align: center; margin"] > div > div:first-of-type
+CSS
+#footer {
+    background: ${#CCECE8} !important;
+}================================gosuslugi.ru
+INVERT
+ymaps[class$="ground-pane"]
+ymaps[class$="places-pane"] span================================gotquestions.org
+CSS
+.gradient-to-b {
+    --color-start: var(--darkreader-neutral-background) !important;
+    --color-end: var(--darkreader-neutral-background) !important;
+}================================gov.pl/web/bip
 INVERT
 .banner-promo
 .banner-promo__text================================gowork.pl
 INVERT
-.city__img .city__text================================guitarcenter.pl
+.city__img .city__text================================grammarly.com
+INVERT
+img[alt="Grammarly logo"]
+IGNORE INLINE STYLE
+div[data-qa="heroSectionAnimationContainer"] path================================gramota.ru
+INVERT
+img[src*="logo-gramota"]
+.caret
+td > strong================================gravatar.com
+INVERT
+a.g-home
+.g-user-menu > svg
+body#page > div > div > nav > ul > li > a > svg.g-logo.g-logo--name-gravatar
+CSS
+a[class="g-sign-in"] > svg > path {
+    fill: white !important;
+}
+body {
+    background-image: none !important;
+}================================grc.com
+INVERT
+img[src*="gif"]================================greatergood.com
+INVERT
+.ctg-logo
+.logo-ggc-color
+#site-logo================================grocy.info
+INVERT
+.navbar-brand
+.carousel-control-prev-icon
+.carousel-control-next-icon================================grubhub.com
+CSS
+.s-checkbox-filler {
+    color: rgb(24, 26, 27) !important;
+}
+label, h5, h6, header, .h5 {
+    color: ${black};
+}================================gsmchoice.com
+mgsm.pl
+INVERT
+.promo-sticky__item--small
+.promo-sticky__item--large
+img[alt="mGSM.pl"]
+img[alt="GSMchoice.com"]================================gsuite.google.com
+INVERT
+.header--logo img================================gu.spb.ru
+INVERT
+ymaps[class$="ground-pane"]
+CSS
+.bg {
+    background-image: var(--darkreader-neutral-background) !important;
+}================================guancha.cn
+CSS
+.dahui {
+    background-image: none !important;
+}================================guiott.com
+CSS
+.Section1 > div {
+    background-image: none !important;
+}================================guitarcenter.pl
 INVERT
 tr > td > img
 p.standard_price
-p.promo_price
+p.promo_price================================guitarworld.com
+INVERT
+.site-logo================================gumroad.com
+INVERT
+.mega-gum-logo================================gurushots.com
+CSS
+.c-challenges-speed-item__countdown > .round-progress-wrapper,
+.challengesItemSuggested__timer .round-progress-wrapper {
+    background-color: transparent !important;
+}
+.modal-vote__exposure-meter__arrow,
+.modal-vote__exposure-meter__arrow::after {
+    background-color: var(--darkreader-neutral-text) !important;
+}

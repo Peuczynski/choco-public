@@ -1,21 +1,217 @@
-pacjent.gov.pl
+p30download.com
+CSS
+.article-wrapper {
+    color: ${#090702} !important;
+}================================pacjent.gov.pl
 CSS
 .hero-content {
     color: var(--darkreader-neutral-background) !important;
+}================================packages.ubuntu.com
+CSS
+body {
+    background-image: none !important;
+}================================palemoon.org
+INVERT
+img[src="images/goanna200x66.png"]
+img[src="images/vpsserver.png"]================================palshovon.wixsite.com
+INVERT
+#BACKGROUND_GROUP
+[alt="Marble Surface"]
+CSS
+[data-mesh-id="SITE_FOOTERinlineContent-gridContainer"] {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================pan.baidu.com
+INVERT
+.module-header-wrapper dt================================panapply.org
+INVERT
+.logo================================panerabread.com
+INVERT
+.pds-h-logo================================panthema.net
+CSS
+body {
+    background-image: none !important;
+}================================papaya.rocks
+INVERT
+.favorite.js-open-login
+.header__title
+.js-logo
+.js-logo-big
+.js-menu-toggle
+.js-open-search
+.nav__item--profile
+.search__button
+.search__close================================park-in.gr
+CSS
+.div-background {
+    z-index: 0 !important;
+}
+.container {
+    z-index: 1 !important;
+    position: relative !important;
+}================================partitionwizard.com
+CSS
+.pw-banner {
+    background-image: none !important;
+}================================passport.baidu.com
+INVERT
+.pass-header-logo
+.right-icon================================passport.bilibili.com/login
+CSS
+.qrcode-box {
+    background: white !important;
+    padding: 10px !important;
+}================================paste.rs
+CSS
+pre {
+    --darkreader-inline-bgcolor: var(--darkreader-neutral-background) !important;
+}================================patreon.com
+INVERT
+a[href^="https://docs.google.com"] img
+a[href^="https://forms.gle"] img
+button[data-tag="menuToggleDiv"] svg
+CSS
+div[data-tag="comment-actions"] svg {
+    fill: var(--darkreader-neutral-text) !important;
+}
+IGNORE IMAGE ANALYSIS
+*================================patriotmemory.com
+INVERT
+.w-nav a[href="/"] img
+.w-nav-brand================================patuscada.bar
+INVERT
+.topo
+.topo > *
+.patuscada-logo
+.botoes-topo a:last-child img
+.logo
+IGNORE IMAGE ANALYSIS
+.etiqueta-vermelha================================paulgraham.com
+CSS
+body {
+    background-image: none !important;
 }================================paypal-doladowania.pl
 INVERT
-img[src*="/img/bank-logos/"]================================pch24.pl
+img[src*="/img/bank-logos/"]================================payu.com
+CSS
+img[src$="PayU-Map_Homepage_World.svg"] {
+    filter: invert(90%) hue-rotate(180deg) contrast(90%) !important;
+}================================pbs.org
+CSS
+BODY.normal td.bodyarea,
+body[background] {
+    background-image: none !important;
+}
+IGNORE INLINE STYLE
+.page-header__brand > svg > path================================pcdiga.com
+CSS
+.data {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+input, textarea {
+    background-color: var(--darkreader-neutral-background) !important;
+    color: var(--darkreader-neutral-text) !important;
+}
+li.level0 > a {
+    color: var(--darkreader-neutral-text) !important;
+}
+li.level0 > a:hover {
+    color: #ff4d23 !important;
+}================================pcgamer.com
+INVERT
+img[alt="Best Buy"]
+img[alt="Amazon"]
+CSS
+img {
+	mix-blend-mode: normal !important;
+}================================pch24.pl
 INVERT
 a[href="https://pch24.pl"] svg
 CSS
 a[href="https://pch24.pl"] svg path[fill="#1d1e1d"] {
     --darkreader-inline-fill: ${white} !important;
+}================================pcloud.com
+INVERT
+.logo================================pcpartpicker.com
+IGNORE INLINE STYLE
+.price-history-legend-color================================peardeck.com
+INVERT
+.boxy-svg
+.mc-answer__check-inner
+.check-svg================================pennylane.ai
+INVERT
+div[style*="xanadu-background.png"]
+div[style*="xanadu-background.png"] > div
+div[style*="banner.png"]
+div[style*="banner.png"] > div================================peonaviveu.blogspot.com
+CSS
+body {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
 }================================perfekcyjnawdomu.pl
 INVERT
-img[src*="logo"]================================pilot.wp.pl
+img[src*="logo"]================================petco.com/shop/en/petcostore
+INVERT
+a[class^="LogoAnchor__Container"]
+button[class^="HamburgerButton"]
+img.center-block.margin-top-sm
+h1.pals-header================================petri.com
+INVERT
+.logo================================pgatour.com
+CSS
+.score-card tr td.birdie {
+    background-image: initial;
+    background-color: rgb(1, 76, 181);
+}================================phonescoop.com
+INVERT
+#sitelogo
+CSS
+div#outer.wide,
+#socpage,
+div#top.top-lg,
+div#outer {
+    background-image: none !important;
+}================================photofeeler.com
+INVERT
+.navbar-brand================================phys.nagoya-u.ac.jp
+INVERT
+img[src="img/top_94.gif"]
+CSS
+#wrap table {
+    background-image: none !important;
+}================================physics.gmu.edu
+INVERT
+img.math-display================================piazza.com
+CSS
+.dashboard_toolbar, .page_feed_bucket_header {
+    background: linear-gradient(to bottom, ${#c5c7cd} 0%, ${#dfe1e2} 100%) !important;
+}================================picknsave.com
+INVERT
+.KrogerHeader-Logo--inner================================picrew.me
+IGNORE INLINE STYLE
+.imagemaker_colorpalette li================================pilot.wp.pl
 INVERT
 .logo
-div > button > svg================================pixilart.com
+div > button > svg================================ping.sx
+INVERT
+.ring-0
+CSS
+#headlessui-switch-1 {
+    filter: brightness(70%) !important;
+}================================pipewire.org
+CSS
+body, img, video, iframe {
+    filter: none !important;
+}================================pipiwiki.com
+INVERT
+.mwe-math-fallback-image-display
+.mwe-math-fallback-image-inline
+#logo_img================================pixabay.com
+INVERT
+#logo================================pixaful.com
+CSS
+body {
+    background-image: none !important;
+}================================pixilart.com
 CSS
 .dark-mode-visible {
     display: inline-block;
@@ -27,14 +223,107 @@ CSS
     content: url("/images/public/logo_pixilart_simple_white.png?v=1.1");
 }
 IGNORE IMAGE ANALYSIS
-#image-art-modal================================pixlab.pl
+#image-art-modal================================pixiv.net
+CSS
+.jAENWx,
+.iYRMgo {
+    color: ${aliceblue} !important;
+}================================pixlab.pl
 INVERT
-img[src*="trust_us"]================================planetagracza.pl
+img[src*="trust_us"]================================pizzahut.com
+INVERT
+.jss44================================pkgs.org
+CSS
+.text-bg-light {
+    background-color: ${rgb(248, 249, 250)} !important;
+}================================pl.glosbe.com
+INVERT
+footer > div > div > a > img================================planet.gnome.org
+CSS
+div.post {
+    background-image: none !important;
+}================================planetagracza.pl
 INVERT
 p.site-title
-#footer .site-title a================================plotkibiznesowe.pl
+#footer .site-title a================================planetminecraft.com
+CSS
+#container,
+.forum_replies_container,
+.forum_reply,
+.contents,
+.spoiler_header,
+#resource-log,
+.tag,
+.view_more:not(:hover),
+#popup,
+code {
+    background: var(--darkreader-neutral-background) !important;
+}================================plannedparenthood.org
 INVERT
-#logo================================polsatnews.pl
+a.top-level-nav-link::after
+a.top-level-nav-link::before
+a.top-level-nav-link > span::after================================plantuml.com
+INVERT
+.scale================================play.google.com
+INVERT
+.bUWb7c
+.WF1WQd
+img[src="https://www.gstatic.com/android/market_images/web/play_prism_hlock_2x.png"]
+a[href*="about/products"]================================play.google.com/apps/publish
+INVERT
+.IXNAUGB-u-e
+.IXNAUGB-U-g img
+.IXNAUGB-U-g
+img[src^="data:image/png;"]
+.LTMPNY-u-e================================play.google.com/books/listen
+INVERT
+a[href*="books/audiobooks"]
+CSS
+.chapter-item:not(.iron-selected) .chapter-title {
+    color: var(--darkreader-neutral-text) !important;
+}================================play.google.com/music
+INVERT
+.music-logo
+a[title="Google apps"]
+.song-row .rating-container================================playstation.com
+CSS
+.pills__container {
+    background: var(--darkreader-neutral-background) !important;
+}================================plotkibiznesowe.pl
+INVERT
+#logo================================plumbingforums.com
+INVERT
+.node-icon::before
+CSS
+div,
+.node-icon {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.input:focus,
+.input.is-focused::placeholder {
+    background: var(--darkreader-neutral-background) !important;
+}================================plus.google.com
+INVERT
+a.gb_b > div
+a[href*="about/products"]================================pochta.ru
+INVERT
+ymaps[class$="ground-pane"]================================podium.com
+INVERT
+.logoWrap================================poeditor.com
+INVERT
+.chart img================================polar.com
+INVERT
+.logo================================polarion*
+INVERT
+.polarion-dle-toolbar-Button img
+.polarion-dle-toolbar-ButtonWithMenu img
+.polarion-MenuButton img
+.polarion-rp-column-configure-layout img================================poll.utm.utoronto.ca
+CSS
+.bg-background,
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================polsatnews.pl
 CSS
 .news--over .news__category, .news--over .news__time, .news--over .news__title, .sent__title {
     filter: none !important;
@@ -44,12 +333,54 @@ CSS
     background-color: #181a1b !important;
 }================================polskatimes.pl
 INVERT
-.componentsNavigationNavbar__logo================================poradnikzdrowie.pl
+.componentsNavigationNavbar__logo================================polskiemarki.info
 INVERT
-.logo================================poszukiwania.pl
+a[id="powrot"] > img
+img[src*="logo_fakro"]
+CSS
+#katalog .container {
+    background-image: none !important;
+}================================polymc.org
+polymc.github.io
+IGNORE INLINE STYLE
+svg.home *================================poradnikzdrowie.pl
+INVERT
+.logo================================porkbun.com
+INVERT
+img[src="/images/handshake-icon.svg"]================================portal.edukacja.olsztyn.eu
+INVERT
+div.main
+div#welcome-img
+#pageheader
+div#ctl00_TheFooter img
+a.link-gray > p================================portal.qiniu.com
+INVERT
+.global-loading-content img================================portal.saltyfish.io
+INVERT
+.logo-img================================portswigger.net
+INVERT
+img[alt="Web Security Academy"]
+img[alt="The Daily Swig"]================================positiveintelligence.com
+INVERT
+article.logos-grid__grid
+img.footer__logo
+img.homepage-hero__img
+img.menu__logo================================postani-student.hr
+CSS
+body {
+    background-image: none !important;
+}================================postnauka.ru
+INVERT
+.m-header__logo================================poszukiwania.pl
 INVERT
 .header-logo
-.footer-logo-address================================praca.pl
+.footer-logo-address================================potplayer.daum.net
+INVERT
+.promotion_potplayer================================pphosted.com
+CSS
+#menu_items {
+   background-image: none !important;
+}================================praca.pl
 INVERT
 img[alt="Praca.pl"]
 CSS
@@ -91,16 +422,135 @@ CSS
 .icon-status-error > .shape3,
 .icon-status-success > .shape2 {
     fill: var(--darkreader-neutral-background) !important;
+}================================prajwalkoirala.com
+INVERT
+svg================================pressgazette.co.uk
+INVERT
+.site-logo================================primatelabs.com
+INVERT
+.logo================================printables.com
+INVERT
+.navbar-brand .printables-text
+CSS
+market-filter-item {
+    --line-color: var(--darkreader-border--line-color) !important;
 }================================privat24.ua
 CSS
 div[class*=qrContainer] > div > div[class*=qr_] {
     background-color: white;
 }================================pro-run.pl
 INVERT
-.td-main-logo================================psemu.pl
+.td-main-logo================================processon.com
+INVERT
+#view_container canvas================================procyclingstats.com
+IGNORE IMAGE ANALYSIS
+.flag
+.flag.w32
+.flag.c16================================producthunt.com
+INVERT
+[class="icon_f5f81"]================================profiler.firefox.com
+INVERT
+.chartCanvas================================projectstream.it
+CSS
+body {
+    background: none !important;
+}================================pronote.toutatice.fr
+INVERT
+.ObjetGrille
+.Cours
+.Insecable
+.Calendrier_Jour_Selection
+CSS
+body,
+.ie-chips.tag-style {
+	background: linear-gradient(90deg, #282c2d 0, #282C2D calc(100% - 0.8rem), transparent calc(100% - 0.8rem), transparent 100%);
+}================================pronto.io
+CSS
+input.btn-new-group.pointer {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================prospectmagazine.co.uk
+INVERT
+.header__logo================================prostovpn.org
+CSS
+body {
+    background: none !important;
+}================================protocol.com
+INVERT
+img.logo-icon.open
+div#topbar-menu-toggle > svg.icon================================proton.me
+INVERT
+img[src$="hero-2x.png"]================================protonvpn.com
+INVERT
+.navbar-brand
+.protonmail-link
+#page_home .parallax
+#page_home .parallax > *================================provantage.com
+CSS
+body,
+body.HOME {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}================================proxmox.com
+INVERT
+#logo
+.uix_logo================================psemu.pl
 CSS
 .menu-item {
     text-shadow: rgb(40, 43, 54) 0px 1px 0px !important;
+}================================psprices.com
+INVERT
+.store-logo
+.highcharts-label text
+.game--description::after
+CSS
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================psychonautwiki.org
+INVERT
+#mw-panel > a > svg
+.mw-headline > a > svg
+a[href="http://www.emcdda.europa.eu/about"] > svg
+img[alt="Tasks.svg"]
+img[alt="Star-o.svg"]
+img[alt="Pencil.svg"]
+#InfoTable > tbody > tr > .Image > div > div > .image
+.dosechart
+CSS
+.dosechart,
+.thumbimage,
+.mwe-popups-discreet > svg {
+    background-color: ${black} !important;
+}================================publica.fraunhofer.de
+INVERT
+img[src="/pub09img/logo-fraunhofer.gif"]================================publicwww.com
+CSS
+body {
+    background-image: none !important;
+}================================pulumi.com
+CSS
+:host {
+    --neutral-fill-stealth-rest: var(--darkreader-neutral-background) !important;
+}================================pureinfotech.com
+INVERT
+.pureinfotech-logo
+CSS
+.article-type-standard-css .entry-content::before {
+    color: ${gray} !important;
+}================================purerave.com
+CSS
+:root {
+    --darkreader-border--border: 1px solid rgba(0, 90, 155, 1) !important;
+}
+div.form-buttons textarea {
+    background-color: var(--darkreader-neutral-background) !important;
+    border-color: #005a9b !important;
+}
+textarea {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================pushsquare.com
+CSS
+.page {
+    background-image: none !important;
 }================================pyszne.pl
 lieferando.*
 justeat.*
@@ -118,7 +568,13 @@ div[data-qa="avatar"] {
 }
 IGNORE INLINE STYLE
 svg > circle
-svg > text > tspan================================pz.gov.pl
+svg > text > tspan================================pythonanywhere.com
+INVERT
+#id_logo
+img[src^="/static/glyphicons/"]================================pytorch.org
+INVERT
+#site-logo
+.header-holder:not(.homepage-header) > div.container > div.header-container > .header-logo================================pz.gov.pl
 CSS
 .banner-text {
     color: var(--darkreader-neutral-background) !important;

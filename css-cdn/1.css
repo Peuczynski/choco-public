@@ -1,0 +1,66 @@
+10fastfingers.com
+CSS
+#speedtest-main .hide-time {
+    color: transparent !important;
+}
+#inputfield {
+    background: var(--darkreader-neutral-background) !important;
+    color: var(--darkreader-neutral-text) !important;
+}
+body,
+.container-modified > .row,
+#practice-main,
+#top1000-index-container,
+#text-practice,
+#content-bg {
+    background: var(--darkreader-neutral-background) !important;
+}
+#main-content-trenner {
+    background: var(--darkreader-neutral-background) !important;
+    border-bottom: 1px solid rgb(151, 141, 127) !important;
+}================================10minutemail.com
+CSS
+#main_content {
+    background-image: none !important;
+}================================123-3d.nl
+123accu.nl
+123inkt.nl
+123led.nl
+123schoon.nl
+CSS
+.main-panel-left, .main-panel-right {
+    background: var(--darkreader-neutral-background) !important;
+}================================123mathe.de
+INVERT
+.entry-content img
+CSS
+body,
+.post-inner,
+ul.sub-menu {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+ul.sub-menu::after {
+    border-bottom-color: var(--darkreader-neutral-background) !important;
+}
+.progress-wrap {
+    box-shadow: var(--darkreader-neutral-background) 0px 0px 0px 3px inset !important;
+}================================1337x.st
+1337x.to
+x1337x.eu
+x1337x.se
+x1337x.ws
+CSS
+.torrent-tabs .tab-nav {
+   background-image: none !important;
+   background-color: var(--darkreader-neutral-background) !important;
+   border-bottom-color: var(--darkreader-neutral-background) !important;
+}================================1917.com
+CSS
+body {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}================================1fichier.com
+CSS
+body {
+    background-image: none !important;
+}

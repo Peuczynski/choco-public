@@ -1,21 +1,573 @@
-decathlon.pl
+d.hatena.ne.jp
+INVERT
+img[alt="Hatena Blog Tags"]================================d2l.ai
+INVERT
+img[src$=".svg"]================================daily.afisha.ru
+INVERT
+svg[class^="Logo"]
+.headline__open
+.search-icon
+.sprite-search-black-26
+mark================================dailydot.com
+INVERT
+h1.u-about-pitch
+CSS
+svg.main-logo.inline-flex g g[fill="#110133"] {
+    --darkreader-inline-fill: ${#110133} !important;
+}================================dailyexpose.uk
+INVERT
+.header-image================================dailymotion.com
+IGNORE INLINE STYLE
+div[class*="logoContainer"] a svg path================================dailywritingtips.com
+CSS
+blockquote {
+    z-index: 0 !important;
+}================================daltonmaag.com
+INVERT
+#panel-3 img================================danyk.cz
+CSS
+body {
+    background-image: none !important;
+}================================darcs.net
+INVERT
+#header > a > img================================darksky.net
+INVERT
+.currentLocationButton
+.searchButton
+span[class^="skycon swip"]
+#right-arrow
+#left-arrow================================dash.cloudflare.com
+INVERT
+a[data-testid^="link-homepage"]
+CSS
+.monaco-editor-background, .monaco-editor .margin {
+    background-color: ${rgb(226 229 231)} !important;
+}================================dashboard.thechurchapp.org
+INVERT
+#ember62================================datacamp.com
+CSS
+video#vjs_video_3_html5_api.vjs-tech {
+    transform: translate(0px, 0px) !important;
+    background-color: rgb(175, 175, 175, 0.5);
+}================================daum.net
+CSS
+.txt_pctop,
+.bg_login {
+    background-image: none !important;
+}================================dawn.com
+INVERT
+img[alt="Dawn Logo"]================================deadpixeltest.org
+CSS
+html {
+    background-color: transparent !important;
+}
+IGNORE INLINE STYLE
+body================================deadroots.net
+INVERT
+#header img================================debian.org
+INVERT
+.community img
+#logo
+.os-dl-btn
+.os-img-container img
+CSS
+body {
+    background-image: none !important;
+}
+IGNORE IMAGE ANALYSIS
+#splash h1================================debijbel.nl
+INVERT
+.siteLogo
+.filter-item__link > img================================decathlon.in
+CSS
+img {
+    mix-blend-mode: normal !important;
+}================================decathlon.pl
 INVERT
 .dkt_logo
 .benefit-icon
 IGNORE IMAGE ANALYSIS
-*================================di.com.pl
+*================================deccanchronicle.com
+INVERT
+img[src$="logo.png"]================================decisionproblem.com
+INVERT
+.qChip
+CSS
+#giftShopDiv {
+  color: ${white} !important;
+}
+.projectButton:disabled {
+  color: ${gray} !important;
+}================================deepl.com
+INVERT
+.dl_translator_link_container > img
+.dl_ad_pro__features_item::before
+.dl_logo_text
+img[class^="productNavigation-module--logoText"]
+img#languageSelectorIcon
+footer > div > div > div > div > a > img[alt="DeepL"]
+div[class^="socialMediaLinks"] > a
+div[class^="pageFooterV2-module--socialMediaLinks"] > a================================deeplearningbook.org
+INVERT
+.opened > img[src]
+CSS
+body {
+    background-color: transparent !important;
+}
+#page-container {
+    background-image: none !important;
+}================================deezer.com
+CSS
+.slider-track .gradient-default {
+    background-image: linear-gradient(1deg, var(--color-dark-grey-800) 13%, var(--color-white));
+}================================deftpdf.com
+INVERT
+.header__logo================================dell.com
+INVERT
+.breadcrumbs
+.cat-banner-text
+.cfsf-ba-content-wrap
+.hpg-cat-item-wrap svg================================delphipraxis.net
+CSS
+.ipsNavBar_secondary {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.ipsNavBar_secondary::before {
+    border-bottom-color: var(--darkreader-neutral-background) !important;
+}================================dennisbareis.com
+CSS
+body {
+    background-image: none !important;
+}================================deno.land
+INVERT
+img[src="/logo.svg"]================================dependencywalker.com
+CSS
+body {
+    background-image: none !important;
+}================================designobserver.com
+INVERT
+.dologo================================deskmodder.de
+CSS
+#secondary {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================desmos.com
+INVERT
+.dcg-grapher
+CSS
+.dcg-container.dcg-inverted-colors {
+    filter: hue-rotate(180deg) !important;
+}================================detexify.kirelabs.org
+INVERT
+.symbol================================dev.azure.com
+CSS
+:root {
+    --nav-header-background: var(--darkreader-neutral-background) !important;
+}================================dev.dota2.com
+CSS
+.navtabs li a.navtab:hover,
+.navtabs li.selected a.navtab {
+    color: black !important;
+}================================dev.to
+INVERT
+img[src$=".svg"]
+path[d^="M19.099 23.508c0"]
+CSS
+body, h1, h2, h3,
+h4, h5, h6, a,
+.content-classification-text {
+    color: #e8e6e3 !important;
+}================================developer.android.com
+source.android.com
+developer.android.google.cn
+tensorflow.org
+quantumai.google
+cloud.google.com
+webrtc.org
+INVERT
+.devsite-site-logo
+CSS
+:root {
+    --devsite-header-color-upper: var(--darkreader-neutral-background) !important;
+    --devsite-footer-background: var(--darkreader-neutral-background) !important;
+    --devsite-background-1: var(--darkreader-neutral-background) !important;
+    --devsite-table-heading-background: var(--darkreader-neutral-background) !important;
+    --devsite-search-form-background-active: rgba(255, 255, 255, 0.05) !important;
+    --devsite-searchbox-inactive: rgba(255, 255, 255, 0.05) !important;
+    --devsite-searchbox-hover: rgba(255, 255, 255, 0.1) !important;
+    --devsite-searchbox-active: rgba(255, 255, 255, 0.05) !important;
+    --devsite-inline-code-background: ${#f1f3f4} !important;
+    --devsite-background-3: ${#f1f3f4} !important;
+}
+devsite-search .devsite-searchbox::before {
+    background-color: unset !important;
+}
+.devsite-wrapper,
+button {
+    background-color: inherit !important;
+    border-color: rgba(255, 255, 255, 0.1) !important;
+}
+devsite-header .devsite-top-logo-row-wrapper-wrapper,
+.devsite-article {
+    border-color: rgba(255, 255, 255, 0.05) !important;
+}
+[role="menu"],
+.toggle-button,
+devsite-book-nav .devsite-book-nav-filter,
+.devsite-nav-accordion,
+tr,
+code,
+devsite-code,
+devsite-selector,
+devsite-selector devsite-tabs[connected],
+devsite-recommendations,
+devsite-footer-promos .devsite-footer-promos-list,
+devsite-footer-utility .devsite-footer-sites,
+devsite-footer-linkboxes .devsite-footer-linkboxes-list,
+devsite-playlist .devsite-playlist--section-quiz,
+devsite-footer-promos {
+    border-color: rgba(255, 255, 255, 0.1) !important;
+}
+.devsite-breadcrumb-list {
+    background: none !important;
+}================================developer.apple.com
+INVERT
+.icon
+CSS
+.disabled {
+    color: ${gray} !important;
+}
+pre,
+.code-listing {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+IGNORE IMAGE ANALYSIS
+.screen-hero
+.screen-fonts
+.screen-tabs
+.screen-completion
+.screen-swiftui================================developer.chrome.com
+CSS
+.featured-card__title-bar > svg,
+.card-title-bar > svg,
+.navigation-rail__icon > svg {
+    fill: ${black} !important;
+}
+.search-box__btn > svg {
+    fill: ${white} !important;
+}================================developer.mozilla.org
+INVERT
+.copy-icon
+.bc-browsers > th > span::before
+.bc-platforms > th::before
+a.external::after
+.bc-has-history > .bc-history-link
+.ic-footnote
+.ic-non-standard
+.breadcrumbs-container li .breadcrumb-penultimate::after
+.breadcrumbs-container li .breadcrumb::after
+ul.main-menu .top-level-entry::before
+span.icon
+#browser_compatibility + a + figure .icon
+.bc-level
+.legend-icons
+CSS
+.logo-text,
+.search-results-list mark {
+    color: var(--darkreader-neutral-text) !important;
+}
+IGNORE IMAGE ANALYSIS
+.main-page-content .code-example .copy-icon================================developer.roblox.com
+INVERT
+.logo================================developer.salesforce.com
+CSS
+.slds-tabs_card {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================developers.arcgis.com
+CSS
+a {
+    text-shadow: none !important;
+}================================developers.facebook.com
+INVERT
+img[alt^="Follow us on "]
+img[id="u_0_1e_Fc"]
+img[src^="https://scontent.fiev25-1.fna.fbcdn.net/v/t39.2365-6/306317286_5514106962009770_3327930304024114088_n.jpg"]================================developers.google.com
+INVERT
+.devsite-google-wordmark
+CSS
+:root {
+    --devsite-header-color-upper: var(--darkreader-neutral-background) !important;
+    --devsite-searchbox-inactive: var(--darkreader-neutral-background) !important;
+    --devsite-button-background: var(--darkreader-neutral-background) !important;
+    --devsite-footer-background: var(--darkreader-neutral-background) !important;
+    --devsite-breadcrumb-list-background: var(--darkreader-neutral-background) !important;
+    --devsite-background-3: ${rgb(198, 198, 198)} !important;
+}
+button,
+a.button,
+.devsite-landing-row-item {
+    border-color: var(--darkreader-border--devsite-select-border) !important;
+}
+.pre-style,
+code,
+pre {
+    background: var(--darkreader-neutral-background) !important;
+}
+.devsite-table-wrapper > table > thead > tr > th {
+    color: var(--darkreader-neutral-text) !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}================================devuan.org
+INVERT
+#logo================================dexie.org
+INVERT
+a[href="Download"]
+img[src$="logo-dexie-black.svg"]================================dhmo.org
+CSS
+body {
+    background-image: none !important;
+}================================di.com.pl
 INVERT
 img[alt*="Dziennik Internautów"]
 CSS
 div#naglowek {
     background-image: none !important;
+}================================diamondsdirect.com
+INVERT
+[alt="Diamonds Direct Logo"]================================dianping.com
+INVERT
+.logo================================dicetower.com
+CSS
+body {
+    background-image: none !important;
+}================================dict.cc
+CSS
+#langbar {
+    background-image: none !important;
+}================================dictionary.cambridge.org
+INVERT
+.cb.hao.lpt-2
+.cb.hv-2.lmr-10================================differencebetween.net
+CSS
+body,
+#page-wrapper {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================digg.com
+CSS
+.digg-story__title-link {
+    color: ${black} !important;
+}
+.digg-story__description {
+    color: ${black} !important;
+}================================digi.hu
+INVERT
+ol.flex-control-nav
+CSS
+body.not-front {
+    background-image: none;
+}================================disconnect.me
+INVERT
+img[src*="vpnCoverageMap"]
+img[alt="Toolbar button"]
+#press-strip > div > img
+CSS
+#accordion {
+    background-image: none !important;
+}================================discord.com
+INVERT
+div[class^="botPermissions"] > ul > li > div > div > span::after
+CSS
+div[class^="pill"][class*="wrapper"] > span[class^="item"],
+div[class*="modeUnread"] > div[class^="unread"] {
+    background-color: var(--darkreader-neutral-text) !important;
+}
+nav[aria-label="Servers sidebar"] foreignObject {
+    mask: none !important;
+    border-radius: 100% !important;
+    transition: all .5s;
+}
+nav[aria-label="Servers sidebar"] foreignObject:hover {
+    border-radius: 30% !important;
+}
+path[class^="wavePath"] {
+    fill: ${rgb(226, 224, 220)} !important;
+}
+:root {
+    --page-max-width: 1260px !important;
+    --num-grid-columns: 4 !important;
+    --page-gutter: 24px !important;
+    --section-spacing: 56px !important;
+}
+@media screen and (min-width: 768px) {
+    :root {
+        --num-grid-columns: 8 !important;
+        --page-gutter: 40px !important;
+        --section-spacing: 80px !important;
+    }
+}
+@media screen and (min-width: 1024px) {
+    :root {
+        --num-grid-columns: 12 !important;
+        --section-spacing: 120px !important;
+    }
+}================================discourse.haskell.org
+INVERT
+.logo-big================================discover.com
+INVERT
+img#flag
+i.icon-help
+i.icon-search
+i.lock-icon
+div.welcome-text-wrapper
+div.slide--img.credit-card
+div.slide--img.personal-loan
+div.slide--img.home-loan================================discover.forem.com
+INVERT
+body > div:nth-child(1) > svg:nth-child(1)================================discovermagazine.com
+INVERT
+img[alt="Discover Magazine"]================================discovery.endeavouros.com
+INVERT
+.builder-item--logo .site-logo img================================discuss.pixls.us
+INVERT
+#site-logo.logo-big================================disk.yandex.*
+docviewer.yandex.*
+INVERT
+.logo
+.create-resource-popup-with-anchor .ufo-icon__icon================================disney.*
+INVERT
+.disney-img================================distrowatch.com
+INVERT
+img[src="images/cpxtu/dwbanner.png"]
+CSS
+input,
+.NavMenu,
+select,
+td:not(.NewsDate):not(.NewsHeadline) {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================ditu.baidu.com
+map.baidu.com
+maps.baidu.com
+INVERT
+#activity-banner-panel
+.BMap_bubble_pop
+.BMap_contextMenu
+.BMap_cpyCtrl
+.BMap_scaleBarBG
+.BMap_scaleTxt
+.BMap_simple_bubble_pop
+.BMap_stdMpZoom
+.BMapLabel
+#bt_trafficCtrl
+.cbtlinetop
+.cbtToolBar
+.icon
+#iw_tool_icon
+.jump_back
+#map-operate
+#maps
+.message-banner
+#message-panel
+.more-device
+#nearby-searchbox-hint
+#nearby-searchbox-hint-center
+.route-button
+.tang-pass-qrcode-title
+#userSignPanel
+CSS
+#newuilogo {
+    filter: brightness(80%);
+}
+#sole-input {
+    color: var(--darkreader-neutral-text) !important;
+}================================djrankings.org
+CSS
+body,
+li a,
+.moduleContentInner {
+    background-image: none !important;
 }================================dlagentlemana.pl
 INVERT
 div.f-grid-3.logo-column > a > img
 div.opineo-side-slider-widget > button
-.logo-bar img================================dnscrypt.pl
+.logo-bar img================================dle.rae.es
+CSS
+.bloque_publi DE,
+.spr_fundacionlacaixa,
+.spr_dle90x110,
+.spr_logo-enclave-rae,
+.spr_google-play-badge-100x39,
+.spr_badge-appstore-lrg-96x28,
+.spr_edtri,
+.spr_ay,
+.spr_cita,
+.spr_unidrae,
+.spr_consultas,
+.spr_pnwe2,
+img[src="/images/logos/ASALE2.png"],
+img[src="/images/logos/rae.png"],
+img[src="/images/LibroDeEstilo_300.jpg"],
+img[src="/app/doc/es/img/dle.jpg"],
+a[href="https://dej.rae.es"] > img.img-responsive.b-lazy.b-loaded,
+img[src="/images/logos/BCRAEl.jpg"] {
+	filter: invert(93.7%) hue-rotate(180deg) contrast(90.6%) !important
+}================================dmca.com
 INVERT
-.logo================================doba.pl
+img[alt="DMCA Logo"]================================dmit.io
+INVERT
+.logo================================dnd.su
+CSS
+input,
+select,
+textarea,
+.input-cast_time,
+.input-style,
+.input-select,
+.button,
+button:not(.lg-icon),
+.workshop__checkbox .workshop__label::before,
+.card-type,
+.paper-1,
+.desc .additionalInfo,
+.subsection .additionalInfo,
+.trumbowyg-editor .additionalInfo,
+.social-menu ul,
+#ya-site-form0 .ya-site-form__form .ya-site-form__input-text,
+#ya-site-form0 .ya-site-form__submit {
+   background-image: none !important;
+   background-color: var(--darkreader-neutral-background) !important;
+}================================dnd5e.wikidot.com
+CSS
+.feature {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.feature.offcolor {
+    background-color: ${rgb(255, 250, 180)} !important;
+}
+th {
+    background-color: ${rgb(230, 216, 170)} !important;
+}================================dndbeyond.com
+CSS
+.mon-stat-block,
+.mon-stat-block::before,
+.mon-stat-block::after,
+body {
+     background-image: none !important;
+     background-color: var(--darkreader-neutral-background) !important;
+}
+.read-aloud-text,
+.more-info::after,
+.details-container::after {
+     border-image: none !important;
+}
+::selection {
+    background-color: var(--darkreader-selection-background) !important;
+}================================dnscrypt.pl
+INVERT
+.logo================================dnsleaktest.com
+INVERT
+img[src$="logo.png"]
+img[src$="what-is-a-dns-leak.png"]
+img[src$="transparent-dns-proxy.png"]================================dnslytics.com
+INVERT
+img[src*="logo.png"]================================doba.pl
 INVERT
 .social
 img[src*="logo.png"]
@@ -23,9 +575,339 @@ img[src*="/img/powiaty/"]================================dobreprogramy.pl
 CSS
 header a[href="/"] svg {
     fill: #fff !important;
+}================================doc.qt.io
+CSS
+:root {
+    --content-bg-color: var(--darkreader-neutral-background) !important;
+}================================docs.codacy.com
+INVERT
+div.footer-logo > img[alt="Codacy"]================================docs.dagster.io
+INVERT
+img[alt="Dagster logo"]
+CSS
+#__next > div {
+    background-image: none !important;
+}================================docs.expo.dev
+IGNORE INLINE STYLE
+tr svg *================================docs.google.com
+INVERT
+.docs-icon
+.goog-flat-menu-button-caption
+.punch-filmstrip-controls-icon
+#docs-editor canvas
+.docs-homescreen-icon
+.kix-equation-toolbar-icon
+.kix-equation-toolbar-palette-icon
+.cell-input
+.formula-content
+.docs-instant-button-bubble-icon-container
+.docs-gm .docs-dialog .modal-dialog-title-close::after
+.docs-preview-palette-item
+.goog-menuitem-checkbox
+.goog-dimension-picker-unhighlighted
+.goog-dimension-picker-highlighted
+#docs-star
+.rs-role-icon
+.toggle-link-icon
+.link-management-drop-down-icon
+.vs-icon
+.vpc-icon
+.docs-analytics-img
+.share-butter-copy-icon
+.doc-previews-indicator-popover .docs-link-bubble-mime-icon
+img[src$="googlelogo_dark_clr_74x24px.svg"]
+.exportUnderline
+.freebirdMaterialIconIconEl
+.quantumWizTogglePapercheckboxCheckMark
+#docs-titlebar-share-client-button .scb-button-icon:not([class*="white"])
+body[itemtype*="PresentationObject"] #docs-titlebar-share-client-button .scb-button-icon
+g.punch-filmstrip-indicator > image
+.docs-gm .docos-icon-overflow-three-dots-size
+CSS
+.docs-preview-palette-item {
+    border: transparent !important
+}
+.cell-input {
+    background-color: ${black} !important;
+    color: ${white} !important;
+}
+.cell-input > span, .cell-input > font {
+    --darkreader-inline-color: ${white} !important;
+}
+.kix-cursor-caret {
+    border-color: ${black} !important;
+}
+.kix-selection-overlay {
+    background-color: var(--darkreader-selection-background) !important;
+    border: var(--darkreader-selection-background) !important;
+}
+.ia-invite-controls-area {
+    background-color: transparent !important
+}
+.docs-gm .docs-revisions-switch .apps-ui-material-slide-toggle-thumb {
+    background-color: rgb(43, 46, 48) !important;
+}
+.docs-gm .docs-revisions-switch.apps-ui-material-slide-toggle-container-checked .apps-ui-material-slide-toggle-thumb {
+    background-color: rgb(9, 64, 155) !important;
+}
+.docs-text-ui-cursor-blink {
+    fill: ${black} !important;
+}
+.docs-title-input-label:not([style*="pointer-events: auto"]) > #docs-title-input-label-inner {
+    visibility: hidden !important;
+}
+input.docs-title-input {
+    color: var(--darkreader-neutral-text) !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.sketchy-text-background + g g rect {
+    fill: var(--darkreader-selection-background) !important;
+}================================docs.google.com/picker
+INVERT
+#doclist div > div + div div[style="user-select: none;"]:not([role="tab"]):not([role="menuitemradio"]):not([role^="menu"]) > div:not([aria-pressed]):not([role="tab"]):not([class$="highlightsgrid"]):first-of-type
+#doclist div > div + div div[role="menu"] div[role="menuitem"][style="user-select: none;"] div[aria-label] div[data-tooltip] + div
+#doclist div > div + div label + input + div[style]
+img[src$="search-black.png"]================================docs.manim.community
+CSS
+.toc-drawer {
+    background: var(--darkreader-bg--color-background-primary);
+}
+.sidebar-search-container {
+    background: var(--darkreader-bg--color-admonition-background);
+}
+.sidebar-tree .current > .reference {
+    background: var(--darkreader-bg--color-admonition-title-background--admonition-todo);
+}================================docs.sentry.io
+INVERT
+.index-logo > img
+a.hover-card-link[href="/platforms/apple/"] > .image-frame
+a.hover-card-link[href="/platforms/javascript/guides/nextjs/"] > .image-frame
+CSS
+.document-wrapper, .promo-banner {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================docs.soliditylang.org
+CSS
+.wy-body-for-nav {
+    background-color: unset;
+}================================doctorswithoutborders.org
+INVERT
+.site-logo================================documentfoundation.org
+INVERT
+.logo
+img[alt*="LibreOffice Initial Artwork Logo ColorLogoBasic"]================================documentliberation.org
+INVERT
+img[src="assets/Uploads/dlp/images/logo-calligra.png"]
+img[src="assets/Uploads/dlp/images/logo-libreoffice.png"]================================dominos.*
+INVERT
+.card--overlay > .card__header .card--overlay__close
+CSS
+svg.trackerbarimage:not(.complete svg.trackerbarimage) {
+    fill: var(--darkreader-neutral-background) !important;
+}
+.stage:not(.complete) > .title > span {
+    color: var(--darkreader-neutral-background) !important;
+}
+.tracker-page-container div.tracker-module.pizza-tracker .tracker-container > div.stage.complete [class^="chevron-"] {
+    fill: #689d30 !important;
+}
+.tracker-page-container div.tracker-module.pizza-tracker .tracker-container > div.stage [class^="chevron"] {
+    stroke: var(--darkreader-neutral-text) !important;
 }================================donald.pl
 INVERT
-a[href="/"]================================dziennik.pl
+a[href="/"]================================doodle.com
+INVERT
+svg.d-checkmark .d-background================================doordash.com
+INVERT
+input[kind="RADIO"][id^="Toggle"]::after================================dotaunderlords.gamepedia.com
+dota2.gamepedia.com
+dota2.fandom.com
+CSS
+#right-navigation {
+    background-image: none !important;
+}
+IGNORE IMAGE ANALYSIS
+#left-navigation================================dou.ua
+CSS
+.g-right-shadowed,
+.img::before, .img::after {
+    background-image: none !important;
+}================================downloads.khinsider.com
+CSS
+body {
+    background: none !important;
+}
+#faux {
+    background-image: none !important;
+}================================dp.ru
+INVERT
+.logo-image================================dribbble.com
+INVERT
+.site-nav-desktop-logo================================drive.google.com
+INVERT
+img[src$="google_gsuite"]
+div[role="menuitem"] svg
+div[role="dialog"][style^="width: 350px;"] div[role="button"][tabindex="0"]
+div[role="dialog"] ~ div[role="menu"] > div[role="menuitem"] > div > div:not([style*="background-image"])
+img[src$="type/audio/mp3"]
+div[role="listitem"] > div > div > div > svg[fill="#000000"] > path
+div[role="menu"] > div > div[role="menuitem"] > div > div > div
+div[data-label="nd"] > div > div > svg > path[fill="#000000"]
+div[role="document"] > div[role="button"] .a-b-c
+div > svg > circle[fill="white"]
+img[src*="empty_state_trash"]
+CSS
+span[data-type="spelling"] {
+    mix-blend-mode: normal !important;
+}
+div[role="menu"] div[role="menuitem"][class*=" "] > div > div > div,
+div[role="button"][aria-disabled="true"] > div {
+    filter: invert(50%) !important;
+}
+#request-access-icon {
+    filter: invert(93.7%) hue-rotate(180deg) contrast(90.6%) !important
+}
+:root {
+    --dt-secondary-container: ${#f1f3f4} !important;
+}
+button[guidedhelpid="new_menu_button"] {
+    background-color: ${#dbdde0} !important;
+}
+div[data-target="autopurgebanner"] > section {
+    background: ${#dbdde0} !important;
+}
+div[role="toolbar"] div[role="button"],
+div[role="toolbar"] div[role="presentation"][data-active="true"] > div[role="presentation"] {
+    mix-blend-mode: normal !important;
+}
+IGNORE INLINE STYLE
+div[role="presentation"] svg
+div[data-label="nd"] > div > div > svg > path[fill="#000000"]================================drive.google.com/file
+INVERT
+div[role="menu"] > div[role="menuitem"] > div > div > div
+div[role="menu"] > div[role="menuitem"] > div > div
+CSS
+#request-access-icon {
+    filter: invert(93.7%) hue-rotate(180deg) contrast(90.6%) !important
+}================================drive.google.com/picker
+INVERT
+div[role="menu"] div[role="menuitem"]:not([class*=" "]) > div > div > div
+div[role="button"][tabindex="0"]
+CSS
+div[role="menu"] div[role="menuitem"][class*=" "] > div > div > div,
+div[role="button"][aria-disabled="true"] > div {
+    filter: invert(50%) !important;
+}
+IGNORE INLINE STYLE
+svg[class=""]
+svg[class=""] *================================droid-life.com
+CSS
+.collection-posts__list .preview__picture {
+    mix-blend-mode: normal !important;
+}================================dropbox.com
+INVERT
+.dl-dropbox
+.drops-empty-page-header-image
+.restorations-education__df-help__image
+.search__view--empty img
+.plan-status-section__icon img
+.dropbox-logo__type
+iframe[class^="previewhtml _previewContent"]
+.toggle.toggle-block__toggle.dig-Toggle
+.toggle.toggle-block__toggle.dig-Toggle.dig-Toggle--isToggled > span::after
+.shared-with-members.audience-box.u-pad-top-xs.u-pad-bottom-s.u-mar-bottom-xs > .c-loader
+.hp-card-carousel-dots
+.loading-loading > .loading-img
+CSS
+.rc-inline-action-bar-container.brws-file-row-inline-action-bar {
+    background: var(--darkreader-bg--color__core__secondary) !important;
+}
+svg.dig-GlyphLogo.dig-Waffle-row-logo path[fill="var(--color__glyph__accent)"] {
+    --darkreader-inline-fill: var(--color__glyph__accent) !important;
+}
+svg.dig-GlyphLogo.dig-Waffle-row-logo path[fill="var(--color__glyph__primary)"] {
+    --darkreader-inline-fill: var(--darkreader-text--color__standard__text) !important;
+}
+.dig-LabelGroup > div > input[aria-checked="false"] {
+    background-color: var(--darkreader-bg--color__core__secondary) !important;
+}
+.dig-LabelGroup > div > input[aria-checked="true"] {
+    background-color: var(--darkreader-text--color__core__secondary) !important;
+}
+IGNORE INLINE STYLE
+.home__suggest_image path
+.selection-preview-pane__icon path
+.dig-WordmarkLogo path================================drupal.org
+CSS
+input[type="image"] {
+  background: none;
+}================================drvhub.net
+INVERT
+.vendors-block a img
+CSS
+.hero {
+    background-image: none !important;
+    background-color: ${white} !important;
+}================================ds.163.com
+INVERT
+.c-slogan--normal================================dsausa.org
+INVERT
+.navbar-toggler-icon================================dspguide.com
+CSS
+#divPage {
+    background-image: none !important;
+}================================dtf.ru
+INVERT
+mark================================duckduckgo.com
+INVERT
+.is-active.js-tw-card.bg-clr--white.tw-card > .tw-card__footer > a.js-tweet-action.tw-card__action.tw-card__link > [src="/assets/common/slider/twitter-like.svg"]
+[src="https://duckduckgo.com/assets/icons/thirdparty/wikipedia.svg"]
+CSS
+.justify-content-center.align-items-center.flex-lg-column.flex-md-row.card-1.card > .card-body > h3,
+.justify-content-center.align-items-center.flex-lg-column.flex-md-row.card-2.card > .card-body > h3,
+.justify-content-center.align-items-center.flex-lg-column.flex-md-row.card-3.card > .card-body > h3,
+.justify-content-center.align-items-center.flex-lg-column.flex-md-row.card-1.card > .card-body > p,
+.justify-content-center.align-items-center.flex-lg-column.flex-md-row.card-2.card > .card-body > p,
+.justify-content-center.align-items-center.flex-lg-column.flex-md-row.card-3.card > .card-body > p,
+.js-hiring-open-pos.join__btn.mt-5.btn.col-sm-auto.col{
+    color: var(--darkreader-neutral-background) !important;
+}
+.logo_homepage {
+    background-image: url("https://duckduckgo.com/assets/logo_homepage.alt.v108.svg") !important;
+}
+.header__logo {
+    background: no-repeat center url("https://duckduckgo.com/assets/logo_header.alt.v108.svg") !important;
+}
+IGNORE INLINE STYLE
+#color_picker_container .sample
+.zci--color_codes .circle================================duo.google.com
+INVERT
+.gb_se .gb_ye:not(.gb_Ae)================================duolingo.com
+INVERT
+.Z392z
+._24NNT
+[data-test="skill-icon"] + div img
+CSS
+button[aria-disabled="true"] {
+    opacity: 0.3 !important;
+}
+button.WOZnx::before,
+div._3C_oC::before {
+    background-color: transparent !important;
+}
+IGNORE INLINE STYLE
+div[data-test="challenge-translate-prompt"] svg *
+div[data-test="challenge challenge-translate"] svg *================================dvizhcom.ru
+INVERT
+.mobile-header-icon:nth-last-of-type(3)
+.mobile-header-icon:nth-last-of-type(2)
+.mobile-header-icon:nth-last-of-type(1)================================dw.com
+CSS
+#bodyMover {
+    background-image: none !important;
+}================================dynadot.com
+INVERT
+img[data-src="/tc/navbar-logo.png"]
+#navigation-shopping-cart================================dziennik.pl
 INVERT
 img[alt="Dziennik"]================================dziennikbaltycki.pl
 dzienniklodzki.pl

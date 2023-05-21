@@ -6,7 +6,64 @@ div[class^='c5'] .gm-style
 #wrapper > div:nth-of-type(2)
 #wrapper > div:nth-of-type(2) > header
 #wrapper > div:nth-of-type(2) > footer
-#wrapper > div:nth-of-type(2) > #main-content > div:first-child================================uokik.gov.pl
+#wrapper > div:nth-of-type(2) > #main-content > div:first-child================================ubisoft.com
+INVERT
+.menu span
+CSS
+global-navigation,
+.menu {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================ubuntu.com
+INVERT
+.cls-2
+.global-nav__header-logo-anchor
+CSS
+header[style$="image-background-paper.png);"] {
+    background-image: none !important;
+}
+.chart-key text {
+    fill: var(--darkreader-neutral-text) !important;
+}
+IGNORE INLINE STYLE
+g#ubuntu-logo > path================================ubuntubudgie.org
+INVERT
+.custom-logo================================udemy.com
+CSS
+.radio:not(.radio-button) input[type="radio"]:checked + .radio-label::before,
+.radio-inline:not(.radio-button) input[type="radio"]:checked + .radio-label::before {
+    background-color: var(--darkreader-neutral-text) !important;
+}
+IGNORE INLINE STYLE
+[data-purpose="star-rating-mask"] > rect================================ultimate-guitar.com
+INVERT
+form[action$="/search.php"] > button
+form[action$="/search.php"] > button:not(:hover) > span
+canvas[style^="height: 72px; width: 84px;"]
+canvas[style^="height: 42px; width: 141px;"]================================umweltinstitut.org
+CSS
+.streifenBg {
+    background-image: none !important;
+}================================un.org
+INVERT
+a.logo[title="United Nations"]================================understandingwar.org
+CSS
+#edit-search-block-form--2,
+#nice-menu-1 > li > a {
+    color: var(--darkreader-neutral-background) !important;
+    text-shadow: none !important;
+}
+#mainwrap,
+.secondarybox,
+.content,
+.view-filters {
+    background-image: none !important;
+}
+img[src*="ISW\%20LOGO"],
+img[src*="ISW\%20Logo"] {
+    background-color: white !important;
+}
+IGNORE IMAGE ANALYSIS
+*================================uokik.gov.pl
 INVERT
 .a-press-office
 .abgLong
@@ -30,7 +87,101 @@ h2#here {
 }
 #footer .active {
     color: #000000 !important;
-}================================uteka.ru
+}================================uol.com.br
+CSS
+.text a {
+    text-decoration: underline;
+}================================uottawa.brightspace.com
+INVERT
+.d2l-navigation-link-image-container
+CSS
+:host {
+    --d2l-button-icon-background-color-hover: var(--darkreader-bg--d2l-color-gypsum) !important;
+}
+d2l-card {
+    background: var(--darkreader-neutral-background) !important;
+    border-color: var(--darkreader-border--d2l-color-gypsum) !important;
+}
+d2l-dropdown-content > div,
+d2l-menu-item {
+    background-color: var(--darkreader-neutral-background) !important;
+    border-radius: 10px !important;
+}
+d2l-empty-state-simple {
+    border-color: var(--darkreader-border--d2l-color-mica) !important;
+}
+.d2l-button-filter > ul > li > a.vui-button {
+    border-color: var(--darkreader-border--d2l-color-mica) !important;
+}
+.d2l-label-text:has(.d2l-button-subtle-content):hover,
+.d2l-label-text:has(.d2l-button-subtle-content):focus,
+.d2l-label-text:has(.d2l-button-subtle-content):active {
+    background-color: var(--darkreader-bg--d2l-color-gypsum) !important;
+}
+.d2l-navigation-centerer {
+    color: inherit !important;
+}
+.d2l-tabs-layout {
+    border-color: var(--darkreader-border--d2l-color-gypsum) !important;
+}================================ups.com
+CSS
+#ups-alertsWrap,
+#ups-skipNav {
+    background: ${#FE9} !important;
+}================================uptimerobot.com
+INVERT
+.normal-logo
+.socialWrapper > ul > li
+.feature-icon
+[src$="godaddy-logo.svg"]
+[src$="moodys-logo.svg"]
+[src$="ibm-logo.svg"]
+[src$="expedia-logo.svg"]
+[src$="creditcards.svg"]
+CSS
+.page-head,
+.sidebar {
+    background-image: none !important;
+}================================upwork.com
+CSS
+.profile-completeness-nudges-tiles-alternative .carousel-wrapper .up-icon svg {
+    filter: drop-shadow(0 0 0px var(--white)) drop-shadow(0 0 0px var(--white));
+}
+.up-skill-container .up-btn.up-btn-next::before,
+.up-skill-container .up-btn.up-btn-prev::before {
+    opacity: 0 !important;
+}
+.up-tab-scroll-hint::after {
+    background: none !important;
+}
+.up-d-skeleton {
+    color: transparent !important;
+    background-color: var(--darkreader-bg--skeleton-color) !important;
+    background-image: linear-gradient(90deg, var(--darkreader-bg--skeleton-color), #24242400, var(--darkreader-bg--skeleton-color)) !important;
+}================================urbandecay.com
+IGNORE INLINE STYLE
+.c-select__icon
+.c-swatch================================urbandictionary.com
+INVERT
+a.block.flex================================urpredditodicittadinanza.lavoro.gov.it
+CSS
+:root {
+    --lwc-colorContentAreaBackground : transparent !important;
+}================================usbank.com
+INVERT
+.logo================================userstyles.world
+INVERT
+nav .menu-icon .i================================uspassporthelpguide.com
+CSS
+body {
+    background: none !important;
+}================================usps.com
+INVERT
+img[src$="hamburger.svg"]
+img[src$="search.svg"]
+ul.nav-list > li.menuheader::after
+ul.nav-list > li.qt-nav > div > ul > li > a > img
+#usps-logo================================uteka.ru
 INVERT
 img[src$="/static/img/logo.svg?v=12"]
 ymaps[class$="ground-pane"]

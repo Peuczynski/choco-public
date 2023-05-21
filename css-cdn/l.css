@@ -1,8 +1,19 @@
-laczynasnapiecie.pl
+labcorp.com
+INVERT
+.logo================================labfolder.com
+CSS
+:root {
+    --secondary-color: ${#002b56} !important;
+}================================laczynasnapiecie.pl
 INVERT
 .navbar-brand
 .tim-power
-.row-partners-logo a================================lajtmobile.pl
+.row-partners-logo a================================lafibre.info
+CSS
+.frame,
+#header {
+    background-image: none !important;
+}================================lajtmobile.pl
 CSS
 body > * {
     --background: var(--darkreader-neutral-background) !important;
@@ -20,6 +31,104 @@ input[type="text"] {
 }
 .generatorTemplate > .columnsBlockGeneratorBlock.mobileHide > *{
     background: ${#FEF} !important;
+}================================lambda-the-ultimate.org
+CSS
+a {
+    color: #3391ff !important;
+}================================lambdalabs.com
+INVERT
+.lambda-logo================================lambdatest.com
+INVERT
+.tools_logo a img================================languagetool.org
+INVERT
+#checktext_ifr================================laptopmag.com
+INVERT
+div#publisherDetails.logo
+.qc-cmp-publisher-logo================================laravel.com
+CSS
+.bg-gray-100,
+aside > div {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================last.fm
+INVERT
+.resource-external-link--homepage::before
+.share-option
+CSS
+.user-dashboard-loved-tracks .user-dashboard-big-datapoint-value a {
+    color: ${#666666} !important;
+}
+.user-dashboard-catalogue-item-total a {
+    color: ${#666666} !important;
+}
+.highcharts-text-outline {
+    stroke: none !important;
+}
+.user-dashboard-scalable-content span {
+    color: ${#666666} !important;
+}
+.linkfire-button {
+    --darkreader-border--play-arrow-color: var(--gray-50) !important;
+}
+IGNORE IMAGE ANALYSIS
+.masthead-logo-loading
+.masthead-logo================================lastpass.com
+INVERT
+.lp-header__logo--link================================latex.wikia.org
+INVERT
+.mwe-math-fallback-image-inline
+.mwe-math-fallback-image-display================================latimes.com
+INVERT
+.page-logo
+.page-header-logo================================launchpad.net
+INVERT
+.edit-controls
+#launchpad-logo-and-name
+CSS
+.footer .lp-arcana {
+    background-image: none !important;
+}================================leagueoflegends.com
+INVERT
+[data-testid="featurednews"] div[class^="style__ItemWrapper"] div[class^="style__Container"] canvas
+.bxrpQD
+CSS
+article > div > canvas[class^="style__Canvas"] {
+    display: none !important;
+}
+div[class^="style__NavContent"] {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================lear.com
+INVERT
+.logo================================learn.inside.dtu.dk
+INVERT
+.pdfViewer
+svg
+d2l-icon
+d2l-button-icon
+CSS
+a {
+     color: var(--darkreader-neutral-text) !important;
+}
+:html {
+    --d2l-color-celestine-plus-2: var(--darkreader-neutral-background) !important;
+}
+:host {
+    --d2l-dropdown-background-color: var(--darkreader-neutral-background) !important;
+    --d2l-menu-background-color: var(--darkreader-neutral-background) !important;
+    --d2l-menu-background-color-hover: var(--darkreader-neutral-background) !important;
+    --d2l-input-background-color: var(--darkreader-neutral-background) !important;
+    --d2l-tabs-background-color: var(--darkreader-neutral-background) !important;
+    --d2l-list-item-content-text-color: var(--darkreader-neutral-text) !important;
+}
+.d2l-navigation-s-personal-menu-text, .d2l-menu-item-text, .d2l-body-small, .d2l-heading, d2l-htmleditor-menu-item, d2l-empty-state-simple, button {
+    color: var(--darkreader-neutral-text) !important;
+}
+.d2l-card-link-container,.d2l-card-footer,.d2l-floating-buttons-container,.d2l-htmleditor-container,.d2l-dialog-outer, d2l-card, d2l-list-item-generic-layout {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================learnopengl.com
+CSS
+#hover {
+    background-image: none !important;
+    opacity: 1 !important;
 }================================leetcode.com
 leetcode-cn.com
 INVERT
@@ -39,12 +148,226 @@ div[class^="data-structure-viewer"] g[class^="node"] > circle {
 }
 div#solution img {
     background-color: ${black};
-}================================liberte.pl
+}================================legacy.com
+CSS
+.Directory {
+    background-image: none !important;
+}================================lemonde.fr
+INVERT
+.logo__lemonde================================lenovo.com
+INVERT
+.m-megaMenu
+CSS
+.m-mastheadUtilityLinks {
+    background: none !important;
+}================================lesbonscomptes.com
+CSS
+.important {
+    background-color: rgb(92, 92, 61) !important;
+}================================letters.gov.spb.ru
+INVERT
+.leaflet-map-pane================================letyshops.com
+INVERT
+.header-logo-image================================lever.co
+INVERT
+a.main-header-logo
+div.site-branding================================lexar.com
+INVERT
+.page_header_wrapper a.logo img================================lg.com
+INVERT
+.logo
+img[src*="/features/"]================================liberte.pl
 sklep.liberte.pl
 INVERT
 img[src*="liberte_logo.svg"]
 img[src*="libertesklep.svg"]
-.hamburger================================literia.pl
+.hamburger================================libravatar.org
+INVERT
+footer::before
+.hero::before================================libretexts.org
+CSS
+.mt-content-container img:hover {
+    background-color: rgba(255, 255, 255, 0.75) !important;
+    background-blend-mode: normal;
+}================================librewolf-community.gitlab.io
+INVERT
+[src="/images/search.svg"]
+[src="/images/no-looking.png"]================================librewolf.com
+CSS
+.docs-container .max-w-screen-md .screenshot + .inner {
+    background-image: linear-gradient( 180deg, rgba(255, 255, 255, 0) 0%, rgba(26, 24, 26, var(--darkreader-bg--tw-bg-opacity)) 50% ) !important;
+}================================librivox.org
+INVERT
+.logo
+CSS
+.main-content-home,
+.homepage-main-wrap,
+.homepage-main-block p span {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.box_1 {
+    background-color: ${#eaefdf} !important;
+}
+.box_2 {
+    background-color: ${#e0eef1} !important;
+}
+.post-wrap,
+.page-wrap {
+    background-color: ${#f8f8f5} !important;
+}================================licensing.biz
+INVERT
+.logo================================lichess.org
+CSS
+.time {
+    z-index: 0 !important;
+}
+IGNORE INLINE STYLE
+cg-container > svg > line
+IGNORE IMAGE ANALYSIS
+.is2d .bishop.black
+.is2d .king.black
+.is2d .knight.black
+.is2d .pawn.black
+.is2d .queen.black
+.is2d .rook.black
+.brown .is2d cg-board================================life360.com
+INVERT
+.site-header .header-brand img================================lifelock.com
+INVERT
+.c-topnav__logo-link================================lightning.force.com
+CSS
+.slds-brand-band,
+.slds-brand-band::after,
+.slds-brand-band_cover,
+.slds-brand-band_medium,
+.slds-page-header,
+.slds-utility-bar,
+.slds-tabs_card,
+.slds-card-wrapper,
+.slds-grid,
+.slds-clearfix {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.slds-card {
+    background-color: #333333 !important;
+}
+.slds-button_neutral,
+.slds-button--neutral {
+    color: rgb(20, 150, 20) !important;
+}================================lightningmaps.org
+INVERT
+.bo_map_realtime
+.live_ctrl > img================================lingvoforum.net
+INVERT
+div#header
+div#header img.avatar
+span.topslice
+span.botslice
+CSS
+body {
+    background-image: none !important;
+}
+div#header {
+    color: black !important;
+}
+div#header a:link,
+div#header a:visited {
+    color: black !important;
+}================================linkedin.com
+CSS
+:root {
+    --color-text-low-emphasis: ${rgba(0,0,0,0.6)};
+}
+.js-job-card-company-logo {
+    background-color: rgba(255, 255, 255, 0.20);
+    background-blend-mode: color;
+}
+.global-footer-compact__linkedin-logo,
+li-icon[type="linkedin-logo"],
+.bug-text-color {
+    fill: ${black} !important;
+}
+.pds-ge-entry-card__card {
+  background: linear-gradient(to bottom, var(--color-action, var(--blue-70, #0073b1)), var(--color-action, var(--blue-70, #0073b1)) 4px, var(--darkreader-neutral-background, #fff) 4px, var(--darkreader-neutral-background, #fff)) !important;
+}
+.vjs-load-progress {
+    background-color: hsla(0,0%,100%,.3) !important;
+}
+.vjs-play-progress, .vjs-play-progress::before,
+.vjs-volume-level::before, .vjs-volume-level {
+    background-color: #fff !important;
+}
+.vjs-volume-bar {
+    background-color: hsla(0,0%,100%,.4) !important;
+}
+img[class*="ghost-"], div[class*="ghost-"] {
+    background-size: 100% 100% !important;
+}
+.artdeco-pill {
+    background-color: ${#ccc} !important;
+}
+img {
+    background-color: transparent !important;
+}
+img[src*="logo"] {
+    filter: brightness(75%);
+}
+.card-layout {
+    background-color: var(---darkreader-neutral-background);
+}================================linode.com
+INVERT
+.c-identity__image
+CSS
+.o-form__input {
+    background-color: rgb(41, 44, 46) !important;
+    border-color: rgb(232, 230, 227) !important;
+    color: rgb(232, 230, 227) !important;
+}
+.o-form__input:hover {
+    background: transparent !important;
+}
+.o-form__icon::before {
+    color: rgb(232, 230, 227) !important;
+}
+.o-form__input::placeholder {
+   color: rgb(232, 230, 227) !important;
+}
+.o-button, o-button--secondary {
+    background-color: rgb(41, 44, 46) !important;
+    border-color: rgb(232, 230, 227) !important;
+    color: rgb(232, 230, 227) !important;
+}
+.o-button:hover {
+    background: transparent !important;
+}================================linotype.com
+INVERT
+#logo================================linustechtips.com
+INVERT
+.ipsMenu
+CSS
+:root {
+    --darkreader-bg--badge--background: ${white} linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)) !important
+}
+.ipsHovercard {
+    background-color: ${#fff} !important;
+}================================linux-hardware.org
+CSS
+#ezcGraphChart > path:first-of-type {
+    fill: var(--darkreader-neutral-background) !important;
+}================================linuxfoundation.org
+INVERT
+.logo img================================linuxgrandma.blogspot.com
+CSS
+body {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}================================linuxuprising.com
+INVERT
+.logo================================lirc.org
+CSS
+body {
+    background: none !important;
+}================================literia.pl
 INVERT
 .icon-svg-pinterest
 .icons-icon-facebook
@@ -53,12 +376,122 @@ INVERT
 a::after
 a#logo
 span.as-label::before
-img[alt="ringier axel springer"]================================login.yahoo.com
+img[alt="ringier axel springer"]================================live.com
+INVERT
+.ewr-sheettable================================live.myvrspot.com
+INVERT
+.img-logo
+CSS
+.wrap {
+    background: var(--darkreader-neutral-background);
+}================================liveagent.com
+INVERT
+.Header__logo================================livemint.com
+INVERT
+div.icoMenu
+a.icoSearch.iconSprite
+a.icoBell.iconSprite
+a.icoBookmark2.iconSprite
+a.icoBookmark3.iconSprite
+a.icoTwit.iconSprite
+div.icoShare.iconSprite================================liveuamap.com
+INVERT
+.comment-link::after
+.leaflet-pane > .leaflet-layer
+.logo
+.top-bright > label::after
+CSS
+.head-news {
+    background-image: none !important;
+}================================lkml.org
+INVERT
+img[src*="corner"]
+CSS
+body {
+    background-image: none !important;
+}
+td.c {
+    color: ${white} !important;
+}
+pre[itemprop="articleBody"] a {
+    color: ${lightblue};
+}================================loepenshop.com
+bonjourfoto.nl
+CSS
+body {
+    background-image: none !important;
+}
+IGNORE IMAGE ANALYSIS
+div.art-Header-jpeg================================login.assetpanda.com
+CSS
+tr,
+.main-container {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================login.live.com
+INVERT
+div[id$="Proofs"] .tile-img
+div.promoted-fed-cred-content > div > div > div > div > img
+div#credentialList.form-group > div > div > div > div > div > img
+div.pagination-view.has-identity-banner.animate.slide-in-next > div > div > div > img
+span.help-button > img
+button.backButton > img================================login.yahoo.com
 INVERT
 .social-login
 label[for=persistent]::before
 #password-toggle-button
 IGNORE IMAGE ANALYSIS
-.social-login================================lovekrakow.pl
+.social-login================================logowanie.edukacja.olsztyn.eu
 INVERT
-.brand
+img[alt="Nagłówek strony"]
+img#logo
+img[src="/Resources/wylogowano-plansza.jpg"]
+CSS
+body {
+    background-image: none !important;
+}================================lol.fandom.com
+CSS
+.bracket-line:not(.l-down)::after,
+.bracket-line::before,
+.bracket-spacer.horizontal::before {
+    border-width: 0 0 2px 0 !important;
+}
+.bracket-line.z-down::after {
+    border-width: 0 0 2px 2px !important;
+}
+.bracket-line.z-down::before {
+    border-width: 2px 2px 0 0 !important;
+}
+.bracket-line.z-up::before {
+    border-width: 0 2px 2px 0 !important;
+}
+.bracket-line.z-up::after {
+    border-width: 2px 0 0 2px !important;
+}================================lovekrakow.pl
+INVERT
+.brand================================lowendtalk.com
+INVERT
+.MeMenu > :last-child
+.SpBookmarks================================lowes.com
+CSS
+img {
+    mix-blend-mode: normal !important;
+}================================lrt.lt
+INVERT
+img[src*="/images/logo/logo-"]================================lsa.umich.edu
+IGNORE IMAGE ANALYSIS
+.header-wrap
+.giving-wrap================================lunapic.com
+INVERT
+.toolbar-button
+.square-toolbar-button
+IGNORE INLINE STYLE
+.color-well-color================================luogu.com.cn
+IGNORE INLINE STYLE
+.fa-group
+.fa-secondary
+.fa-primary
+.lfe-caption tag status-name================================lux.camera
+CSS
+.u-content-background {
+    background-color: var(--darkreader-neutral-background) !important;
+}

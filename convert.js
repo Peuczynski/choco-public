@@ -4,14 +4,14 @@ try {
     let data = fs.readFileSync('raw.css', 'utf8');
     const separator = '================================';
 
-    data = data.replace(/==+\n\n(.(?!\.pl))+\n([^=]|=(?="))+(?=\n\n==)/g, '');
+    // data = data.replace(/==+\n\n(.(?!\.pl))+\n([^=]|=(?="))+(?=\n\n==)/g, ''); just polish sites filter
     const sites = data.split(separator);
 
     const entries = {};
 
     for (const siteData of sites) {
         const lines = siteData.split('\n').filter((l) => l.length);
-        const name = lines[0];
+        const name = lines[0].replace('*.', '');
         const fileName = name == '*' ? 'css-cdn/globul.css' : `css-cdn/${name[0]}.css`;
         // const entry = {
         //     name,

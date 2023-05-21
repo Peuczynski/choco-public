@@ -1,20 +1,206 @@
-kapitanbomba.pl
+k-report.net
+CSS
+.dfzlu1 div,
+#diskuse_zahlavi a,
+.dfprofil,
+#diskuse_zahlavi td {
+    color: var(--darkreader-neutral-background) !important;
+}================================kaggle.com
+kaggleusercontent.com
+CSS
+div.output_png img {
+    background-color: ${black} !important;
+}
+IGNORE INLINE STYLE
+div.output_png img================================kahoot.it
+INVERT
+main[data-functional-selector="correct-answer"] > div > div > div > svg > g > path
+main[data-functional-selector="incorrect-answer"] > div > div > div > svg > g > path
+main[data-functional-selector="time-up-answer"] > div > div > div > svg > g > path
+div[data-functional-selector="kahoot-settings__language-picker"] > div > div > div > div > img
+.sc-iqxcLP.klWCeb
+g#Background
+g#Greyscale
+span[data-functional-selector="kahoot-logo"] > svg > g > path
+IGNORE INLINE STYLE
+[data-functional-selector^="answer"]
+[data-functional-selector="intro-animation-animation_pre-question-animation"] *
+IGNORE IMAGE ANALYSIS
+*================================kaldata.com
+IGNORE IMAGE ANALYSIS
+.tdi_112 .tdb-featured-image-bg================================kali.org
+CSS
+#kali-platforms .card > div {
+    background-image: none !important;
+}
+IGNORE IMAGE ANALYSIS
+#banner-logo================================kaos-community-packages.github.io
+INVERT
+.Header-brand================================kaosx.us
+INVERT
+.Header-brand img================================kapitanbomba.pl
 INVERT
 .custom-logo================================kartotekaonline.pl
 CSS
 body {
     background-image: none !important;
-}================================kiedyprzyjedzie.pl
+}================================katahiromz.web.fc2.com
+CSS
+body {
+    background-image: none !important;
+}================================kaytrip.com
+INVERT
+.date
+.jd_ss
+.liuchengt
+.nApp
+.nTel
+.n_app
+.tt_t
+.wmap
+CSS
+#imageField {
+    background-color: transparent !important;
+}
+.jd_xl {
+    filter: none !important;
+}================================kbb.com
+IGNORE INLINE STYLE
+svg[class*="LogoText"] g================================kcsoftwares.com
+CSS
+.status-10-fg {
+    color: #FF14FF !important;
+}
+.status-20-fg {
+    color: #FF2190 !important;
+}
+.status-30-fg {
+    color: #FFF719 !important;
+}
+.status-40-fg {
+    color: #FF1919 !important;
+}
+.status-50-fg {
+    color: #0062FF !important;
+}
+.status-80-fg {
+    color: #47FF19 !important;
+}
+.status-90-fg {
+    color: #727985 !important;
+}================================keep.google.com
+INVERT
+.gb_hc================================keepa.com
+INVERT
+div#loadingIcon
+div.pLText================================keepass.info
+INVERT
+img[src="help/images/trans.png"]
+CSS
+body {
+    background-image: none !important;
+}================================keepassxc.org
+CSS
+.btn-primary {
+    color: var(--darkreader-neutral-background) !important;
+}================================kenh14.vn
+CSS
+.kbwcb-left, .kbwcb-left::before {
+    background-image: none !important;
+}================================kenmore.com
+INVERT
+.navbar-brand================================kenwood.com
+INVERT
+.logo01================================keyserver.pgp.com
+INVERT
+a.button-text
+#ImPGPComHelp
+#ImPGPComHome
+[src="images/crystal_button_left.gif"]
+[src="images/crystal_button_left-dark.gif"]
+[src="images/crystal_button_right.gif"]
+[src="images/crystal_button_right-dark.gif"]
+[src="images/global_dir_logo_web.gif"]
+[background="images/crystal_button_fill.gif"]
+[background="images/crystal_button_fill-dark.gif"]
+CSS
+.card-top, .card-top-left-corner, .card-top-right-corner,
+.divide-fill,
+.header-bar-left, .header-bar-right,
+.title-left, .title-right {
+    background-image: none !important;
+}================================kfccoupons.co.nz
+CSS
+.img-container {
+    z-index: 0 !important;
+}
+.img-container > img {
+    filter: brightness(50%) sepia(40%) !important;
+}================================khanacademy.org
+INVERT
+.svg-image
+.graphie-label================================khronos.org
+INVERT
+.navbar-brand================================kiedyprzyjedzie.pl
 INVERT
 .cluster-marker div
 .leaflet-pane > .leaflet-layer
 CSS
 .cluster-marker div span {
     color: var(--darkreader-neutral-background) !important;
-}================================klubjagiellonski.pl
+}================================killedbygoogle.com
+INVERT
+img[src*="e.svg"]
+img[src*="-logo"]================================kingston.com
+INVERT
+.s-kt-navigation .nav-logo img================================kinoart.ru
+INVERT
+main > div > svg
+header > a > svg
+footer > div > svg
+header > div > a > svg================================kinopoisk.ru
+CSS
+input[name="kp_query"]::placeholder {
+    background-image: linear-gradient(45deg, var(--darkreader-neutral-text) 70%, transparent 100%) !important;
+}
+input[name="kp_query"] {
+    background-color: ${lightgray};
+}
+input[name="kp_query"]:focus {
+    background-color: ${rgb(195, 195, 195)};
+}================================kinsta.com
+INVERT
+.wp-block-kinsta-hero-title
+.wp-block-kinsta-hero-title > *================================kinzhal.media
+INVERT
+img[src$="logo.svg"]
+img[src$="search.svg"]
+img[src$="close.svg"]
+.footer-soc
+.footer__18
+.kinzhal-icon================================kioxia.com
+INVERT
+.header__logo================================klubjagiellonski.pl
 INVERT
 .logo
-.site_hamb svg================================komorkomat.pl
+.site_hamb svg================================knaben.eu
+INVERT
+a[href="https://matrix.to/#/#general:knaben.org"]
+CSS
+form .text-darker, div.text-bright, div.text-darker, pre.text-bright, h3.text-darker, h1.text-darker, h2.text-bright, button.text-darker {
+    color: var(--darkreader-text-netural) !important;
+}================================knife.media
+INVERT
+svg[class$="logo-image"]
+.explorer__header-close================================knowyourmeme.com
+INVERT
+.enlargeNavigation > #enlargeNav-prev
+.enlargeNavigation > #enlargeNav-next================================ko-fi.com
+INVERT
+img[alt="Ko-fi Logo"]
+.ui-mobile-nav-toggle================================kohls.com
+INVERT
+.top-global-header #logo================================komorkomat.pl
 INVERT
 .navbar-brand > img
 .owl-wrapper
@@ -22,7 +208,9 @@ INVERT
 INVERT
 .serviceLogoImg
 .serviceIcon
-.secondaryLogoImg================================konkret24.tvn24.pl
+.secondaryLogoImg================================konicaminolta.us
+INVERT
+#km_Header .logo img================================konkret24.tvn24.pl
 INVERT
 .header-left-corner__logo
 .menu-button__bars
@@ -37,10 +225,29 @@ INVERT
 img.weather-box__img
 .nav-top__logo-wrapper
 .nav-top__footer-burger > div > span
-a.footer__logo================================krytykapolityczna.pl
+a.footer__logo================================kort.foroyakort.fo
+INVERT
+.header-section > a:first-child
+.container-section > .icon-node================================kraken.com
+CSS
+header > nav > ul > li > a::after,
+span[data-testid^="asset-pair"][data-testid$="-low"] + div > :last-child {
+    background-color: var(--darkreader-neutral-text) !important;
+}================================krew.info
+INVERT
+a[class*="kropla"]================================krita.org
+CSS
+.container {
+    background: none !important;
+}================================krytykapolityczna.pl
 INVERT
 img[src*="logo"]================================ksiegowawsieci.pl
 INVERT
+.logo================================kubuntu.org
+INVERT
 .logo================================kulinarnyblog.pl
 INVERT
-.logo-img
+.logo-img================================kyivindependent.com
+INVERT
+.custom-logo-link
+.donate__patreon::before

@@ -1,4 +1,6 @@
-facebook.com
+f-droid.org
+INVERT
+.anti-feature-icon================================facebook.com
 INVERT
 ._2o89
 ._2q08
@@ -191,16 +193,132 @@ mask > rect
 mask > circle
 g > rect
 IGNORE IMAGE ANALYSIS
-*================================fakt.pl
+*================================fairtradeoriginal.*
 INVERT
-.header-links================================fax.plus
+.SiteLayout
+.SiteLayout > *
+.Inset-image================================fakespot.com
 INVERT
-img[src$="_info.svg"]================================fcmed.pl
+.fs-logo
+.logo
+.logo-click
+.press-logo-container
+.app-button > img
+img[alt="Header menu"]================================fakt.pl
+INVERT
+.header-links================================fanatical.com
+INVERT
+.trustpilot > .logo-container > a > img
+IGNORE INLINE STYLE
+div.drm-container svg g================================fandom.com
+INVERT
+.wds-global-navigation__logo-fandom
+CSS
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+#mixed-content-footer,
+.community-header-wrapper,
+.top-ads-container,
+.bottom-ads-container,
+.global-footer {
+    z-index: 1 !important;
+}
+.fandom-community-header__background.cover {
+    z-index: 0 !important;
+}
+IGNORE INLINE STYLE
+.wds-global-navigation__logo-image g path
+.wds-global-footer__header-logo g path
+.wds-global-footer__link svg g path
+symbol[id^="wds-brand-other"] *================================fantasy.premierleague.com
+INVERT
+.ism-table================================farside.ph.utexas.edu
+mathpages.com
+mathprofi.ru
+mathprofi.net
+mathworld.wolfram.com
+reference.wolfram.com
+terrytao.wordpress.com
+wolframalpha.com
+INVERT
+img:not([src^="/_next/static/images/"])================================fast.com
+INVERT
+div.logo
+div.powered-by
+IGNORE IMAGE ANALYSIS
+div.logo
+div.powered-by================================fastmail.com
+INVERT
+.logo svg================================fastmail.com/mail
+CSS
+.app-listItem.is-focused,
+.app-source.is-selected {
+    background-color: ${lightgray} !important;
+}
+.app-source.is-focused {
+    background-color: ${lightblue} !important;
+    color: ${black} !important;
+}
+.v-MailboxItem-unreadbadge {
+    background-color: ${darkblue} !important;
+}
+.v-Message-body {
+    border-color: transparent !important;
+}================================fau.de
+INVERT
+.baselogo
+CSS
+.accordion-toggle:not(.active) {
+    background-color: ${lightgrey} !important;
+}
+.accordion-toggle.active,
+.accordion-toggle:hover {
+    background-color: #032755 !important;
+}================================fax.plus
+INVERT
+img[src$="_info.svg"]================================fckng-serious.de
+INVERT
+.logo================================fcmed.pl
 INVERT
 .mkd-logo-wrapper
 a[href*="tel"]
 .mkd-sidearea > .textwidget > a > img
-.owl-wrapper================================filmweb.pl
+.owl-wrapper================================fedex.com
+CSS
+.fx-global-prelog-link.fx-showlogin span {
+    background-image: none !important;
+}================================fedoraforum.org
+INVERT
+.logo-image================================feedly.com
+CSS
+.entry.u0:hover,
+.entry--selected.u0,
+.entry--selected.u0:hover,
+.entry--selected.u4,
+.entry--selected.u5,
+button.secondary:hover {
+    background-color: ${#ccc} !important;
+}================================feynmanlectures.caltech.edu
+INVERT
+.figure > img[src$=".svgz"]================================ffmpeg.zeranoe.com
+INVERT
+.active================================fibermap.it
+INVERT
+img[src$="assets/images/bg-cloud.png"]================================figma.com
+IGNORE INLINE STYLE
+div[class*="paint_panels--chit"]
+div[class*="modal--modalShadow"] div================================fileformat.info
+INVERT
+[src$="logo_wide.png"]
+.thumbnail
+CSS
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+    background-image: none !important;
+}================================filetransfer.io
+INVERT
+a.logo================================filmweb.pl
 INVERT
 .ribbonLbl
 .isInit.ribbon[data-state="1"]::after
@@ -216,7 +334,163 @@ INVERT
 CSS
 .filmInfo__info {
     color: var(--darkreader-neutral-text) !important;
-}================================forsal.pl
+}================================filterlists.com
+IGNORE INLINE STYLE
+header.ant-layout-header img================================final-fantasy.ch
+CSS
+nav ul li:first-child span,
+h1 {
+    color: #000 !important;
+}
+input[type="submit" i],
+input[type="file" i] {
+    background-color: ${#c7c7c7} !important;
+    color: var(--darkreader-neutral-text) !important;
+}================================finn.no
+INVERT
+finn-footer
+article.ads__unit overflowmenu-active
+IGNORE INLINE STYLE
+svg *================================fio.fnar.net
+INVERT
+.chartjs-render-monitor================================firebase.google.com
+INVERT
+.devsite-site-logo================================firefox.com
+INVERT
+.fx-bento-app-link.fx-bento-link.fx-mobile > span::before================================firefox.net.cn
+CSS
+.btn,
+.core_follow,
+.pop_deep .ct dt.reward,
+.pages a, .pages strong,
+.design_mode_edit,
+.pop_showmsg {
+    background-image: none;
+}================================firstcontributions.github.io
+CSS
+.App,
+.topnav {
+    background-color: ${CornflowerBlue};
+}================================fivepost.ru/o
+CSS
+svg[class^="OrderQRCode__StyledQRCode"] {
+    background-color: var(--darkreader-neutral-text) !important;
+}
+svg[class^="OrderQRCode__StyledQRCode"] > path[fill="#000000"] {
+    fill: var(--darkreader-neutral-text) !important;
+}================================fiverr.com
+IGNORE INLINE STYLE
+.site-logo *================================fivethirtyeight.com
+INVERT
+.logo
+.site-logo
+#searchform
+.header-espn-link
+CSS
+.domain,
+.win-prob,
+.winSentText {
+    stroke: none !important;
+}================================flaggenlexikon.de
+INVERT
+img[src="https://www.flaggenlexikon.de/pix/flaggenlexikon.gif"]
+CSS
+body {
+    background-image: none;
+}
+[background="higru.gif"] {
+    background: var(--darkreader-neutral-background);
+}================================flashscore.com.tr
+INVERT
+.header__logo================================flatuicolors.com
+IGNORE INLINE STYLE
+.color================================flightfinder.fi
+INVERT
+.logo================================flipslibrary.com
+CSS
+:root {
+    --main-background: var(--darkreader-neutral-background) !important;
+    --sidebar-background: var(--darkreader-neutral-background) !important;
+}================================flow.polar.com
+INVERT
+.brand
+.detail-data-panel__icon
+.sleep-chart-yaxis.end
+.supergraph-canvas
+CSS
+.highcharts-container svg {
+    fill: ${#3f3f3f} !important;
+}
+.card__item-icon--rounded img {
+    background-color: rgba(255, 255, 255, 0.15) !important;
+    background-blend-mode: color;
+}
+.altitudetitle, .altdescmax, .altdescmin,
+.zonedesctitle, .zonedescmax, .zonedesclight,
+.maxhighlightval, .maxhighlightname {
+    color: rgb(0, 0, 0) !important;
+}
+.highcharts-background{
+    fill: none !important;
+}
+IGNORE INLINE STYLE
+.zonebox
+.zonestartbox
+stop================================flowkey.com
+INVERT
+body.front #zone-branding-wrapper
+CSS
+body.html #page.page #subslogan {
+    color: ${white} !important;
+}================================flyzipline.com
+INVERT
+#logo
+IGNORE IMAGE ANALYSIS
+#logo================================follow.it
+INVERT
+.header-logo
+.logo================================fontawesome.com
+CSS
+#icons-header, #docs-header,
+#hero > div:not(.container),
+.app-content.docs {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.doc-nav > div {
+    background-color: var(--darkreader-bg--background-norm) !important;
+}================================fontsinuse.com
+INVERT
+.fiu-header__branding
+.fiu-sample-list__item img
+.fiu-gallery-head__text img================================fontspring.com
+INVERT
+.grid6 .fullwidth================================fontsquirrel.com
+INVERT
+.fontlistitem
+CSS
+#main_content_container {
+    background-image: none !important;
+}================================foobar2000.org
+INVERT
+img[src="/foobarlogo.png"]================================food4less.com
+INVERT
+img[alt="Food4less logo"]================================foolcontrol.org
+CSS
+html {
+    background-color: transparent !important;
+}================================forem.com
+INVERT
+nav a > img[alt="Home"]
+#cta > section > div > div > img================================forms.reform.app
+INVERT
+.logo
+CSS
+svg.text-white {
+    color: var(--darkreader-neutral-background);
+}================================forms.yandex.ru
+INVERT
+.header2__service-logo
+.header2__logo-wrap================================forsal.pl
 INVERT
 .serviceLogo
 .homePageUrl
@@ -225,4 +499,244 @@ CSS
     background-color: var(--darkreader-neutral-background) !important;
 }================================forum.dobreprogramy.pl
 INVERT
+#site-logo================================forum.donanimhaber.com
+CSS
+body {
+    background-color: var(--darkreader-neutral-background)
+}================================forum.eset.com
+forum.ithardware.pl
+forum.kaspersky.com
+forums.getpaint.net
+forums.laptopvideo2go.com
+nieidealny.pl/forum
+INVERT
+.ipsBadge_highlightedGroup
+.ipsBadge_icon
+.ipsBadge_popular
+.ipsComment_authorBadge
+.ipsItemStatus.ipsItemStatus_custom.ipsItemStatus_read
+.ipsReact_button
+img[alt="Forum komputerowe ITHardware"]
+img[alt="paint.net Forum"]
+CSS
+.ipsBadge {
+    --darkreader-bg--badge--background: var(--darkreader-neutral-background) !important;
+}
+.ipsReact_reactCount > a,
+.ipsReact_reactCount > span,
+.elFullInbox_menu,
+.ipsHovercard,
+.ipsList_reset,
+.ipsMenu_auto,
+.ipsMenu_footerBar,
+.ipsMenu_headerBar,
+.ipsMenu_innerContent,
+.ipsMenu_item,
+.ipsMenu_sep,
+.ipsMenu_title,
+.ipsPadding,
+.cUserHovercard,
+a[data-mentionid] {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================forum.ivao.aero
+INVERT
+.buttonlist
+CSS
+.cat_bar, .cat_bar > *, .catbg > * {
+    background-color: var(--darkreader-neutral-background) !important;
+    color: var(--darkreader-neutral-text) !important;
+    background-image: none !important;
+}
+:not(a) > span, :not(a) > span > *, #footer {
+    background: none !important;
+}
+.buttonlist a:not(.active) {
+   color: var(--darkreader-neutral-background) !important;
+}
+ul.dropmenu li {
+    border: none !important;
+    background: var(--darkreader-neutral-background) !important;
+}
+ul.dropmenu ul {
+    border: 1px solid var(--darkreader-neutral-text) !important;
+    background: var(--darkreader-neutral-background) !important;
+}
+IGNORE INLINE STYLE
+#header================================forum.kaosx.us
+INVERT
+.Header-logo
+CSS
+.Dropdown-toggle,
+.item-refresh > Button,
+.DiscussionList-loadMore > Button,
+.LogInButton--github,
+.Button--icon {
+    color: ${black} !important;
+    background: ${#6f7f92} !important;
+}================================forum.manjaro.org
+CSS
+.below-footer-outlet.custom-footer {
+    background-image: none !important;
+}================================forum.miranda-ng.org
+CSS
+.firstlevel {
+    color: ${#666666} !important;
+}================================forum.p300.it
+CSS
+.ipsReact_reactCount > a {
+    background-color: var(--darkreader-neutral-background);
+    border-color: var(--darkreader-neutral-text); !important;
+}
+.ipsType_normal {
+    border-color: rgb(48,52,54);
+}
+.ipsMenu_headerBar,
+.ipsMenu_footerBar,
+.ipsEmoticons_category,
+.ipsMenu_innerContent,
+ul.ipsMenu, .ipsMenu > ul,
+a[data-mentionid],
+.cUserHovercard {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================forums.comodo.com
+INVERT
+.windowbg span.topslice
+.windowbg span.botslice
+.windowbg2 span.topslice
+.windowbg2 span.botslice
+CSS
+body {
+    background-image: none !important;
+}
+.buttonlist ul li a span:not(:hover) {
+     color: ${white} !important;
+}================================forums.gearsofwar.com
+IGNORE IMAGE ANALYSIS
+body================================forums.mydigitallife.net
+IGNORE INLINE STYLE
+#TotpQrCode================================forums.opera.com
+INVERT
+.forum-logo-wrapper================================forums.operationsports.com
+INVERT
+i
+.smallfont
+strong================================forums.tomshardware.com
+INVERT
+img[src="/styles/tomshardware/tomshardware/toms-hardware-logo.png"]
+div.trophyShowcase.trophyShowcase--postbit================================forvo.com
+INVERT
+img[src$="layout/logo.svg"]================================fotor.com
+INVERT
+div[style^="background-image: url(\"https://imgv3.fotor.com/images/background/background-image.png\");"]
+div[style^="background-image: url(\"https://imgv3.fotor.com/images/background/background-image.png\");"] > *================================fotw.info
+CSS
+body {
+    background-image: none !important;
+}================================frame.work
+INVERT
+a[title="Framework Home"] > img[alt="Framework"]
 #site-logo
+[type="checkbox"].checkbox-black:checked================================fredmeyerjewelers.com
+INVERT
+#header1_mainlogo
+.mobileNavIcons img
+.mobileNavIcons input:not(.searchdesktop)================================freebsdfoundation.org
+CSS
+.content-wrapper {
+    background-image: none !important;
+}================================freecodecamp.org
+CSS
+.video-quiz-selected-input {
+    background-color: var(--darkreader-neutral-text) !important;
+}
+.progress-bar-percent {
+    background-color: ${gray} !important;
+}
+.map-title polygon {
+    fill: var(--darkreader-neutral-text) !important;
+}
+.map-badge circle {
+    fill: var(--darkreader-neutral-background) !important;
+}================================freecommander.com
+CSS
+.am-body,
+#subsilver-nav-topic {
+    background-image: none !important;
+}
+.forabg,
+.forumbg,
+.header > .row-item,
+.body-blok-h3 h3 {
+    background: var(--darkreader-neutral-background) !important;
+}================================freedom.press
+INVERT
+.logo-heading-text================================freelancer.com
+INVERT
+.LogoImg[src*="freelancer-logo.svg"]================================freemaptools.com
+INVERT
+img[src="images/freemaptools-logo.jpg"]
+CSS
+body {
+    background-image: none !important;
+}================================freesound.org
+CSS
+#search input:not(#search_submit) {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================freetp.org
+CSS
+html,
+body,
+.wmid,
+.wfoot {
+    background-image: none !important;
+}
+html,
+body {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================fritz.box
+INVERT
+div.formular input[type="radio"]
+div.formular input[type="checkbox"]
+CSS
+div.formular input[type="radio"],
+div.formular input[type="checkbox"] {
+    background-color: transparent !important;
+}================================fs.blog
+INVERT
+.shared-counts-icon
+CSS
+body,
+.header-box {
+   background-color: var(--darkreader-neutral-background) !important;
+}================================fsfe.org
+INVERT
+#logo
+CSS
+body {
+    background-image: none !important;
+}================================ftp.nluug.nl
+INVERT
+img[alt="[NLUUG]"]================================fullstackopen.com
+CSS
+.gatsby-highlight-code-line {
+    background-color: ${hsla(0,0%,48.2%,.3)} !important;
+}================================funpay.ru
+INVERT
+.logo-color
+.logo================================furrychina.com
+INVERT
+.main_logo================================fusoya.eludevisibility.org
+CSS
+body {
+    background-image: none !important;
+}
+td {
+    color: var(--darkreader-neutral-text) !important;
+    background-image: none !important;
+}================================futureplc.com
+INVERT
+img[src$="future-logo.svg"]================================fz-juelich.de
+CSS
+body {
+    background-image: none !important;
+}

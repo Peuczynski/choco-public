@@ -1,12 +1,56 @@
-obserwatorgospodarczy.pl
+o2.co.uk
 INVERT
-.logo-img================================oferteo.pl
+.brandLogo================================oalevelsolutions.com
+INVERT
+p > span > img================================objectclub.jp
+INVERT
+#region-content > div.plain > table > tbody > tr > td > img:nth-child(2)
+CSS
+body {
+    background-image: none !important;
+}================================obserwatorgospodarczy.pl
+INVERT
+.logo-img================================oclc.org
+IGNORE INLINE STYLE
+.chart-key================================odysee.com
+INVERT
+.header__navigation-logo
+[data-vjs-player] .vjs-control-bar > [title="Autoplay Next Off"]
+[data-vjs-player] .vjs-control-bar > [title="Autoplay Next On"]::after
+CSS
+.content__viewer {
+    border: none !important;
+}================================oferteo.pl
 INVERT
 img[src*="oferteo-color"]
 ul.logo-box.text-center
-span.icon-gray.quotation-mark================================okonto.pl
+span.icon-gray.quotation-mark================================office.com
 INVERT
-.imageWidget================================oleole.pl
+.ms-ohp-svg-Icon.ms-ohp-Icon--privacyLogo
+IGNORE IMAGE ANALYSIS
+.ms-ohp-svg-Icon.ms-ohp-Icon--privacyLogo
+.ms-ohp-svg-Icon.ms-ohp-Icon--calendarLogo::before
+.ms-ohp-svg-Icon.ms-ohp-Icon--flowLogo::before================================oisd.nl
+INVERT
+img[alt="logo"]================================okonto.pl
+INVERT
+.imageWidget================================okta.com
+INVERT
+.chiclet--container
+.chiclet--article
+.chiclet--footer
+img[class="logo"]================================old.reddit.com
+INVERT
+.volume-slider-bar
+.volume-slider-thumb
+.reddit-video-seek-bar-root
+CSS
+.seek-bar-progress {
+    background-color: ${#004daa} !important;
+}
+body::before {
+    z-index: 0 !important;
+}================================oleole.pl
 INVERT
 #logo::after
 div[id="brands-carousel"]
@@ -29,7 +73,57 @@ IGNORE IMAGE ANALYSIS
 .maincategories .maincategories-list .li .item a[data-id="promo"] .category-8.cat-icon-promo
 .maincategories .maincategories-list .li .item a[data-id="promo"] .category-7.cat-icon-promo
 .maincategories .maincategories-list .li .item a[data-id="promo"] .category-2.cat-icon-promo
-.maincategories .maincategories-list .li .item a[data-id="promo"] .category-5.cat-icon-promo================================onet.pl
+.maincategories .maincategories-list .li .item a[data-id="promo"] .category-5.cat-icon-promo================================omgubuntu.co.uk
+CSS
+.header {
+    background: var(--header-background) !important;
+}================================omni.se
+CSS
+.article,
+.resource,
+.component--storyLink,
+.component--storyHeading,
+.btn--secondary,
+.starbox-star {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================omnicalculator.com
+CSS
+.GenericText {
+    color: var(--darkreader-neutral-text) !important;
+}================================omnivox.ca
+INVERT
+td[style*="/cvir/UI"]
+img[src^="/cvir/UI/Theme/Lea_Defaut/Images/Accueil_LEA"]
+img[src="/cvir/UI/Theme/Lea_Defaut/Images/mesclasses_cg_subtop.jpg"]
+img[src^="/cvir/UI/Theme/Lea_Defaut/Images/accueil_"]
+img[src$="/bas_du_menu.jpg"]
+img[src$="tile.jpg"]
+.cgSelect
+.mioLinks
+.calendrier
+.servLinks
+.descSection
+CSS
+.cgSelect > table > tbody > tr > td:nth-child(1) > a > font {
+    color: green !important;
+}
+.calendrier > table > tbody > tr,
+.calendrier > table > tbody > tr > td > img,
+.calendrier > table > tbody > tr > td > table > tbody > tr > td > img
+{
+    filter: invert(100%) hue-rotate(180deg) contrast(100%) !important;
+}
+table[style*="/cvir/UI"],
+.cgBg
+{
+    background-image: none !important
+}================================one.uf.edu
+CSS
+body {
+   background-color: var(--darkreader-neutral-background) !important;
+}================================onelook.com
+INVERT
+img[alt="OneLook"]================================onet.pl
 plejada.pl
 INVERT
 [class*="WeatherDay_tempIcon"]
@@ -63,6 +157,172 @@ CSS
 }
 svg path[d^="M50.315,89"] {
     fill: ${white} !important;
+}================================online.noordhoff.nl
+INVERT
+#EAGABA img================================online.rbb.bg
+INVERT
+.has-context:hover
+.active
+.btn================================onlinelibrary.wiley.com
+INVERT
+#mainLogo================================onlinetrade.ru
+INVERT
+.drawCats__item__name
+CSS
+.drawCats__item__image {
+    filter: brightness(50%) sepia(40%) !important;
+}================================onlineuniversities.com
+CSS
+body {
+    background-image: none !important;
+}================================onlyoffice.com
+INVERT
+.logo================================op.gg
+INVERT
+.Level
+.ranking-highest__icon .ranking-highest__level================================openai.com
+INVERT
+figure.release-cover>div:first-of-type>img
+.math
+CSS
+body {
+    background: initial !important;
+}
+header[style*="background-image"],
+.bg-cover[style*="background-image"] {
+    background: none !important;
+}
+.is-below-fold .header--cover .nav,
+.is-below-fold .post-header--cover .nav {
+    background: ${white} !important;
+    color: ${black} !important;
+}
+span.token.comment {
+    color: ${#aaa} !important;
+}
+span.token.punctuation {
+    color: ${#777} !important;
+}
+a.btn:not(.fade), button.btn {
+    background: ${rgba(5, 5, 38, 0.05)} !important;
+    color: ${#050526} !important;
+}
+button.btn:hover {
+    color: ${#b0b0b0} !important;
+}
+figcaption, .caption {
+    color: ${rgba(5,5,38,0.5)} !important;
+}
+.content .timeline > li::before, .timeline > li::before {
+    color: ${black} !important;
+}
+.content .timeline > li::after, .timeline > li::after {
+    background-color: ${black} !important;
+}
+.switch-input:checked + .switch-label {
+    color: ${rgba(0, 0, 0, 0.7)} !important;
+}================================openanolis.org
+INVERT
+.logo================================openbenchmarking.org
+INVERT
+g[font-size]:not(g[font-size][fill^="#fff" i]:not(.oborg_expandable_result g))
+g[font-size]:not(g[font-size][fill^="#fff" i]) > text[fill="#005a00"]
+IGNORE INLINE STYLE
+g[font-size][fill^="#fff" i]================================opencollective.com
+INVERT
+img[alt="Open Collective"]
+CSS
+#section-contributors > div {
+    background-image: none !important;
+}================================openebooks.net
+INVERT
+img[src="images/home_banner.png"]================================openenglishbible.org
+INVERT
+#logo
+img[src="html-logo.png"]================================opengeofiction.net
+openstreetmap.org
+INVERT
+.map-layout #map
+.ideditor g.vertex .icon
+.ideditor g.point .icon
+.ideditor .icon.areaicon-halo
+CSS
+div[dir="ltr", id="map"] {
+    filter: none !important;
+    background: #000 !important;
+}
+.ideditor .labels-group.halo text {
+    stroke: var(--darkreader-neutral-background) !important;
+}
+.map-layout #map {
+    background-color: ${#1b1b1b} !important;
+}
+img.loader {
+    filter: invert(93.7%) hue-rotate(180deg) contrast(90.6%) !important
+}
+IGNORE INLINE STYLE
+.ideditor .main-content *================================openoffice.org
+INVERT
+#ooo-logo================================openreview.net
+CSS
+#__next {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================openspeedtest.com
+CSS
+use.Cards {
+    fill: unset !important;
+}================================openstax.org
+CSS
+input[data-testid$="-search-input"] {
+  background-color: transparent !important;
+}================================openvpn.net
+IGNORE INLINE STYLE
+.navbar-brand > svg *================================openwall.com
+INVERT
+.logo================================openwrt.org
+CSS
+#dw__pagetools .menuitem svg {
+    fill: var(--darkreader-neutral-text) !important;
+}================================orf.at/corona/*
+INVERT
+.bg
+.annotation
+.sparkline--fill================================osu.edu
+ohio-state.edu
+CSS
+#osu_navbar {
+    background-image: linear-gradient(rgb(40, 43, 45) 0%, rgb(63, 69, 71) 100%);
+    border-bottom: 5px solid rgb(187, 0, 0);
+}
+body.sidebar-layout #page #content,
+#page #content {
+    background-image: none;
 }================================otomoto.pl
 INVERT
-.seller-card__links__link__icon
+.seller-card__links__link__icon================================overleaf.com
+INVERT
+.canvasWrapper================================overreacted.io
+CSS
+:root {
+    --bg: var(--darkreader-neutral-background) !important;
+}================================overwatchleague.com
+CSS
+div[class^="dynamic-bracketstyles__Container"] .connector {
+    z-index: 0 !important;
+}================================ovhcloud.com
+INVERT
+.oof-content-group-line-item================================owncube.com
+INVERT
+[src="/assets/img/logo.png"]
+CSS
+h1, h2, h3, h4, h5 {
+    color: var(--darkreader-neutral-color);
+}================================oxfordlearnersdictionaries.com
+INVERT
+.logo-footer================================ozbargain.com.au
+CSS
+div.comment-op {
+    background-image: linear-gradient(#000000, #212121) !important;
+}================================ozon.ru
+INVERT
+ymaps[class$="ground-pane"]

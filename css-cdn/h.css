@@ -1,0 +1,244 @@
+habitica.com
+INVERT
+.logo path:nth-child(2)
+IGNORE IMAGE ANALYSIS
+*================================habr.com
+INVERT
+img[src*="//tex.s2cms.ru/"]
+img[data-tex]
+CSS
+html {
+    text-shadow: none !important;
+}
+.main-navbar .icon-svg {
+  fill: ${#929ca5} !important;
+}================================hacdias.com
+CSS
+:root {
+    --background: var(--darkreader-neutral-background) !important;
+}================================hackerone.com
+INVERT
+.app__logo================================hackerrank.com
+INVERT
+.badge-icon
+.CodeMirror-cursors
+.CodeMirror-selected
+CSS
+.monaco-editor .cursor {
+    background-color: ${black} !important;
+}================================hampage.hu
+CSS
+body {
+    background-image: none !important;
+}================================handshake.org
+INVERT
+[src*="logo-dark.svg"]
+[src*="blocks.svg"]
+CSS
+ul.notes li::before {
+    background-color: var(--darkreader-neutral-text) !important;
+}================================handwiki.org
+CSS
+#mw-content {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================haokan.baidu.com
+INVERT
+.header-logo-icon================================hbo.com
+INVERT
+img[alt="HBO Logo"]================================hbr.org
+INVERT
+.hamburger-icon
+.top-header--logo
+.search-icon
+.footer-logo================================hbweb.hu
+CSS
+[background] {
+   background-image: unset;
+}================================hdgo.cc
+vio.to
+INVERT
+.hdplayer .big_play_button div
+.hdplayer .hdgo_controls div.hdgo_pause_control div
+.hdplayer .hdgo_controls div.hdgo_play_control div================================hdlbits.01xz.net
+CSS
+img.image, .image > img {
+    background-color: white !important;
+    filter: brightness(50%) sepia(40%) !important;
+}================================heise.de
+INVERT
+.heise-online-logo================================helix.ru
+INVERT
+.Site-Header-Logo================================help.ea.com
+CSS
+.app,
+.app > div {
+    background-image: var(--darkreader-neutral-background) !important;
+}================================help.nextdns.io
+INVERT
+.logo-desktop
+.logo-mobile================================helzberg.com
+INVERT
+.logo
+.footer.content
+.footer.content > div
+.footer__column--logo
+IGNORE INLINE STYLE
+a[id^="powered_by_pixleee"]================================heraldscotland.com
+INVERT
+.brand================================heritage.org/index
+INVERT
+.bar
+CSS
+.content-container {
+    background-image: none !important;
+}================================hex-rays.com
+INVERT
+#logo
+.footer-logo================================hh.ru
+CSS
+html {
+    text-shadow: none !important;
+}================================hindustantimes.com
+INVERT
+.menu.noti-dot
+.searchHolder .search
+img[src$="logo-big-cm.png"]
+img[src$="logo-ht.png"]
+img[src$="htlogo.png"]================================history.state.gov
+CSS
+body {
+    background-image: none !important;
+}
+IGNORE IMAGE ANALYSIS
+body================================hktdc.com
+INVERT
+.header-logo================================hm.com
+INVERT
+[class^="TurnToReviewsButton-module--ratingStars"]
+CSS
+.review-answers .review-answer .average-score {
+    background-color: var(--darkreader-neutral-text) !important;
+}================================hmong.*
+wikihmong.com
+INVERT
+span.mwe-math-element================================homebrewery.naturalcrit.com
+CSS
+.CodeMirror-scroll {
+  background-color: #444;
+}
+span[role="presentation"] {
+  color: white;
+}
+span[role="presentation"] > .cm-header {
+  color: rgb(50, 150, 250);
+}
+span[role="presentation"] > .cm-variable-2 {
+  color: rgb(50, 150, 250);
+}
+.phb blockquote {
+  background-color: #e0e5c1 !important;
+}
+.phb h3, .phb h2, .phb h1 {
+  color: #58180D;
+}
+.phb p {
+  color: black;
+}
+.cm-link,.cm-attribute {
+  color: rgb(90, 140, 255) !important;
+}
+.cm-url,.cm-string {
+  color: rgb(200, 50, 50) !important;
+}
+.cm-quote,.cm-tag {
+  color: rgb(50, 200, 50) !important;
+}================================hooktail.sub.jp
+hooktail.org
+INVERT
+#box img
+.box img
+CSS
+#box,.box {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+h2 {
+    background-image: none;
+}
+a {
+    color: rgb(157, 149, 237);
+}================================hootsuite.com
+INVERT
+img[src$="hootsuite_white_form3.png"]================================hotel.meituan.com
+INVERT
+.poi-hotellbs-map
+.small-map================================howbuy.com
+INVERT
+.bottomStar
+.cpBottomWord
+.logo
+.navList dt
+.phCon
+.title
+#valuationChar================================howstuffworks.com
+INVERT
+a[data-track-gtm="Logo"]================================hp.com
+*.hp.com
+INVERT
+#g-nav .c-logo
+.w-100
+img[src*="CCLS_SSL_Icon.svg"]
+.lia-img-powered-by-khoros
+a[aria-label="Options"]
+.myprofile-img
+.solutions-img
+.mykudo-img
+.ikudo-img
+.osDetectionWindows img
+.hpsaImg
+CSS
+.pdp-bg {
+    background-image: none !important;
+}================================hs.fi
+CSS
+article,
+article > article {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================huawei.com
+INVERT
+.logo================================huba.news
+INVERT
+img[alt="Huba"]
+img[alt="INTERIA.PL"]
+.most-interesting-topics-header::before================================hubs.mozilla.com
+INVERT
+svg.hmc-logo================================hvdic.thivien.net
+INVERT
+img.hvres-variant-img.lazy
+CSS
+body {
+    background-image: none !important;
+}================================hyperphysics.phy-astr.gsu.edu
+INVERT
+tbody td > img
+tbody center > img
+tbody center > a > img================================hyperskill.org
+INVERT
+.html-preview
+CSS
+.monaco-editor .margin,
+.monaco-editor-background {
+    background-color: #181A1B !important;
+}
+.monaco-editor .cursor {
+    background-color: ${#000000} !important;
+}================================hypixel.net
+INVERT
+.p-nav-inner
+.message-avatar::after
+CSS
+.p-navEl-link, .p-header-playNow .p-header-playNow-button, .p-navgroup-link--search {
+    color: ${rgb(214, 210, 205)} !important;
+}================================hypothes.is
+INVERT
+a[href="https://hypothes.is"] > svg[aria-labelledby="logo-title"] > g > path[fill-rule="nonzero"]
+img[class="fusion-standard-logo"]
