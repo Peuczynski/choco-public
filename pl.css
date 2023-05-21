@@ -1,0 +1,2476 @@
+*
+
+INVERT
+.jfk-bubble.gtx-bubble
+.captcheck_answer_label > input + img
+span#closed_text > img[src^="https://www.gstatic.com/images/branding/googlelogo"]
+span[data-href^="https://www.hcaptcha.com/"] > #icon
+#bit-notification-bar-iframe
+::-webkit-calendar-picker-indicator
+
+CSS
+.vimvixen-hint {
+    background-color: ${#ffd76e} !important;
+    border-color: ${#c59d00} !important;
+    color: ${#302505} !important;
+}
+::placeholder {
+    opacity: 0.5 !important;
+}
+#edge-translate-panel-body,
+.MuiTypography-body1,
+.nfe-quote-text {
+    color: var(--darkreader-neutral-text) !important;
+}
+gr-main-header {
+    background-color: ${lightblue} !important;
+}
+.tou-z65h9k,
+.tou-mignzq,
+.tou-1b6i2ox,
+.tou-lnqlqk {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.tou-75mvi {
+    background-color: ${rgb(207, 236, 245)} !important;
+}
+.tou-ta9e87,
+.tou-1w3fhi0,
+.tou-1b8t2us,
+.tou-py7lfi,
+.tou-1lpmd9d,
+.tou-1frrtv8,
+.tou-17ezmgn {
+    background-color: ${rgb(245, 245, 245)} !important;
+}
+.tou-uknfeu {
+    background-color: ${rgb(250, 237, 218)} !important;
+}
+.tou-6i3zyv {
+    background-color: ${rgb(133, 195, 216)} !important;
+}
+
+IGNORE INLINE STYLE
+.sr-wrapper *
+.sr-reader *
+.diigoHighlight
+
+================================
+
+300gospodarka.pl
+300polityka.pl
+
+INVERT
+#logo
+img[alt="300Gospodarka"]
+img[alt="Zespół 300Gospodarki"]
+
+================================
+
+akcemed.pl
+
+INVERT
+.td-main-menu-logo
+.footer-logo-wrap
+
+================================
+
+allegro.pl
+
+INVERT
+i[title="Smart!"]
+ol[data-role="slidesList"] > li[data-analytics-view-value="Smart! Week już od 10 października"]
+ul[data-role="image-tiles"] > li[data-analytics-view-opbox-custom-destination-url="https://allegro.pl/kampania/smartweek"]
+a[data-analytics-click-value="Smart lokalnie"]
+img[alt="Zakup z pakietem Smart"]
+div.sob6jg.so1d89.mpof_ki
+.so15i8
+.mpof_ki.m389_6m > h6
+.indiana-scroll-container > ul[role="radiogroup"]
+div[data-analytics-view-label="sellersOffersGroup"]
+div[data-analytics-category="allegro.container"]
+div[data-analytics-interaction-value="DELIVERY_FREEBOX"] div
+form[name="payments"]
+a[data-analytics-click-label="offerClick"]
+._292b3_juwzk
+img[src="https://assets.allegrostatic.com/freebox/icons/FREEBOX_NOMARGIN.svg"]
+img[src^="https://assets.allegrostatic.com/metrum/icon/smart-"]
+button[data-analytics-interaction-label="quantitySelector"]
+
+CSS
+#opbox-listing--base i,
+article i {
+    background-size: 100% 100% !important;
+}
+._k70df, ._6a66d_JDgwQ {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+._6a66d_YapB2:hover, ._6a66d_JDgwQ:hover {
+    background-color: #1F2224 !important;
+}
+
+IGNORE IMAGE ANALYSIS
+._12h65
+
+================================
+
+allegrolokalnie.pl
+
+INVERT
+.mlc-masthead__branding
+.mlc-site-footer__branding
+
+================================
+
+ang.pl
+
+CSS
+body {
+    background-image: none !important;
+}
+
+================================
+
+antywirus-nod32.pl
+
+CSS
+.module.infolinia {
+    background-image: none !important;
+}
+
+================================
+
+app.betrybe.com
+
+INVERT
+section.quiz-result__template summary
+section.quiz-result__template summary .block-code
+
+CSS
+.home-projects details,
+.header button,
+.header a,
+.module-index-content {
+   background-color: transparent !important
+}
+.header button:hover,
+.header a:hover,
+.module-index-content summary:active,
+.quiz-question label {
+   background-color: var(--darkreader-neutral-background) !important
+}
+.quiz-question label p {
+   color: rgb(180, 200, 255) !important
+}
+.quiz-question__alternatives label:hover,
+.quiz-question__alternatives input[type=radio]:checked + label {
+   background: initial !important
+}
+
+================================
+
+architekturaibiznes.pl
+
+INVERT
+.icon-section
+a span.image-rwd-dzial-logo
+
+================================
+
+audycje.tokfm.pl/widget
+
+CSS
+body {
+     background-color: var(--darkreader-neutral-background) !important;
+}
+
+================================
+
+avanti24.pl
+
+INVERT
+.box-logo
+
+================================
+
+avlab.pl
+
+INVERT
+img[src*="avlab-logo"]
+img[alt*="logo"]
+.elementor-widget-wrap div div a.elementor-icon svg
+.elementor-social-icons-wrapper
+
+================================
+
+bankier.pl
+bankier.tv
+
+INVERT
+.o-home-smart-box__header > .a-anchor > .a-image >  img[class="a-image__img"]
+.hamburger
+.icon > img
+.menu-sidebar__close-menu > img
+img[class="menu-sidebar__logo-img"]
+img[alt*="Bankier.pl"]
+img[src*="logo-smart.svg"]
+a[href="https://www.bankier.pl/"]
+img[alt="Bankier.TV"]
+.m-quote-list__anchor img.a-image__img
+
+================================
+
+bbb.*
+
+CSS
+div[class^='scrollableList'] {
+     background: none !important;
+     box-shadow: none !important;
+}
+
+================================
+
+biletywielkopolskie.pl
+
+INVERT
+.kw-logo
+
+================================
+
+biznes.pap.pl
+
+CSS
+body,
+#copy {
+    background-image: none !important;
+}
+
+================================
+
+blueberryroasters.pl
+
+INVERT
+div#logo
+
+================================
+
+brainly.pl
+
+INVERT
+[id^="TexFormula"]
+div.brn-qpage-next-answer-box__content > div > div > div img:not(.brn-qpage-next-attachments-viewer-image-preview__image)
+
+================================
+
+bulldogjob.pl
+
+INVERT
+img[alt~="Bulldogjob"]
+img[src="/bulldog.guide.svg"]
+img[src="/bulldog.tte.icon.svg"]
+
+================================
+
+bulldogjob.pl/proxied/job-offers
+
+IGNORE IMAGE ANALYSIS
+*
+
+================================
+
+cdaction.pl
+
+INVERT
+a[href="/"] svg
+footer > div > svg
+
+================================
+
+ceneo.pl
+
+INVERT
+[data-new-icon]::before
+.cat-prod-row__product-link::after
+.add-to-favorite::after
+
+================================
+
+centrum24.pl
+
+INVERT
+#mobile-applications .jumbotron
+.headerLogo.bankLogo
+img[src*="close-black.svg"]
+img[src*="GOALS.png"]
+.mc-close-x-button-svg
+
+================================
+
+centrumxp.pl
+
+INVERT
+.badge-partner
+.img-responsive
+
+================================
+
+chessprogramming.org
+
+INVERT
+.mw-parser-output div[class^='float'] > a > img:not(.thumbimage):not(.thumbborder)
+.mw-wiki-logo
+
+IGNORE IMAGE ANALYSIS
+.mw-wiki-logo
+
+================================
+
+citybuzz.pl
+
+INVERT
+img[alt="CityBuzz"]
+
+================================
+
+classroom.google.com
+
+INVERT
+img[src$="dark_create_class_arrow.svg"]
+img[aria-label="YouTube"]
+div[role="dialog"] ~ div[role="menu"] > div[role="menuitem"] > div > div:not([style*="background-image"])
+
+CSS
+div[role="toolbar"] div[role="button"] > div[class*='-']:not([onclick]):not(:link):not(:visited):not([style*="background-image"]):first-child,
+div[role="toolbar"] div[role="button"] > div[class*='-']:not([onclick]):not(:link):not(:visited) > :nth-child(2) > div,
+div[style="bottom: 0px;"] > div[style^="opacity:"] div[role="button"] > div:not([onclick]):not(:link):not(:visited),
+li[guidedhelpid="classworkTopicListGh"]:not(hover) > div {
+    opacity: 99% !important;
+}
+
+================================
+
+console.cloud.google.com
+
+CSS
+.cfc-ng2-region .cfc-text-title-3 {
+    color: var(--darkreader-neutral-text) !important;
+}
+.cfc-color-text-secondary {
+    color: ${#333} !important;
+}
+input[type=text] {
+    color: var(--darkreader-neutral-text) !important;
+}
+
+================================
+
+cowkrakowie.pl
+
+INVERT
+.logo
+.nav-logo
+
+================================
+
+czasnastopy.pl
+
+INVERT
+.brandinglogo-wrap
+
+================================
+
+czypada.pl
+
+INVERT
+#map
+
+================================
+
+czyztak.pl
+
+INVERT
+img[alt*="Logo"]
+
+================================
+
+decathlon.pl
+
+INVERT
+.dkt_logo
+.benefit-icon
+
+IGNORE IMAGE ANALYSIS
+*
+
+================================
+
+di.com.pl
+
+INVERT
+img[alt*="Dziennik Internautów"]
+
+CSS
+div#naglowek {
+    background-image: none !important;
+}
+
+================================
+
+dlagentlemana.pl
+
+INVERT
+div.f-grid-3.logo-column > a > img
+div.opineo-side-slider-widget > button
+.logo-bar img
+
+================================
+
+dnscrypt.pl
+
+INVERT
+.logo
+
+================================
+
+doba.pl
+
+INVERT
+.social
+img[src*="logo.png"]
+img[src*="/img/powiaty/"]
+
+================================
+
+dobreprogramy.pl
+
+CSS
+header a[href="/"] svg {
+    fill: #fff !important;
+}
+
+================================
+
+donald.pl
+
+INVERT
+a[href="/"]
+
+================================
+
+dziennik.pl
+
+INVERT
+img[alt="Dziennik"]
+
+================================
+
+dziennikbaltycki.pl
+dzienniklodzki.pl
+dziennikpolski24.pl
+echodnia.eu
+expressbydgoski.pl
+expressilustrowany.pl
+gazetakrakowska.pl
+gazetalubuska.pl
+gazetawroclawska.pl
+gk24.pl
+gloswielkopolski.pl
+gol24.pl
+gp24.pl
+gra.pl
+gs24.pl
+i.pl
+kurierlubelski.pl
+motofakty.pl
+naszemiasto.pl
+nowiny24.pl
+nowosci.com.pl
+nto.pl
+pomorska.pl
+poranny.pl
+sportowy24.pl
+strefaagro.pl
+strefabiznesu.pl
+strefaedukacji.pl
+stronakobiet.pl
+stronazdrowia.pl
+telemagazyn.pl
+to.com.pl
+wspolczesna.pl
+
+INVERT
+.atomsArticleFoot__tools svg
+.atomsCommentsExposition__icon svg
+.atomsGalleryButtonsNavigation__left svg
+.atomsGalleryButtonsNavigation__right svg
+.atomsNavigationBreadcrumbs__content svg
+.atomsNavigationFooterLinks__logo
+.atomsSocialmediaExposition__content svg
+.componentsGalleryNavbar__btn_close
+.componentsGalleryNavbar__logo
+.componentsNavigationMenu__logo
+.componentsNavigationNavbar__logo
+.componentsNavigationTopnavbar__icons div span svg
+a[href="https://i.pl/firmy"] svg
+a[href="https://i.pl/szukaj"] svg
+
+CSS
+svg path[d^="M154.992 47.9999H128L13"],
+svg path[d^="M64 28L68 24V15.9999H82"] {
+    fill: ${black} !important;
+}
+
+================================
+
+dzienniknaukowy.pl
+
+INVERT
+.top-logo
+
+================================
+
+dziennikprawny.pl
+
+INVERT
+a[href="/"]
+.fullba
+
+CSS
+.fullba {
+    background-image: none !important;
+}
+
+================================
+
+ebok.pgnig.pl
+
+INVERT
+img[src*="logo"]
+
+================================
+
+ebok.vectra.pl
+
+CSS
+.side-floater {
+    background-image: none !important;
+}
+
+================================
+
+enea.pl
+
+INVERT
+.menu__logo
+.navbar-brand
+.slider-content > .slider-title
+
+CSS
+.col-lg-12.col-md-12 > div > div > p {
+    color: var(--darkreader-neutral-background) !important;
+}
+.bkg-icon,
+.left-bkg-icon {
+    color: ${white} !important;
+}
+
+================================
+
+experiencia.xpi.com.br
+
+INVERT
+#yield-portal-header a.xpi__header__logo svg path
+#yield-portal-header a.xpi__error__logo svg path
+#chart-profitability > div:nth-child(2) > svg > g > g:nth-child(2) > g:nth-child(1) > g > g > g > g:nth-child(2) > g > g:nth-child(1) > g:nth-child(2) > g:nth-child(2) > g > text > tspan
+
+CSS
+#chart-patrimony g[role='menu'] ~ g tspan {
+    color: var(--darkreader-neutral-text) !important;
+}
+
+================================
+
+facebook.com
+
+INVERT
+._2o89
+._2q08
+.sx_af7fe0
+.sx_7ed17e
+.sx_a4a936
+.sx_4d607f
+.sx_aca067
+.sx_77228a
+.sx_51302f
+._2yu5
+._3iiv
+._3pao
+.kv0qyzoi
+.sx_426ea6
+.sx_b77acf
+._2gb3
+._7sjb
+.sx_b9f33b
+.sx_2e7846
+.sx_6d18f4
+.monochrome
+.repliedLast
+.sx_73ef60
+._81u_ .img
+._3ffs li
+#profile_intro_card_bio i
+.uiScrollableAreaWrap .uiList button[type="submit"] i._3-8_
+.editPhoto i._3-8_
+.sx_08856a
+.sx_ac12f7
+.sp_hk4DJV_EEeW
+.sp_V53xxlprDHX_1_5x
+.sp_V53xxlprDHX_2x
+#pagelet_ego_pane button .img._3-8_
+#homepage_panel_promote_footer_pagelet button .img._3-8_
+#event_tabs #reaction_units span img
+.fbPlaceFlyoutWrap img
+._83aj
+._7xv1
+._83ak
+._8g4q
+
+CSS
+.fbNubButton {
+    background-image: none !important;
+}
+.jewelItemNew ._33e {
+    background-color: ${#d0d1d3} !important;
+}
+.sx_cf4e6b {
+    filter: brightness(250%) !important;
+}
+._34k2 {
+    filter: brightness(1000%) !important;
+}
+._3hx- ._4tdt,
+._3hx- ._5wd4,
+._3hx- ._6vu5 ._5w-5,
+._3hx- ._1aa6::after,
+._3hx- ._6vu5 ._31o4,
+._3hx- ._2cnu:only-of-type ._5wdf,
+._3hx- ._5w0o,
+._3hx- ._5z-5,
+._3hx- ._16ys._3e7u,
+._3hx- ._49or .__6j,
+._3hx- ._324d .__6j,
+._llj {
+    border-color: ${#eee} !important;
+}
+._3hx- ._ua1,
+._3hx- ._40qi,
+._3hx- ._5ye6,
+._3hx- ._llj,
+._3hx- ._1a6y,
+._31o4,
+._3_bp,
+._4gd0,
+._49or,
+._40fu {
+    background-color: ${#eee} !important;
+}
+.fbNub._50mz .fbNubFlyoutFooter::after {
+    background-color: ${rgba(0, 0, 0, .15)} !important;
+}
+.fbNub._50mz .fbNubFlyoutInner,
+._4cd8 ._69pt,
+._4mq3 .fbNubFlyout,
+._4mq3 .fbNubButton {
+    box-shadow: 0 0 0 1px ${rgba(0, 0, 0, .15)} !important;
+}
+:root, .__fb-light-mode {
+    --filter-disabled-icon: invert(100%) opacity(30%) !important;
+    --filter-placeholder-icon: invert(59%) sepia(11%) saturate(200%) saturate(135%) hue-rotate(176deg) brightness(96%) contrast(94%) !important;
+    --filter-primary-icon: invert(100%) !important;
+    --filter-secondary-icon: invert(62%) sepia(98%) saturate(12%) hue-rotate(175deg) brightness(90%) contrast(96%) !important;
+    --filter-warning-icon: invert(77%) sepia(29%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(128%) hue-rotate(359deg) brightness(102%) contrast(107%) !important;
+    --filter-blue-link-icon: invert(73%) sepia(29%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(103.25%) hue-rotate(189deg) brightness(101%) contrast(101%) !important;
+    --filter-positive: invert(37%) sepia(61%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(115%) hue-rotate(91deg) brightness(97%) contrast(105%) !important;
+    --filter-negative: invert(25%) sepia(33%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(200%) saturate(110%) hue-rotate(345deg) brightness(132%) contrast(96%) !important;
+}
+div[role=article] div.k4urcfbm[aria-hidden="true"] {
+    background-color: rgba(0, 0, 0, 0.25);
+    background-blend-mode: color;
+    --darkreader-inline-bgcolor: none !important;
+}
+div[data-pagelet="Stories"] .ha302278 {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+}
+div[aria-label="Change volume"] .ha302278,
+div[aria-label="Change Position"] .ha302278,
+._3paq {
+    background-color: rgba(255, 255, 255, 0.4) !important;
+}
+.r4vyqqch {
+    background-color: var(--fds-white-alpha-50) !important;
+}
+.lyi53s4r {
+    background-color: rgba(88,144,255,.9) !important;
+}
+.tdjehn4e, .oo1teu6h {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+.tdjehn4e:hover, .ovq5dppa:hover {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+}
+.k19f6yf2 {
+    background-color: var(--press-overlay) !important;
+}
+.cxbav39q {
+    background-color: rbga(0, 0, 0, 0.8) !important;
+}
+.rnr61an3 {
+    background-color: var(--hover-overlay) !important;
+}
+.qbubdy2e {
+    fill: none !important;
+}
+.s1i5eluu {
+    background-color: var(--primary-button-background) !important;
+}
+.q66pz984 {
+    color: var(--accent);
+}
+.esnais5j, ._8bb_ img, ._8bb_ i,
+._8bb_ video, ._8bb_ ._w80, ._8bb_ ._7umt ._47yj,
+._8bb_ [style*='background-image: url'] {
+    filter: none !important;
+}
+div[role="button"] > i.hu5pjgll:not(.sp_Jc8OKpJq5NW, .sp_T89CCTT7d9Z),
+a[role="link"] > i.hu5pjgll, ._3w97 {
+    filter: var(--filter-secondary-icon) !important;
+}
+._2yua, ._3pas {
+    background-color: #888 !important;
+}
+._2yu8 {
+    background-color: rgba(255, 255, 255, .5) !important;
+}
+.leaflet-map-pane img[src*="theme=default"], [style*="map"][style*="theme=default"],
+._8bb_ img[src*="/map"], ._8bb_ [style*="map"],
+img[src*="mapy.cz"], ._8bb_ img[src*="mapy.cz"],
+img[src*="%2Fmap"], ._8bb_ img[src*="%2Fmap"],
+img[src*="map.php"], ._8bb_ img[src*="map.php"],
+img[src*="www.traseo.pl%2Froute"], ._8bb_ img[src*="www.traseo.pl%2Froute"] {
+    filter: invert(100%) hue-rotate(180deg) !important;
+}
+.j7vl6m33 {
+    fill: var(--always-white) !important;
+}
+::after {
+    border-left-color: #1c1e20 !important;
+    border-bottom-color: #1c1e20 !important;
+    border-top-color: #1c1e20 !important;
+    border-right-color: #1c1e20 !important;
+}
+.x1g6sh6t {
+    fill: none !important;
+}
+div[id*="jsc_c_"] {
+    text-shadow: rgb(40, 43, 54) 0px 0px 3px !important;
+}
+.x1qhmfi1 {
+    background-color: rgba(255,255,255,.1) !important;
+}
+
+IGNORE INLINE STYLE
+[role="button"] svg
+[role="button"] svg line
+div svg[viewBox="0 0 36 36"] mask path
+mask > rect
+mask > circle
+g > rect
+
+IGNORE IMAGE ANALYSIS
+*
+
+================================
+
+fakt.pl
+
+INVERT
+.header-links
+
+================================
+
+fax.plus
+
+INVERT
+img[src$="_info.svg"]
+
+================================
+
+fcmed.pl
+
+INVERT
+.mkd-logo-wrapper
+a[href*="tel"]
+.mkd-sidearea > .textwidget > a > img
+.owl-wrapper
+
+================================
+
+filmweb.pl
+
+INVERT
+.ribbonLbl
+.isInit.ribbon[data-state="1"]::after
+.isInit.ribbon[data-state="2"]::after
+.isInit.ribbon[data-state="3"]::after
+.isInit.ribbon[data-state="4"]::after
+.isInit.ribbon[data-state="5"]::after
+.isInit.ribbon[data-state="6"]::after
+.isInit.ribbon[data-state="7"]::after
+.isInit.ribbon[data-state="8"]::after
+.isInit.ribbon[data-state="9"]::after
+.isInit.ribbon[data-state="10"]::after
+
+CSS
+.filmInfo__info {
+    color: var(--darkreader-neutral-text) !important;
+}
+
+================================
+
+forsal.pl
+
+INVERT
+.serviceLogo
+.homePageUrl
+
+CSS
+.mini-tabs {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+
+================================
+
+forum.dobreprogramy.pl
+
+INVERT
+#site-logo
+
+================================
+
+gadzetomania.pl
+
+CSS
+a svg path[d^="M12.881 14.785v-"] {
+    fill: #fff !important;
+}
+
+================================
+
+gazeta.pl
+plotek.pl
+sport.pl
+edziecko.pl
+moto.pl
+ukrayina.pl
+
+INVERT
+img[alt^="logo"]
+.vs__actions
+a.item.noSwiper img
+
+CSS
+.top_section_bg, .bottom_section_bg {
+    background-color: ${#e5e5e5} !important;
+}
+svg [id="Group_242"],
+svg [id="Path_9914"] {
+    fill: ${black} !important;
+}
+
+================================
+
+gazetaprawna.pl
+
+INVERT
+.bubbleMenuHamburger
+.homePageUrl
+.serviceLogo
+.servicesMenu #menuTrigger span
+
+================================
+
+gazetaswietokrzyska.pl
+
+INVERT
+.logo
+
+CSS
+.elementor-column-wrap.elementor-element-populated {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+
+================================
+
+gg.pl
+
+INVERT
+.chat-btns
+.profile-close i
+.settings-close i
+
+CSS
+.sr-contact-name span {
+    background-image: none !important;
+}
+
+================================
+
+gloswielkopolski.pl
+
+INVERT
+.componentsNavigationNavbar__brand
+
+================================
+
+godzinyotwarcia24.pl
+
+INVERT
+.mbdtr
+.mpktr
+form[action="/szukaj"]
+div[id="suchfeldlabels"]
+
+================================
+
+google.*/chrome
+
+INVERT
+[src$="slate.png"]
+[src$="articles.png"]
+[src$="phone_desktop.png"]
+[src$="homepage_tools.png"]
+[src$="chrome-ui-sync.png"]
+[src$="password-check.png"]
+[src$="big_pixel_phone.png"]
+[src=$"homepage_privacy.png"]
+[src$="big_phone_desktop.png"]
+[src$="chrome-ui_desktop.png"]
+[src$="pixel_slate_port_desktop.png"]
+[src^="/chrome/static/images/productivity/"]
+[src^="/chrome/static/images/be-more-productive/"]
+[src^="/chrome/static/images/download-browser/pixel"]
+[src^="/chrome/static/images/google-translate/screen-"]
+
+================================
+
+gov.pl/web/bip
+
+INVERT
+.banner-promo
+.banner-promo__text
+
+================================
+
+gowork.pl
+
+INVERT
+.city__img .city__text
+
+================================
+
+guitarcenter.pl
+
+INVERT
+tr > td > img
+p.standard_price
+p.promo_price
+
+================================
+
+inforlex.pl
+
+INVERT
+div[class="content -dark"]
+div[class="loginLogo"]
+img[src*="infor-lex_2020.jpg"]
+a[class="client-logo-entry"]
+
+================================
+
+interia.pl
+
+INVERT
+.interia-logo
+.search-submit
+
+CSS
+.calendar-date,
+.calendar-body {
+    background-color: var(--darkreader-neutral-background) !important;
+    background-image: none !important;
+}
+
+================================
+
+ipko.pl
+
+INVERT
+.NB3WM
+
+CSS
+._1IGN3 {
+    background-size: 75px 56px !important;
+}
+._3cnGx::before {
+    background-size: 112px 80px !important;
+}
+._3o8il {
+    background-size: 48px 48px !important;
+}
+._2A4oT::before {
+    background-size: 36px 38px !important;
+}
+
+================================
+
+ising.pl
+
+CSS
+body.grey-gui-bg #content,
+div.grey-gui-bg,
+.small-navy-heading,
+.small-blue-heading,
+.small-purple-heading,
+.small-navy2-heading {
+    background-image: none !important;
+}
+
+================================
+
+itbiznes.pl
+
+INVERT
+.custom-logo
+
+================================
+
+ithardware.pl
+
+INVERT
+.navbar-brand
+a[href*="uzywki.expert"]
+a[href*="rankingi"]
+a[href*="feed"]
+
+================================
+
+jakdojade.pl
+
+INVERT
+#main-map
+
+================================
+
+kapitanbomba.pl
+
+INVERT
+.custom-logo
+
+================================
+
+kartotekaonline.pl
+
+CSS
+body {
+    background-image: none !important;
+}
+
+================================
+
+kiedyprzyjedzie.pl
+
+INVERT
+.cluster-marker div
+.leaflet-pane > .leaflet-layer
+
+CSS
+.cluster-marker div span {
+    color: var(--darkreader-neutral-background) !important;
+}
+
+================================
+
+klubjagiellonski.pl
+
+INVERT
+.logo
+.site_hamb svg
+
+================================
+
+komorkomat.pl
+
+INVERT
+.navbar-brand > img
+.owl-wrapper
+.result-item-logo
+
+================================
+
+komputerswiat.pl
+
+INVERT
+.serviceLogoImg
+.serviceIcon
+.secondaryLogoImg
+
+================================
+
+konkret24.tvn24.pl
+
+INVERT
+.header-left-corner__logo
+.menu-button__bars
+.report-toggle-button__icon
+.search-panel-toggle-button__icon
+
+================================
+
+konto.onet.pl/signin
+
+INVERT
+img[alt="Business Insider"]
+
+================================
+
+kopalniawiedzy.pl
+
+INVERT
+img[alt="Patronite"]
+
+================================
+
+korso24.pl
+korsosanockie.pl
+
+INVERT
+img.weather-box__img
+.nav-top__logo-wrapper
+.nav-top__footer-burger > div > span
+a.footer__logo
+
+================================
+
+krytykapolityczna.pl
+
+INVERT
+img[src*="logo"]
+
+================================
+
+ksiegowawsieci.pl
+
+INVERT
+.logo
+
+================================
+
+kulinarnyblog.pl
+
+INVERT
+.logo-img
+
+================================
+
+laczynasnapiecie.pl
+
+INVERT
+.navbar-brand
+.tim-power
+.row-partners-logo a
+
+================================
+
+lajtmobile.pl
+
+CSS
+body > * {
+    --background: var(--darkreader-neutral-background) !important;
+}
+.ls-bg-wrap > img,
+.generatorTemplate > .columnsBlockGeneratorBlock.mobileHide {
+    filter: brightness(50%) sepia(40%) !important;
+}
+.columnsBlockGeneratorBlock .offertBlock:not(.highlightOffert),
+.generatorTemplate > .columnsBlockGeneratorBlock.mobileHide,
+.summaryModule,
+.formModule,
+input[type="text"] {
+    background: var(--darkreader-neutral-background) !important;
+}
+.generatorTemplate > .columnsBlockGeneratorBlock.mobileHide > *{
+    background: ${#FEF} !important;
+}
+
+================================
+
+leetcode.com
+leetcode-cn.com
+
+INVERT
+img[alt="logo"]
+.cursor
+.CodeMirror-cursor
+.user-story-chapter-base .companies-showcase-base .logo
+
+CSS
+div[class^="data-structure-viewer"] g[class^="node"] > circle {
+    fill: var(--darkreader-neutral-background) !important;
+}
+[class^=question-picker-detail] {
+    background: none !important;
+}
+.monaco-editor, .monaco-editor-background, .monaco-editor .margin {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+div#solution img {
+    background-color: ${black};
+}
+
+================================
+
+liberte.pl
+sklep.liberte.pl
+
+INVERT
+img[src*="liberte_logo.svg"]
+img[src*="libertesklep.svg"]
+.hamburger
+
+================================
+
+literia.pl
+
+INVERT
+.icon-svg-pinterest
+.icons-icon-facebook
+.sec-logo
+.slick-arrow
+a::after
+a#logo
+span.as-label::before
+img[alt="ringier axel springer"]
+
+================================
+
+login.yahoo.com
+
+INVERT
+.social-login
+label[for=persistent]::before
+#password-toggle-button
+
+IGNORE IMAGE ANALYSIS
+.social-login
+
+================================
+
+lovekrakow.pl
+
+INVERT
+.brand
+
+================================
+
+magazynbieganie.pl
+
+INVERT
+.logo-box
+
+================================
+
+mapa-turystyczna.pl
+
+INVERT
+.ts-map svg
+
+================================
+
+medianauka.pl
+
+INVERT
+img[src*="wzory"]
+
+================================
+
+meteo.imgw.pl
+
+INVERT
+.meteo-chart > div > canvas
+
+CSS
+.menu-close img {
+    filter: none !important;
+}
+
+IGNORE IMAGE ANALYSIS
+.gory-imgw a
+
+================================
+
+mint.intuit.com
+
+INVERT
+.recharts-cartesian-axis-ticks
+
+CSS
+[class*="ExpandableCard-wrapper"] {
+    background: none !important;
+}
+[class*=' TextField-TFInput'] {
+    background: var(--darkreader-neutral-background) !important;
+}
+[class*='BudgetCardstyle__ProgressLine'],
+[class*='OverviewCardUIstyle__ProgressLine'] {
+    opacity: 1 !important;
+    border-right-color: ${black} !important;
+}
+
+IGNORE INLINE STYLE
+.recharts-sector
+
+================================
+
+mojosoft.com.pl
+
+INVERT
+img[src*="logo16"]
+img[src*="img/iko"]
+img[src*="img/ideabank"]
+img[src*="img/logo"]
+img[src*="img_logo"]
+#searchbox
+
+CSS
+#viewsh,
+#view,
+#szukajka,
+header,
+header.smaller #szukajka .inputsearch,
+#search_query,
+#mainMenusmall {
+    background-image: none !important;
+    background-color: var(--darkreader-neutral-background) !important;
+}
+#searchbox,
+select {
+    color: var(--darkreader-neutral-background) !important;
+}
+
+IGNORE INLINE STYLE
+header.smaller
+
+================================
+
+money.pl
+
+CSS
+.dynks {
+    color: ${#666666} !important;
+}
+a[href$="twitter.com/money_pl"] path:first-of-type {
+    --darkreader-inline-fill: transparent !important;
+}
+
+================================
+
+moto.pl
+
+INVERT
+img[src="https://bi.im-g.pl/im/0/24525/m24525630.png"]
+
+CSS
+.main_wrapper,
+.top_section_bg, .bottom_section_bg {
+    background-color: ${#e5e5e5} !important;
+}
+
+================================
+
+muratordom.pl
+
+INVERT
+.logo
+
+================================
+
+natemat.pl
+aszdziennik.pl
+innpoland.pl
+dadhero.pl
+mamadu.pl
+
+INVERT
+img[src*="/static/media/"]
+img[alt="close icon"]
+a[href="#comments"]
+.st1
+
+CSS
+img[class*="Footer--Logo"] {
+    background-color: #fff !important;
+}
+
+================================
+
+neonet.pl
+
+INVERT
+div[class^="newsSingleBar"] > div[class^="newsSingleBarHeaderWidescreen-category"]
+
+CSS
+div[class^="newsSingleBar"] > div[class^="newsSingleBarHeaderWidescreen-category"] {
+    color: ${white} !important;
+}
+
+================================
+
+niestatystyczny.pl
+
+INVERT
+div#logo > h1 > a > img
+
+================================
+
+nowafarmacja.pl
+
+INVERT
+.icon-chevron-down
+.payment-banners
+.hheader::after
+
+================================
+
+nowemedium.pl
+
+INVERT
+.logo-tagline-group
+.menu_toggle
+
+================================
+
+nvidia.pl
+
+INVERT
+.brand-container
+img[src*="Experience"]
+a[href*="facebook"]
+a[href*="twitter"]
+
+CSS
+body,
+.taboff {
+    background-image: none !important;
+}
+
+================================
+
+obserwatorgospodarczy.pl
+
+INVERT
+.logo-img
+
+================================
+
+oferteo.pl
+
+INVERT
+img[src*="oferteo-color"]
+ul.logo-box.text-center
+span.icon-gray.quotation-mark
+
+================================
+
+okonto.pl
+
+INVERT
+.imageWidget
+
+================================
+
+oleole.pl
+
+INVERT
+#logo::after
+div[id="brands-carousel"]
+div[id="footer-logo-brands"]
+img[src*="main_menu"]
+img[src*="SG/icon"]
+
+================================
+
+olx.pl
+
+CSS
+.searchmain {
+    background-color: var(--darkreader-inline-bgcolor) !important;
+}
+.wrapper, .footer-bottom {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+
+IGNORE IMAGE ANALYSIS
+.cat-icon.cat-cmt-icon-628
+.cat-icon.cat-cmt-icon-87
+.cat-icon.cat-cmt-icon-2433
+.maincategories .maincategories-list .li .item a[data-id="promo"] .category-1.cat-icon-promo
+.maincategories .maincategories-list .li .item a[data-id="promo"] .category-6.cat-icon-promo
+.maincategories .maincategories-list .li .item a[data-id="promo"] .category-8.cat-icon-promo
+.maincategories .maincategories-list .li .item a[data-id="promo"] .category-7.cat-icon-promo
+.maincategories .maincategories-list .li .item a[data-id="promo"] .category-2.cat-icon-promo
+.maincategories .maincategories-list .li .item a[data-id="promo"] .category-5.cat-icon-promo
+
+================================
+
+onet.pl
+plejada.pl
+
+INVERT
+[class*="WeatherDay_tempIcon"]
+._3ZySwSLi_pur0unnAQO2No
+.forecast img
+.icon-shareIcon svg
+.locationName svg
+.logo-cls-1
+.logoImageRight
+.serviceIcon
+.sheet
+.weatherBox .iconNow
+[class*="weatherIcon"]
+.websiteLogo
+[class*="Logo_"]
+a.serviceLogo img
+img[alt="O!Konto"]
+img[alt="Plejada.pl"]
+ul.contentList img.icon
+svg[class*="MenuIcon"]
+svg[class*="LoginIcon"]
+.weatherExtrasWidget__category-image img
+[class*="SponsorImage"]
+
+CSS
+.mainBoxBgHolder {
+    background-color: rgba(0, 0, 0, 0.25);
+    background-blend-mode: color;
+}
+.weatherMap .mapLayer .fil0, #weatherChartsHolder .chartValue {
+    fill: rgb(128, 128, 128) !important;
+}
+svg path[d^="M50.315,89"] {
+    fill: ${white} !important;
+}
+
+================================
+
+otomoto.pl
+
+INVERT
+.seller-card__links__link__icon
+
+================================
+
+pacjent.gov.pl
+
+CSS
+.hero-content {
+    color: var(--darkreader-neutral-background) !important;
+}
+
+================================
+
+paypal-doladowania.pl
+
+INVERT
+img[src*="/img/bank-logos/"]
+
+================================
+
+pch24.pl
+
+INVERT
+a[href="https://pch24.pl"] svg
+
+CSS
+a[href="https://pch24.pl"] svg path[fill="#1d1e1d"] {
+    --darkreader-inline-fill: ${white} !important;
+}
+
+================================
+
+perfekcyjnawdomu.pl
+
+INVERT
+img[src*="logo"]
+
+================================
+
+pilot.wp.pl
+
+INVERT
+.logo
+div > button > svg
+
+================================
+
+pixilart.com
+
+CSS
+.dark-mode-visible {
+    display: inline-block;
+}
+.light-mode-visible {
+    display: none;
+}
+.navbar-nav > .nav-item > .navbar-brand > img {
+    content: url("/images/public/logo_pixilart_simple_white.png?v=1.1");
+}
+
+IGNORE IMAGE ANALYSIS
+#image-art-modal
+
+================================
+
+pixlab.pl
+
+INVERT
+img[src*="trust_us"]
+
+================================
+
+planetagracza.pl
+
+INVERT
+p.site-title
+#footer .site-title a
+
+================================
+
+plotkibiznesowe.pl
+
+INVERT
+#logo
+
+================================
+
+polsatnews.pl
+
+CSS
+.news--over .news__category, .news--over .news__time, .news--over .news__title, .sent__title {
+    filter: none !important;
+}
+
+================================
+
+polskabiega.sport.pl
+
+CSS
+.main_wrapper {
+    background-color: #181a1b !important;
+}
+
+================================
+
+polskatimes.pl
+
+INVERT
+.componentsNavigationNavbar__logo
+
+================================
+
+poradnikzdrowie.pl
+
+INVERT
+.logo
+
+================================
+
+poszukiwania.pl
+
+INVERT
+.header-logo
+.footer-logo-address
+
+================================
+
+praca.pl
+
+INVERT
+img[alt="Praca.pl"]
+
+CSS
+.app-offer__content {
+    background-color: rgb(25, 26, 27) !important;
+}
+.szcont .f1top,
+.szcont .f1template_content {
+    background-color: rgba(0, 0, 0, 0.25) !important;
+    background-blend-mode: color;
+}
+.company__img {
+    padding: 0 0 !important;
+}
+.listing__logo,
+.app-offer__logo-img,
+.company__img,
+.employer-profile-header .logo img,
+.company-job-list .logo img,
+.epc-other-employers .logo img,
+.home__partner-logo {
+    filter: brightness(0.75)
+}
+
+IGNORE IMAGE ANALYSIS
+.szcont .f1top
+.szcont .f1template_content
+
+================================
+
+practicum.yandex.*
+
+INVERT
+img[src$="?color=000"]
+.progress-circle__shape
+.burger
+.lesson-progress__progress-bar
+.scrollbar__control-line
+input[aria-checked="true"] + .radio__control
+
+CSS
+.quiz-task {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+.icon-status-error > .shape2,
+.icon-status-error > .shape3,
+.icon-status-success > .shape2 {
+    fill: var(--darkreader-neutral-background) !important;
+}
+
+================================
+
+privat24.ua
+
+CSS
+div[class*=qrContainer] > div > div[class*=qr_] {
+    background-color: white;
+}
+
+================================
+
+pro-run.pl
+
+INVERT
+.td-main-logo
+
+================================
+
+psemu.pl
+
+CSS
+.menu-item {
+    text-shadow: rgb(40, 43, 54) 0px 1px 0px !important;
+}
+
+================================
+
+pyszne.pl
+lieferando.*
+justeat.*
+just-eat.*
+takeaway.com
+thuisbezorgd.nl
+
+INVERT
+.gm-style
+
+CSS
+.cover img, .logowrapper,
+.orderoverview__restaurant-image-container-inner,
+div[data-qa="avatar"] {
+    background-color: rgba(255, 255, 255, 0.5) !important;
+    background-blend-mode: color;
+}
+
+IGNORE INLINE STYLE
+svg > circle
+svg > text > tspan
+
+================================
+
+pz.gov.pl
+
+CSS
+.banner-text {
+    color: var(--darkreader-neutral-background) !important;
+}
+
+================================
+
+radar-opadow.pl
+
+INVERT
+#chase-map
+.ro_tooltip
+
+================================
+
+radio17.pl
+
+INVERT
+.main-title
+
+================================
+
+radiokolor.pl
+
+INVERT
+.nav-brand
+.buttons-1
+a.logo-1
+
+CSS
+.content-box-1 {
+    background-image: none !important;
+}
+
+================================
+
+reheader.glitch.me
+
+INVERT
+[src=$"GitHub-Mark.png"]
+[src=*"header-image-readme-gen.gif]
+[src=*"Screen%20Shot%202020-07-17%20at%205.19.18%20PM.png"]
+
+CSS
+#add-to-github {
+    background-color: #96943f !important;
+}
+#upload-github {
+    border: 1px solid #dddddd;
+}
+
+================================
+
+roblox.com
+
+CSS
+.checkbox input[type=checkbox]:checked + label::before {
+    background-color: var(--darkreader-neutral-text) !important;
+}
+
+================================
+
+rp.pl
+
+INVERT
+a[href="/"]
+.burger--menu span
+.icon-logo::before
+.footer--logo
+.footer--copyright--content div
+
+================================
+
+rpo.gov.pl
+
+INVERT
+.view-content .field-content > img
+#etykieta_szukaj a
+
+IGNORE IMAGE ANALYSIS
+#bip_kontener
+
+================================
+
+rudeiczarne.pl
+
+INVERT
+#logo
+#footer-logo
+
+================================
+
+rynek-kolejowy.pl
+
+INVERT
+.logoTK
+.partnerNaglowka
+.pasekbocznynaglowek span
+.portalLogo
+.tagLogo
+.zawartoscPartner
+img[alt="współpraca"]
+img[class="wspolpraca"]
+img[src*="img/firma"]
+img[src*="katalogkolejowy"]
+
+================================
+
+rynekzdrowia.pl
+
+INVERT
+img[src*="rynekzdrowia.svg"]
+img[alt*="partner"]
+.search
+.copyright > img
+
+================================
+
+rytmy.pl
+
+INVERT
+.logo-rytmy-a
+
+================================
+
+santander.pl
+
+INVERT
+img[src*="/santander/footer/"]
+.topVisual__text span
+.topVisual__content.topVisual__content--nobutton
+
+================================
+
+se.pl
+
+INVERT
+.mobile-bars
+
+================================
+
+sea.playblackdesert.com
+
+INVERT
+.original .characteristic .desc
+.original .characteristic h3
+.original .characteristic .feature li span
+
+================================
+
+secondlife.com
+
+INVERT
+nav > div > div > div[class$=-line]
+
+CSS
+div.hero-section.homepage.wf-section {
+    z-index: 0;
+}
+
+================================
+
+sejm.gov.pl
+
+CSS
+.main {
+    background-image: none !important;
+}
+
+================================
+
+sio2.staszic.waw.pl
+
+INVERT
+.texmath
+
+================================
+
+sklepbiegacza.pl
+
+INVERT
+.header__logo
+.button__icon
+.main-slider__nav-item
+.homepage__brand-logo
+.footer__list-image
+img.footer__image[src*=cash]
+.product__brand-logo
+.paypo-info__button
+
+================================
+
+skyscanner.*
+skyscanner.*.*
+backpack.github.io
+tianxun.cn
+whoflies.com
+
+CSS
+body {
+    background: ${white} !important;
+}
+[class*=bpk-flare-bar__curve] {
+    fill: ${white} !important;
+}
+
+================================
+
+slazag.pl
+
+INVERT
+.logo__wrapper
+.triangle-slazag-svg
+img.section-bg-absolute
+.footer__logo__section
+.focus__portals__banner__single
+
+================================
+
+smoglab.pl
+
+CSS
+.main-nav,
+.footer,
+.module-title .main-title  {
+    background-image: none !important;
+}
+
+================================
+
+spidersweb.pl
+
+INVERT
+.amp-site-title
+img[alt="logo bizBlog"]
+img[alt="bizblog to ludzie"]
+
+================================
+
+spidersweb.pl/plus
+
+INVERT
+a[href="/plus"] svg
+
+================================
+
+spidersweb.pl/rozrywka
+
+INVERT
+a[href="/rozrywka"] svg
+
+CSS
+a[href="/rozrywka"] svg path[fill="#211D26"] {
+    --darkreader-inline-fill: ${white} !important;
+}
+
+================================
+
+stooq.pl
+
+CSS
+a[href="//stooq.pl"] path:not([fill]) {
+    fill: var(--darkreader-neutral-text) !important;
+}
+
+================================
+
+store.playstation.com
+
+INVERT
+.psw-brand-text--playstation-store
+
+================================
+
+studyflix.de
+
+INVERT
+img[title='Rendered by QuickLaTeX.com']
+
+================================
+
+subiektywnieofinansach.pl
+
+INVERT
+.logo
+
+================================
+
+svt.se
+
+INVERT
+header img[src*=svt]
+.nyh_navigation__menu-toggle
+[class^="VideoPlayerTheme__play-pause-button-simple"]::before
+[class^="_play-pause-button-simple"]::before
+
+CSS
+.nyh_breaking__top-prefix,
+.nyh_teaser__live-text {
+    color: var(--darkreader-neutral-background) !important;
+}
+button[class^="PaginationButton"],
+a[class^="PaginationButton"],
+.nyh_screamer,
+[class^="_RightNowTeaser__title"],
+[class^="_RightNowTeaser__root"] {
+    background: var(--darkreader-bg--nyh-color-white) !important;
+    border-left-color: var(--darkreader-bg--nyh-color-news);
+}
+button[class^="PaginationButton"]:hover,
+a[class^="PaginationButton"]:hover {
+    background: var(--darkreader-border--color-play-white) !important;
+}
+.flexbox .nyh_teaser.nyh_teaser--group-secondary {
+    border-right: none !important;
+}
+[class*="GroupSecondaryTeasers__container___"],
+.nyh_feedbox-item+.nyh_feedbox-item,
+.nyh_teaser.nyh_teaser--no-border-top {
+    border-top: none !important;
+}
+.nyh_navigation .nyh_submenu::before {
+    border-bottom-color: var(--darkreader-bg--nyh-color-white) !important;
+}
+.nyh_teaser.nyh_teaser--story-grid,
+.nyh_icons_caret--factbox {
+    border: none;
+}
+.nyh_submenu-menucard,
+[class*="_Post__contentVisitor___"]::after {
+    border-right-color: var(--darkreader-bg--nyh-color-grey-lighter) !important;
+}
+[class*="CurrentTopics__item___"],
+[class*="GroupSecondaryTeasers__showMoreButton___"],
+.nyh_mobile-menu__list-item,
+.nyh_menu-card__submenu-item,
+.nyh_submenu-menucard,
+.nyh_submenu {
+    border-color: var(--darkreader-border--nyh-color-grey-lighter) !important;
+}
+.nyh_fact-box {
+    border-bottom: 1px solid var(--darkreader-border--nyh-color-grey-lighter);
+    border-top: 1px solid var(--darkreader-border--nyh-color-grey-lighter);
+}
+.nyh_fact-box__body--closed::after {
+    background: linear-gradient(to bottom, #1e202180 0%, #1e2021 100%);
+}
+.nyh_regional-widget-regions {
+    background: var(--darkreader-bg--nyh-color-grey-lightest);
+}
+.nyh_submenu-menucard {
+    background-color: var(--darkreader-bg--nyh-color-white);
+}
+
+================================
+
+t-mobile.pl
+
+INVERT
+img[src*="quick-redirects"]
+.text-base-black ::before
+
+CSS
+.preview-image,
+.inner-container,
+.bg-base-secondary-10 {
+    background-image: none !important;
+}
+
+================================
+
+techmaniak.pl
+activemaniak.pl
+agdmaniak.pl
+appmaniak.pl
+blogomaniak.pl
+fotomaniak.pl
+gizmaniak.pl
+gsmmaniak.pl
+luxmaniak.pl
+mobimaniak.pl
+rtvmaniak.pl
+tabletmaniak.pl
+
+CSS
+body,
+#headerNavBlogomaniak,
+#header,
+#top,
+#bottom,
+#footer,
+#footer_menu,
+.wrapper,
+#search input.search {
+    background-color: var(--darkreader-neutral-background) !important;
+    background-image: none !important;
+}
+
+================================
+
+teleman.pl
+
+INVERT
+.movieRank
+
+================================
+
+terazwy.pl
+
+INVERT
+img[src*="img/loga"]
+img[src*="img/logotr.png"]
+
+================================
+
+tokfm.pl
+
+INVERT
+.controls span.play svg
+
+CSS
+div.top_section_bg,
+div.bottom_section_bg {
+    background-color: ${#e7e5e4} !important;
+}
+body.desk #content {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+
+================================
+
+totylkoteoria.pl
+
+INVERT
+.site-branding
+.header__socials
+
+CSS
+.hero {
+    background-image: none !important;
+}
+
+================================
+
+trojmiasto.pl
+
+INVERT
+img[alt*="Trojmiasto.pl"]
+
+================================
+
+truestory.pl
+
+INVERT
+.tdb-logo-img
+
+================================
+
+tvn24.pl
+
+INVERT
+.header-menu__more-button
+.hamburger-icon
+
+================================
+
+tygodnikkrag.pl
+
+INVERT
+#header-logo-image
+
+================================
+
+ubereats.com
+
+INVERT
+img[alt*='Home']
+div[class^='c5'] .gm-style
+#main-content > h1 + div
+#wrapper > div:nth-of-type(2)
+#wrapper > div:nth-of-type(2) > header
+#wrapper > div:nth-of-type(2) > footer
+#wrapper > div:nth-of-type(2) > #main-content > div:first-child
+
+================================
+
+uokik.gov.pl
+
+INVERT
+.a-press-office
+.abgLong
+h1[id="logo"]
+p a
+p.nav img
+span[class="number"]
+ul[class="tabs"]
+
+CSS
+#subpage,
+.sWrapper1,
+.sWrapper2,
+.tabs,
+body#page,
+div#right,
+div#top,
+div.fWrapper,
+div[class="b1"],
+h2#here {
+    background-image: none !important;
+}
+#footer .active {
+    color: #000000 !important;
+}
+
+================================
+
+uteka.ru
+
+INVERT
+img[src$="/static/img/logo.svg?v=12"]
+ymaps[class$="ground-pane"]
+
+================================
+
+vg24.pl
+
+INVERT
+img[alt="VG24.PL logo"]
+
+================================
+
+vod.tvp.pl
+
+INVERT
+img[alt="serwisy tvp"]
+
+================================
+
+whitemad.pl
+
+INVERT
+#logo
+#cb-nav-logo
+
+================================
+
+wiadomoscihandlowe.pl
+
+INVERT
+.dropdown-portal__link
+.hamburger__button span
+.search__icon
+
+================================
+
+wielkopolskiebilety.pl
+
+INVERT
+.KW__headerContainer
+.logo
+.map-container
+img[src*="carriers/"]
+
+================================
+
+wiesci24.pl
+
+INVERT
+.tdb-logo-img
+
+================================
+
+wirtualnemedia.pl
+
+INVERT
+img[src$="logo-black.gif"]
+
+================================
+
+wszystkoconajwazniejsze.pl
+
+CSS
+#papier img {
+    mix-blend-mode: normal !important;
+}
+
+================================
+
+wyborcza.pl
+wyborcza.biz
+
+INVERT
+#wH_username_wrap img
+.account-cap--logo
+.cap-navigation--back
+.cap-vignette--logo-image
+.header-cap-holder a img
+.nmk_avatar-icon
+.partners-list-item
+.partners-list-item-text
+.podcast-player-control ::after
+.podcast-player-time-progress
+.return-back img
+.wyborcza-logo
+a[title="Aplikacja wyborcza.pl"]
+img.logo
+.button svg
+.btn.pull-right.dismiss
+
+================================
+
+wysokieobcasy.pl
+
+INVERT
+.vin-img-link-pic.vin-local-img-link-pic
+
+================================
+
+x-kom.pl
+
+INVERT
+a[href="/"] img
+a[href="https://x-kom.pl"] img
+a[href="https://www.x-kom.pl"] img
+div[title*="panel"] svg
+img[alt="Menu"]
+img[alt*="Logo"]
+img[src*="Logo_strefy_marek"]
+img[src*="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iM"]
+img[src*="data:image/svg+xml;base64,PHN2ZyB4bWxucz0ia"]
+.geex a img
+a[href="https://geex.x-kom.pl/"] img
+img[alt="Geex logotyp"]
+
+CSS
+.ePVVIv {
+    filter: brightness(0.8);
+}
+
+================================
+
+zdw.krakow.pl
+
+CSS
+#kw-alert p,
+#kw-alert a {
+    color: initial !important;
+}
+
+================================
+
+zrzutka.pl
+
+INVERT
+.navbar-logo
+.rounded-circle
+
+================================
+
+zybooks.com
+
+CSS
+.image-content-resource img,
+.zyimage {
+    background-color: var(--darkreader-neutral-text) !important;
+}
