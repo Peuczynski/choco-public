@@ -12,7 +12,7 @@ try {
     for (const siteData of sites) {
         const lines = siteData.split('\n').filter((l) => l.length);
         const name = lines[0];
-        const fileName = name == '*' ? 'css/globul.css' : `css/${name[0]}.css`;
+        const fileName = name == '*' ? 'css-cdn/globul.css' : `css-cdn/${name[0]}.css`;
         // const entry = {
         //     name,
         //     fileName,
