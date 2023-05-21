@@ -1,1 +1,65 @@
-t-mobile.pl,INVERT,img[src*="quick-redirects"],.text-base-black ::before,CSS,.preview-image,,.inner-container,,.bg-base-secondary-10 {,    background-image: none !important;,}================================techmaniak.pl,activemaniak.pl,agdmaniak.pl,appmaniak.pl,blogomaniak.pl,fotomaniak.pl,gizmaniak.pl,gsmmaniak.pl,luxmaniak.pl,mobimaniak.pl,rtvmaniak.pl,tabletmaniak.pl,CSS,body,,#headerNavBlogomaniak,,#header,,#top,,#bottom,,#footer,,#footer_menu,,.wrapper,,#search input.search {,    background-color: var(--darkreader-neutral-background) !important;,    background-image: none !important;,}================================teleman.pl,INVERT,.movieRank================================terazwy.pl,INVERT,img[src*="img/loga"],img[src*="img/logotr.png"]================================tokfm.pl,INVERT,.controls span.play svg,CSS,div.top_section_bg,,div.bottom_section_bg {,    background-color: ${#e7e5e4} !important;,},body.desk #content {,    background-color: var(--darkreader-neutral-background) !important;,}================================totylkoteoria.pl,INVERT,.site-branding,.header__socials,CSS,.hero {,    background-image: none !important;,}================================trojmiasto.pl,INVERT,img[alt*="Trojmiasto.pl"]================================truestory.pl,INVERT,.tdb-logo-img================================tvn24.pl,INVERT,.header-menu__more-button,.hamburger-icon================================tygodnikkrag.pl,INVERT,#header-logo-image
+t-mobile.pl
+INVERT
+img[src*="quick-redirects"]
+.text-base-black ::before
+CSS
+.preview-image,
+.inner-container,
+.bg-base-secondary-10 {
+    background-image: none !important;
+}================================techmaniak.pl
+activemaniak.pl
+agdmaniak.pl
+appmaniak.pl
+blogomaniak.pl
+fotomaniak.pl
+gizmaniak.pl
+gsmmaniak.pl
+luxmaniak.pl
+mobimaniak.pl
+rtvmaniak.pl
+tabletmaniak.pl
+CSS
+body,
+#headerNavBlogomaniak,
+#header,
+#top,
+#bottom,
+#footer,
+#footer_menu,
+.wrapper,
+#search input.search {
+    background-color: var(--darkreader-neutral-background) !important;
+    background-image: none !important;
+}================================teleman.pl
+INVERT
+.movieRank================================terazwy.pl
+INVERT
+img[src*="img/loga"]
+img[src*="img/logotr.png"]================================tokfm.pl
+INVERT
+.controls span.play svg
+CSS
+div.top_section_bg,
+div.bottom_section_bg {
+    background-color: ${#e7e5e4} !important;
+}
+body.desk #content {
+    background-color: var(--darkreader-neutral-background) !important;
+}================================totylkoteoria.pl
+INVERT
+.site-branding
+.header__socials
+CSS
+.hero {
+    background-image: none !important;
+}================================trojmiasto.pl
+INVERT
+img[alt*="Trojmiasto.pl"]================================truestory.pl
+INVERT
+.tdb-logo-img================================tvn24.pl
+INVERT
+.header-menu__more-button
+.hamburger-icon================================tygodnikkrag.pl
+INVERT
+#header-logo-image

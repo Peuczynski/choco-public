@@ -1,1 +1,84 @@
-akcemed.pl,INVERT,.td-main-menu-logo,.footer-logo-wrap================================allegro.pl,INVERT,i[title="Smart!"],ol[data-role="slidesList"] > li[data-analytics-view-value="Smart! Week już od 10 października"],ul[data-role="image-tiles"] > li[data-analytics-view-opbox-custom-destination-url="https://allegro.pl/kampania/smartweek"],a[data-analytics-click-value="Smart lokalnie"],img[alt="Zakup z pakietem Smart"],div.sob6jg.so1d89.mpof_ki,.so15i8,.mpof_ki.m389_6m > h6,.indiana-scroll-container > ul[role="radiogroup"],div[data-analytics-view-label="sellersOffersGroup"],div[data-analytics-category="allegro.container"],div[data-analytics-interaction-value="DELIVERY_FREEBOX"] div,form[name="payments"],a[data-analytics-click-label="offerClick"],._292b3_juwzk,img[src="https://assets.allegrostatic.com/freebox/icons/FREEBOX_NOMARGIN.svg"],img[src^="https://assets.allegrostatic.com/metrum/icon/smart-"],button[data-analytics-interaction-label="quantitySelector"],CSS,#opbox-listing--base i,,article i {,    background-size: 100% 100% !important;,},._k70df, ._6a66d_JDgwQ {,    background-color: var(--darkreader-neutral-background) !important;,},._6a66d_YapB2:hover, ._6a66d_JDgwQ:hover {,    background-color: #1F2224 !important;,},IGNORE IMAGE ANALYSIS,._12h65================================allegrolokalnie.pl,INVERT,.mlc-masthead__branding,.mlc-site-footer__branding================================ang.pl,CSS,body {,    background-image: none !important;,}================================antywirus-nod32.pl,CSS,.module.infolinia {,    background-image: none !important;,}================================app.betrybe.com,INVERT,section.quiz-result__template summary,section.quiz-result__template summary .block-code,CSS,.home-projects details,,.header button,,.header a,,.module-index-content {,   background-color: transparent !important,},.header button:hover,,.header a:hover,,.module-index-content summary:active,,.quiz-question label {,   background-color: var(--darkreader-neutral-background) !important,},.quiz-question label p {,   color: rgb(180, 200, 255) !important,},.quiz-question__alternatives label:hover,,.quiz-question__alternatives input[type=radio]:checked + label {,   background: initial !important,}================================architekturaibiznes.pl,INVERT,.icon-section,a span.image-rwd-dzial-logo================================audycje.tokfm.pl/widget,CSS,body {,     background-color: var(--darkreader-neutral-background) !important;,}================================avanti24.pl,INVERT,.box-logo================================avlab.pl,INVERT,img[src*="avlab-logo"],img[alt*="logo"],.elementor-widget-wrap div div a.elementor-icon svg,.elementor-social-icons-wrapper
+akcemed.pl
+INVERT
+.td-main-menu-logo
+.footer-logo-wrap================================allegro.pl
+INVERT
+i[title="Smart!"]
+ol[data-role="slidesList"] > li[data-analytics-view-value="Smart! Week już od 10 października"]
+ul[data-role="image-tiles"] > li[data-analytics-view-opbox-custom-destination-url="https://allegro.pl/kampania/smartweek"]
+a[data-analytics-click-value="Smart lokalnie"]
+img[alt="Zakup z pakietem Smart"]
+div.sob6jg.so1d89.mpof_ki
+.so15i8
+.mpof_ki.m389_6m > h6
+.indiana-scroll-container > ul[role="radiogroup"]
+div[data-analytics-view-label="sellersOffersGroup"]
+div[data-analytics-category="allegro.container"]
+div[data-analytics-interaction-value="DELIVERY_FREEBOX"] div
+form[name="payments"]
+a[data-analytics-click-label="offerClick"]
+._292b3_juwzk
+img[src="https://assets.allegrostatic.com/freebox/icons/FREEBOX_NOMARGIN.svg"]
+img[src^="https://assets.allegrostatic.com/metrum/icon/smart-"]
+button[data-analytics-interaction-label="quantitySelector"]
+CSS
+#opbox-listing--base i,
+article i {
+    background-size: 100% 100% !important;
+}
+._k70df, ._6a66d_JDgwQ {
+    background-color: var(--darkreader-neutral-background) !important;
+}
+._6a66d_YapB2:hover, ._6a66d_JDgwQ:hover {
+    background-color: #1F2224 !important;
+}
+IGNORE IMAGE ANALYSIS
+._12h65================================allegrolokalnie.pl
+INVERT
+.mlc-masthead__branding
+.mlc-site-footer__branding================================ang.pl
+CSS
+body {
+    background-image: none !important;
+}================================antywirus-nod32.pl
+CSS
+.module.infolinia {
+    background-image: none !important;
+}================================app.betrybe.com
+INVERT
+section.quiz-result__template summary
+section.quiz-result__template summary .block-code
+CSS
+.home-projects details,
+.header button,
+.header a,
+.module-index-content {
+   background-color: transparent !important
+}
+.header button:hover,
+.header a:hover,
+.module-index-content summary:active,
+.quiz-question label {
+   background-color: var(--darkreader-neutral-background) !important
+}
+.quiz-question label p {
+   color: rgb(180, 200, 255) !important
+}
+.quiz-question__alternatives label:hover,
+.quiz-question__alternatives input[type=radio]:checked + label {
+   background: initial !important
+}================================architekturaibiznes.pl
+INVERT
+.icon-section
+a span.image-rwd-dzial-logo================================audycje.tokfm.pl/widget
+CSS
+body {
+     background-color: var(--darkreader-neutral-background) !important;
+}================================avanti24.pl
+INVERT
+.box-logo================================avlab.pl
+INVERT
+img[src*="avlab-logo"]
+img[alt*="logo"]
+.elementor-widget-wrap div div a.elementor-icon svg
+.elementor-social-icons-wrapper

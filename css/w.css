@@ -1,1 +1,41 @@
-whitemad.pl,INVERT,#logo,#cb-nav-logo================================wiadomoscihandlowe.pl,INVERT,.dropdown-portal__link,.hamburger__button span,.search__icon================================wielkopolskiebilety.pl,INVERT,.KW__headerContainer,.logo,.map-container,img[src*="carriers/"]================================wiesci24.pl,INVERT,.tdb-logo-img================================wirtualnemedia.pl,INVERT,img[src$="logo-black.gif"]================================wszystkoconajwazniejsze.pl,CSS,#papier img {,    mix-blend-mode: normal !important;,}================================wyborcza.pl,wyborcza.biz,INVERT,#wH_username_wrap img,.account-cap--logo,.cap-navigation--back,.cap-vignette--logo-image,.header-cap-holder a img,.nmk_avatar-icon,.partners-list-item,.partners-list-item-text,.podcast-player-control ::after,.podcast-player-time-progress,.return-back img,.wyborcza-logo,a[title="Aplikacja wyborcza.pl"],img.logo,.button svg,.btn.pull-right.dismiss================================wysokieobcasy.pl,INVERT,.vin-img-link-pic.vin-local-img-link-pic
+whitemad.pl
+INVERT
+#logo
+#cb-nav-logo================================wiadomoscihandlowe.pl
+INVERT
+.dropdown-portal__link
+.hamburger__button span
+.search__icon================================wielkopolskiebilety.pl
+INVERT
+.KW__headerContainer
+.logo
+.map-container
+img[src*="carriers/"]================================wiesci24.pl
+INVERT
+.tdb-logo-img================================wirtualnemedia.pl
+INVERT
+img[src$="logo-black.gif"]================================wszystkoconajwazniejsze.pl
+CSS
+#papier img {
+    mix-blend-mode: normal !important;
+}================================wyborcza.pl
+wyborcza.biz
+INVERT
+#wH_username_wrap img
+.account-cap--logo
+.cap-navigation--back
+.cap-vignette--logo-image
+.header-cap-holder a img
+.nmk_avatar-icon
+.partners-list-item
+.partners-list-item-text
+.podcast-player-control ::after
+.podcast-player-time-progress
+.return-back img
+.wyborcza-logo
+a[title="Aplikacja wyborcza.pl"]
+img.logo
+.button svg
+.btn.pull-right.dismiss================================wysokieobcasy.pl
+INVERT
+.vin-img-link-pic.vin-local-img-link-pic

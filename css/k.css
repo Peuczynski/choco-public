@@ -1,1 +1,46 @@
-kapitanbomba.pl,INVERT,.custom-logo================================kartotekaonline.pl,CSS,body {,    background-image: none !important;,}================================kiedyprzyjedzie.pl,INVERT,.cluster-marker div,.leaflet-pane > .leaflet-layer,CSS,.cluster-marker div span {,    color: var(--darkreader-neutral-background) !important;,}================================klubjagiellonski.pl,INVERT,.logo,.site_hamb svg================================komorkomat.pl,INVERT,.navbar-brand > img,.owl-wrapper,.result-item-logo================================komputerswiat.pl,INVERT,.serviceLogoImg,.serviceIcon,.secondaryLogoImg================================konkret24.tvn24.pl,INVERT,.header-left-corner__logo,.menu-button__bars,.report-toggle-button__icon,.search-panel-toggle-button__icon================================konto.onet.pl/signin,INVERT,img[alt="Business Insider"]================================kopalniawiedzy.pl,INVERT,img[alt="Patronite"]================================korso24.pl,korsosanockie.pl,INVERT,img.weather-box__img,.nav-top__logo-wrapper,.nav-top__footer-burger > div > span,a.footer__logo================================krytykapolityczna.pl,INVERT,img[src*="logo"]================================ksiegowawsieci.pl,INVERT,.logo================================kulinarnyblog.pl,INVERT,.logo-img
+kapitanbomba.pl
+INVERT
+.custom-logo================================kartotekaonline.pl
+CSS
+body {
+    background-image: none !important;
+}================================kiedyprzyjedzie.pl
+INVERT
+.cluster-marker div
+.leaflet-pane > .leaflet-layer
+CSS
+.cluster-marker div span {
+    color: var(--darkreader-neutral-background) !important;
+}================================klubjagiellonski.pl
+INVERT
+.logo
+.site_hamb svg================================komorkomat.pl
+INVERT
+.navbar-brand > img
+.owl-wrapper
+.result-item-logo================================komputerswiat.pl
+INVERT
+.serviceLogoImg
+.serviceIcon
+.secondaryLogoImg================================konkret24.tvn24.pl
+INVERT
+.header-left-corner__logo
+.menu-button__bars
+.report-toggle-button__icon
+.search-panel-toggle-button__icon================================konto.onet.pl/signin
+INVERT
+img[alt="Business Insider"]================================kopalniawiedzy.pl
+INVERT
+img[alt="Patronite"]================================korso24.pl
+korsosanockie.pl
+INVERT
+img.weather-box__img
+.nav-top__logo-wrapper
+.nav-top__footer-burger > div > span
+a.footer__logo================================krytykapolityczna.pl
+INVERT
+img[src*="logo"]================================ksiegowawsieci.pl
+INVERT
+.logo================================kulinarnyblog.pl
+INVERT
+.logo-img

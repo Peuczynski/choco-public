@@ -1,1 +1,27 @@
-ebok.pgnig.pl,INVERT,img[src*="logo"]================================ebok.vectra.pl,CSS,.side-floater {,    background-image: none !important;,}================================enea.pl,INVERT,.menu__logo,.navbar-brand,.slider-content > .slider-title,CSS,.col-lg-12.col-md-12 > div > div > p {,    color: var(--darkreader-neutral-background) !important;,},.bkg-icon,,.left-bkg-icon {,    color: ${white} !important;,}================================experiencia.xpi.com.br,INVERT,#yield-portal-header a.xpi__header__logo svg path,#yield-portal-header a.xpi__error__logo svg path,#chart-profitability > div:nth-child(2) > svg > g > g:nth-child(2) > g:nth-child(1) > g > g > g > g:nth-child(2) > g > g:nth-child(1) > g:nth-child(2) > g:nth-child(2) > g > text > tspan,CSS,#chart-patrimony g[role='menu'] ~ g tspan {,    color: var(--darkreader-neutral-text) !important;,}
+ebok.pgnig.pl
+INVERT
+img[src*="logo"]================================ebok.vectra.pl
+CSS
+.side-floater {
+    background-image: none !important;
+}================================enea.pl
+INVERT
+.menu__logo
+.navbar-brand
+.slider-content > .slider-title
+CSS
+.col-lg-12.col-md-12 > div > div > p {
+    color: var(--darkreader-neutral-background) !important;
+}
+.bkg-icon,
+.left-bkg-icon {
+    color: ${white} !important;
+}================================experiencia.xpi.com.br
+INVERT
+#yield-portal-header a.xpi__header__logo svg path
+#yield-portal-header a.xpi__error__logo svg path
+#chart-profitability > div:nth-child(2) > svg > g > g:nth-child(2) > g:nth-child(1) > g > g > g > g:nth-child(2) > g > g:nth-child(1) > g:nth-child(2) > g:nth-child(2) > g > text > tspan
+CSS
+#chart-patrimony g[role='menu'] ~ g tspan {
+    color: var(--darkreader-neutral-text) !important;
+}

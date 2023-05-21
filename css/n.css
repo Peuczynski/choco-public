@@ -1,1 +1,39 @@
-natemat.pl,aszdziennik.pl,innpoland.pl,dadhero.pl,mamadu.pl,INVERT,img[src*="/static/media/"],img[alt="close icon"],a[href="#comments"],.st1,CSS,img[class*="Footer--Logo"] {,    background-color: #fff !important;,}================================neonet.pl,INVERT,div[class^="newsSingleBar"] > div[class^="newsSingleBarHeaderWidescreen-category"],CSS,div[class^="newsSingleBar"] > div[class^="newsSingleBarHeaderWidescreen-category"] {,    color: ${white} !important;,}================================niestatystyczny.pl,INVERT,div#logo > h1 > a > img================================nowafarmacja.pl,INVERT,.icon-chevron-down,.payment-banners,.hheader::after================================nowemedium.pl,INVERT,.logo-tagline-group,.menu_toggle================================nvidia.pl,INVERT,.brand-container,img[src*="Experience"],a[href*="facebook"],a[href*="twitter"],CSS,body,,.taboff {,    background-image: none !important;,}
+natemat.pl
+aszdziennik.pl
+innpoland.pl
+dadhero.pl
+mamadu.pl
+INVERT
+img[src*="/static/media/"]
+img[alt="close icon"]
+a[href="#comments"]
+.st1
+CSS
+img[class*="Footer--Logo"] {
+    background-color: #fff !important;
+}================================neonet.pl
+INVERT
+div[class^="newsSingleBar"] > div[class^="newsSingleBarHeaderWidescreen-category"]
+CSS
+div[class^="newsSingleBar"] > div[class^="newsSingleBarHeaderWidescreen-category"] {
+    color: ${white} !important;
+}================================niestatystyczny.pl
+INVERT
+div#logo > h1 > a > img================================nowafarmacja.pl
+INVERT
+.icon-chevron-down
+.payment-banners
+.hheader::after================================nowemedium.pl
+INVERT
+.logo-tagline-group
+.menu_toggle================================nvidia.pl
+INVERT
+.brand-container
+img[src*="Experience"]
+a[href*="facebook"]
+a[href*="twitter"]
+CSS
+body,
+.taboff {
+    background-image: none !important;
+}

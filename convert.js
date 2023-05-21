@@ -23,7 +23,7 @@ try {
             entries[fileName] = [];
         }
 
-        entries[fileName].push(lines);
+        entries[fileName].push(lines.join('\n'));
     }
 
     for (const fileName of Object.keys(entries)) {

@@ -1,1 +1,36 @@
-ubereats.com,INVERT,img[alt*='Home'],div[class^='c5'] .gm-style,#main-content > h1 + div,#wrapper > div:nth-of-type(2),#wrapper > div:nth-of-type(2) > header,#wrapper > div:nth-of-type(2) > footer,#wrapper > div:nth-of-type(2) > #main-content > div:first-child================================uokik.gov.pl,INVERT,.a-press-office,.abgLong,h1[id="logo"],p a,p.nav img,span[class="number"],ul[class="tabs"],CSS,#subpage,,.sWrapper1,,.sWrapper2,,.tabs,,body#page,,div#right,,div#top,,div.fWrapper,,div[class="b1"],,h2#here {,    background-image: none !important;,},#footer .active {,    color: #000000 !important;,}================================uteka.ru,INVERT,img[src$="/static/img/logo.svg?v=12"],ymaps[class$="ground-pane"]
+ubereats.com
+INVERT
+img[alt*='Home']
+div[class^='c5'] .gm-style
+#main-content > h1 + div
+#wrapper > div:nth-of-type(2)
+#wrapper > div:nth-of-type(2) > header
+#wrapper > div:nth-of-type(2) > footer
+#wrapper > div:nth-of-type(2) > #main-content > div:first-child================================uokik.gov.pl
+INVERT
+.a-press-office
+.abgLong
+h1[id="logo"]
+p a
+p.nav img
+span[class="number"]
+ul[class="tabs"]
+CSS
+#subpage,
+.sWrapper1,
+.sWrapper2,
+.tabs,
+body#page,
+div#right,
+div#top,
+div.fWrapper,
+div[class="b1"],
+h2#here {
+    background-image: none !important;
+}
+#footer .active {
+    color: #000000 !important;
+}================================uteka.ru
+INVERT
+img[src$="/static/img/logo.svg?v=12"]
+ymaps[class$="ground-pane"]

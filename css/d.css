@@ -1,1 +1,91 @@
-decathlon.pl,INVERT,.dkt_logo,.benefit-icon,IGNORE IMAGE ANALYSIS,*================================di.com.pl,INVERT,img[alt*="Dziennik Internautów"],CSS,div#naglowek {,    background-image: none !important;,}================================dlagentlemana.pl,INVERT,div.f-grid-3.logo-column > a > img,div.opineo-side-slider-widget > button,.logo-bar img================================dnscrypt.pl,INVERT,.logo================================doba.pl,INVERT,.social,img[src*="logo.png"],img[src*="/img/powiaty/"]================================dobreprogramy.pl,CSS,header a[href="/"] svg {,    fill: #fff !important;,}================================donald.pl,INVERT,a[href="/"]================================dziennik.pl,INVERT,img[alt="Dziennik"]================================dziennikbaltycki.pl,dzienniklodzki.pl,dziennikpolski24.pl,echodnia.eu,expressbydgoski.pl,expressilustrowany.pl,gazetakrakowska.pl,gazetalubuska.pl,gazetawroclawska.pl,gk24.pl,gloswielkopolski.pl,gol24.pl,gp24.pl,gra.pl,gs24.pl,i.pl,kurierlubelski.pl,motofakty.pl,naszemiasto.pl,nowiny24.pl,nowosci.com.pl,nto.pl,pomorska.pl,poranny.pl,sportowy24.pl,strefaagro.pl,strefabiznesu.pl,strefaedukacji.pl,stronakobiet.pl,stronazdrowia.pl,telemagazyn.pl,to.com.pl,wspolczesna.pl,INVERT,.atomsArticleFoot__tools svg,.atomsCommentsExposition__icon svg,.atomsGalleryButtonsNavigation__left svg,.atomsGalleryButtonsNavigation__right svg,.atomsNavigationBreadcrumbs__content svg,.atomsNavigationFooterLinks__logo,.atomsSocialmediaExposition__content svg,.componentsGalleryNavbar__btn_close,.componentsGalleryNavbar__logo,.componentsNavigationMenu__logo,.componentsNavigationNavbar__logo,.componentsNavigationTopnavbar__icons div span svg,a[href="https://i.pl/firmy"] svg,a[href="https://i.pl/szukaj"] svg,CSS,svg path[d^="M154.992 47.9999H128L13"],,svg path[d^="M64 28L68 24V15.9999H82"] {,    fill: ${black} !important;,}================================dzienniknaukowy.pl,INVERT,.top-logo================================dziennikprawny.pl,INVERT,a[href="/"],.fullba,CSS,.fullba {,    background-image: none !important;,}
+decathlon.pl
+INVERT
+.dkt_logo
+.benefit-icon
+IGNORE IMAGE ANALYSIS
+*================================di.com.pl
+INVERT
+img[alt*="Dziennik Internautów"]
+CSS
+div#naglowek {
+    background-image: none !important;
+}================================dlagentlemana.pl
+INVERT
+div.f-grid-3.logo-column > a > img
+div.opineo-side-slider-widget > button
+.logo-bar img================================dnscrypt.pl
+INVERT
+.logo================================doba.pl
+INVERT
+.social
+img[src*="logo.png"]
+img[src*="/img/powiaty/"]================================dobreprogramy.pl
+CSS
+header a[href="/"] svg {
+    fill: #fff !important;
+}================================donald.pl
+INVERT
+a[href="/"]================================dziennik.pl
+INVERT
+img[alt="Dziennik"]================================dziennikbaltycki.pl
+dzienniklodzki.pl
+dziennikpolski24.pl
+echodnia.eu
+expressbydgoski.pl
+expressilustrowany.pl
+gazetakrakowska.pl
+gazetalubuska.pl
+gazetawroclawska.pl
+gk24.pl
+gloswielkopolski.pl
+gol24.pl
+gp24.pl
+gra.pl
+gs24.pl
+i.pl
+kurierlubelski.pl
+motofakty.pl
+naszemiasto.pl
+nowiny24.pl
+nowosci.com.pl
+nto.pl
+pomorska.pl
+poranny.pl
+sportowy24.pl
+strefaagro.pl
+strefabiznesu.pl
+strefaedukacji.pl
+stronakobiet.pl
+stronazdrowia.pl
+telemagazyn.pl
+to.com.pl
+wspolczesna.pl
+INVERT
+.atomsArticleFoot__tools svg
+.atomsCommentsExposition__icon svg
+.atomsGalleryButtonsNavigation__left svg
+.atomsGalleryButtonsNavigation__right svg
+.atomsNavigationBreadcrumbs__content svg
+.atomsNavigationFooterLinks__logo
+.atomsSocialmediaExposition__content svg
+.componentsGalleryNavbar__btn_close
+.componentsGalleryNavbar__logo
+.componentsNavigationMenu__logo
+.componentsNavigationNavbar__logo
+.componentsNavigationTopnavbar__icons div span svg
+a[href="https://i.pl/firmy"] svg
+a[href="https://i.pl/szukaj"] svg
+CSS
+svg path[d^="M154.992 47.9999H128L13"],
+svg path[d^="M64 28L68 24V15.9999H82"] {
+    fill: ${black} !important;
+}================================dzienniknaukowy.pl
+INVERT
+.top-logo================================dziennikprawny.pl
+INVERT
+a[href="/"]
+.fullba
+CSS
+.fullba {
+    background-image: none !important;
+}
