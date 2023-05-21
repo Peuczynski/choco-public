@@ -1,0 +1,1 @@
+vg24.pl,INVERT,img[alt="VG24.PL logo"]================================vod.tvp.pl,INVERT,img[alt="serwisy tvp"]
